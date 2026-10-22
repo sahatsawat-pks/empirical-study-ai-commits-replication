@@ -1,0 +1,769 @@
+id,commit_sha,repo_full_name,source,commit_url,validator_1_label,validator_2_label,final_consensus_label,matched_rule_id,matched_rule_name,rule_evidence,rule_1_actor_login_match,rule_2_author_email_match,rule_3_author_name_match,rule_4_coauthor_trailer_match,rule_6_bot_account_authorship_match,rule_9_semantic_attribution_match,rule_10_initial_plan_zero_change_match
+1,2013512bc4c55a115dd28844de1d47f697c51df1,pdfme/pdfme,AIDev,https://github.com/pdfme/pdfme/commit/2013512bc4c55a115dd28844de1d47f697c51df1,Human,AI,Human,,,,0,0,0,0,0,0,0
+2,7911f48ea458d40e4e411bc4d6b811a59bf84c23,dotnet/android-libraries,AIDev,https://github.com/dotnet/android-libraries/commit/7911f48ea458d40e4e411bc4d6b811a59bf84c23,Human,AI,Human,,,,0,0,0,0,0,0,0
+3,ed6b3dc6b66892f0fbc863889c9a23928e12af52,microsoft/ApplicationInsights-Java,AIDev,https://github.com/microsoft/ApplicationInsights-Java/commit/ed6b3dc6b66892f0fbc863889c9a23928e12af52,AI,Human,AI,,,,1,0,1,1,1,0,0
+4,63de9c6fcecb623ac009e6f182b11b690d08d0f6,agentmark-ai/agentmark,AIDev,https://github.com/agentmark-ai/agentmark/commit/63de9c6fcecb623ac009e6f182b11b690d08d0f6,Human,AI,Human,,,,0,0,0,0,0,0,0
+5,47766a137a56ba1f26cb7f44fe38ac1c64fa3d56,getsentry/spotlight,AIDev,https://github.com/getsentry/spotlight/commit/47766a137a56ba1f26cb7f44fe38ac1c64fa3d56,Human,Human,Human,,,,0,0,0,0,0,0,0
+6,cdc29a8e920b8cf9ffa7f135dd5fb68af7b76b62,liam-hq/liam,AIDev,https://github.com/liam-hq/liam/commit/cdc29a8e920b8cf9ffa7f135dd5fb68af7b76b62,AI,Human,AI,,,,1,0,1,1,1,0,0
+7,8388e148c60745ad669057e8b28aacad7232b42c,neondatabase/website,AIDev,https://github.com/neondatabase/website/commit/8388e148c60745ad669057e8b28aacad7232b42c,AI,Human,AI,,,,1,0,1,0,1,0,0
+8,b38902f2cb34507fdf97f16e530258b199d384fb,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/b38902f2cb34507fdf97f16e530258b199d384fb,Human,Human,Human,,,,0,0,0,0,0,0,0
+9,02fd64a127f6d992f619661e53e1026bef22713c,coder/coder,AIDev,https://github.com/coder/coder/commit/02fd64a127f6d992f619661e53e1026bef22713c,Human,Human,Human,,,,0,0,0,0,0,0,0
+10,927c12bf4f7f3dae5e0a2b53469823e3eabb57e5,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/927c12bf4f7f3dae5e0a2b53469823e3eabb57e5,Human,Human,Human,,,,0,0,0,0,0,0,0
+11,f419202fdea6780ede03ccc43f38fd164976eb4d,GMPrakhar/MAUI-Designer,AIDev,https://github.com/GMPrakhar/MAUI-Designer/commit/f419202fdea6780ede03ccc43f38fd164976eb4d,AI,Human,AI,,,,1,0,1,0,1,0,1
+12,4584c62359a6b3352bffd123b617d0fcb42a836f,eigenwallet/core,AIDev,https://github.com/eigenwallet/core/commit/4584c62359a6b3352bffd123b617d0fcb42a836f,Human,Human,Human,,,,0,0,0,0,0,0,0
+13,157897d83781c6b86d7a3c770d6118c91f414325,wieslawsoltes/Dock,AIDev,https://github.com/wieslawsoltes/Dock/commit/157897d83781c6b86d7a3c770d6118c91f414325,Human,Human,Human,,,,0,0,0,0,0,0,0
+14,0d06aaa2bb95360609166a30a4928aa9bd2b4156,selfxyz/self,AIDev,https://github.com/selfxyz/self/commit/0d06aaa2bb95360609166a30a4928aa9bd2b4156,Human,Human,Human,,,,0,0,0,0,0,0,0
+15,760f4f3d7a83d4d18d08b436dee2f7f5f177e099,goat-sdk/goat,AIDev,https://github.com/goat-sdk/goat/commit/760f4f3d7a83d4d18d08b436dee2f7f5f177e099,AI,AI,AI,,,,1,0,1,1,1,0,0
+16,1b943e28de41aff90266bc3d842b1f62ea635b3a,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/1b943e28de41aff90266bc3d842b1f62ea635b3a,Human,Human,Human,,,,0,0,0,0,0,0,0
+17,10cd43e1d08aea953e675bb852e6a2cfd4372286,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/10cd43e1d08aea953e675bb852e6a2cfd4372286,Human,Human,Human,,,,0,0,0,0,0,0,0
+18,a3cd16ff6437cd2163ebcea74792197f9fa328cc,Rello/analytics,AIDev,https://github.com/Rello/analytics/commit/a3cd16ff6437cd2163ebcea74792197f9fa328cc,Human,Human,Human,,,,0,0,0,0,0,0,0
+19,05708ec29f38a9500c457b4db54a01039220bd19,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/05708ec29f38a9500c457b4db54a01039220bd19,Human,Human,Human,,,,0,0,0,0,0,0,0
+20,fb08f59c3d558800db455450bb7bfc5a34d7d036,obi1kenobi/cargo-semver-checks,AIDev,https://github.com/obi1kenobi/cargo-semver-checks/commit/fb08f59c3d558800db455450bb7bfc5a34d7d036,Human,Human,Human,,,,0,0,0,0,0,0,0
+21,93732e5e67fb51b00b47b4912b6d29f4d933244d,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/93732e5e67fb51b00b47b4912b6d29f4d933244d,Human,Human,Human,,,,0,0,0,0,0,0,0
+22,bef7d9aeee0870fc7cf583297b94b4524684f27d,aztfmod/terraform-provider-azurecaf,AIDev,https://github.com/aztfmod/terraform-provider-azurecaf/commit/bef7d9aeee0870fc7cf583297b94b4524684f27d,AI,AI,AI,,,,1,0,1,1,1,0,0
+23,74b81856fc2e757c5d3d69dfdeaa2523c57eb1b1,dotnet/docs,AIDev,https://github.com/dotnet/docs/commit/74b81856fc2e757c5d3d69dfdeaa2523c57eb1b1,AI,AI,AI,,,,1,0,1,1,1,0,0
+24,c434567e0ef7df7347b563f35c8a760624455aa5,pyth-network/pyth-crosschain,AIDev,https://github.com/pyth-network/pyth-crosschain/commit/c434567e0ef7df7347b563f35c8a760624455aa5,AI,AI,AI,,,,1,0,1,1,1,0,0
+25,7c9bdb1a46763d0d76d5d0c89110870d790afa03,calcom/cal.com,AIDev,https://github.com/calcom/cal.com/commit/7c9bdb1a46763d0d76d5d0c89110870d790afa03,AI,AI,AI,,,,1,0,1,1,1,0,0
+26,880f27b61fb0eb2d0e15bad18ae00b854b4554ac,hmislk/hmis,AIDev,https://github.com/hmislk/hmis/commit/880f27b61fb0eb2d0e15bad18ae00b854b4554ac,Human,Human,Human,,,,0,0,0,0,0,0,0
+27,b0a59c310ddabcb9ba26149a11aaef74fa3a1ff7,airbytehq/PyAirbyte,AIDev,https://github.com/airbytehq/PyAirbyte/commit/b0a59c310ddabcb9ba26149a11aaef74fa3a1ff7,Human,Human,Human,,,,0,0,0,0,0,0,0
+28,1f65273d1fbb03cbae56f2b50204992a2ba1deb5,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/1f65273d1fbb03cbae56f2b50204992a2ba1deb5,Human,Human,Human,,,,0,0,0,0,0,0,0
+29,71fa7b9b1d0637fbef74a4089f6d21f0eb3fa27e,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/71fa7b9b1d0637fbef74a4089f6d21f0eb3fa27e,Human,Human,Human,,,,0,0,0,0,0,0,0
+30,6a0b8e1fa44043c02a37cbbdcbb4308b4b0f322c,cawa-93/vite-electron-builder,AIDev,https://github.com/cawa-93/vite-electron-builder/commit/6a0b8e1fa44043c02a37cbbdcbb4308b4b0f322c,AI,AI,AI,,,,1,0,1,0,1,0,1
+31,7b8956774c835cc7d6c8f4f3300e76e44035c122,Shopify/roast,AIDev,https://github.com/Shopify/roast/commit/7b8956774c835cc7d6c8f4f3300e76e44035c122,Human,Human,Human,,,,0,0,0,0,0,0,0
+32,6dec5da375597bd53af0f8ebf9fc750f8dad26ce,github/github-mcp-server,AIDev,https://github.com/github/github-mcp-server/commit/6dec5da375597bd53af0f8ebf9fc750f8dad26ce,AI,AI,AI,,,,1,0,1,1,1,0,0
+33,ba0767530e8782a4901a20cc18034a35d83f3e71,OpenHFT/Java-Thread-Affinity,AIDev,https://github.com/OpenHFT/Java-Thread-Affinity/commit/ba0767530e8782a4901a20cc18034a35d83f3e71,Human,Human,Human,,,,0,0,0,0,0,0,0
+34,0161414e7c12108119e465e3c8f0184bc58881bf,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/0161414e7c12108119e465e3c8f0184bc58881bf,Human,Human,Human,,,,0,0,0,0,0,0,0
+35,8e85e32ff120b5b4bd02876322a3002f26ce02eb,softmaple/softmaple,AIDev,https://github.com/softmaple/softmaple/commit/8e85e32ff120b5b4bd02876322a3002f26ce02eb,AI,AI,AI,,,,1,0,1,1,1,0,0
+36,5d7afc9e2fe55954931364789f5a5df59d929574,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/5d7afc9e2fe55954931364789f5a5df59d929574,Human,Human,Human,,,,0,0,0,0,0,0,0
+37,ce2ee12609f8d8e86f5649504bb6a5b27bb58472,pulumi/pulumi,AIDev,https://github.com/pulumi/pulumi/commit/ce2ee12609f8d8e86f5649504bb6a5b27bb58472,AI,AI,AI,,,,0,0,0,0,0,0,0
+38,7037a2ff806671ac2ee1a7f0dbb11f8fe6c04e36,Codehagen/Badget,AIDev,https://github.com/Codehagen/Badget/commit/7037a2ff806671ac2ee1a7f0dbb11f8fe6c04e36,Human,Human,Human,,,,0,0,0,0,0,0,0
+39,8e99670fc83276285d3c75f6e1b589b8bdfd84ad,openai/openai-realtime-agents,AIDev,https://github.com/openai/openai-realtime-agents/commit/8e99670fc83276285d3c75f6e1b589b8bdfd84ad,Human,Human,Human,,,,0,0,0,0,0,0,0
+40,dc41f5ff6784753e10c45e01c1dcddb383355781,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/dc41f5ff6784753e10c45e01c1dcddb383355781,Human,Human,Human,,,,0,0,0,0,0,0,0
+41,8a35d9af1e4ce38402937ff2905b1d3c796aade7,prebid/Prebid.js,AIDev,https://github.com/prebid/Prebid.js/commit/8a35d9af1e4ce38402937ff2905b1d3c796aade7,Human,Human,Human,,,,0,0,0,0,0,0,0
+42,9873b6d4601c70de4f86af954b17d17d76661fc3,selfxyz/self,AIDev,https://github.com/selfxyz/self/commit/9873b6d4601c70de4f86af954b17d17d76661fc3,Human,Human,Human,,,,0,0,0,0,0,0,0
+43,afefb1ea3b0d48cbecc1852c6105705cb5d69375,mostafaalagamy/Metrolist,AIDev,https://github.com/mostafaalagamy/Metrolist/commit/afefb1ea3b0d48cbecc1852c6105705cb5d69375,Human,Human,Human,,,,0,0,0,0,0,0,0
+44,9f56488fb9634611c29945740659ec0f24900f20,AgentOps-AI/agentops,AIDev,https://github.com/AgentOps-AI/agentops/commit/9f56488fb9634611c29945740659ec0f24900f20,AI,AI,AI,,,,1,0,1,1,1,0,0
+45,773c5926d03216df043e78d5857466dc4dd04dc7,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/773c5926d03216df043e78d5857466dc4dd04dc7,Human,Human,Human,,,,0,0,0,0,0,0,0
+46,108f6522286a4a966126a0ea9a376724edecf848,wso2/product-is,AIDev,https://github.com/wso2/product-is/commit/108f6522286a4a966126a0ea9a376724edecf848,AI,AI,AI,,,,1,0,1,0,1,0,1
+47,2901b092bf0ca086227214c0153544b7ea18741e,VerisimilitudeX/DNAnalyzer,AIDev,https://github.com/VerisimilitudeX/DNAnalyzer/commit/2901b092bf0ca086227214c0153544b7ea18741e,Human,Human,Human,,,,0,0,0,0,0,0,0
+48,bcbedadc293e5ac7675ce217d5ed7d4de2999c7f,dotnet/aspire,AIDev,https://github.com/dotnet/aspire/commit/bcbedadc293e5ac7675ce217d5ed7d4de2999c7f,AI,AI,AI,,,,1,0,1,0,1,0,0
+49,703c8c186a5c1992824f777e195a9f7b7b4e12e9,tinacms/tinacms,AIDev,https://github.com/tinacms/tinacms/commit/703c8c186a5c1992824f777e195a9f7b7b4e12e9,AI,AI,AI,,,,1,0,1,1,1,0,0
+50,fa4418feab32445f849137a4affd32cb92f4dc45,NUWCDIVNPT/stig-manager,AIDev,https://github.com/NUWCDIVNPT/stig-manager/commit/fa4418feab32445f849137a4affd32cb92f4dc45,AI,AI,AI,,,,1,0,1,1,1,0,0
+51,8c8bfe1f51c14fe8fdbd28cfb7b94a69e9fed86a,onnx/onnx,AIDev,https://github.com/onnx/onnx/commit/8c8bfe1f51c14fe8fdbd28cfb7b94a69e9fed86a,AI,AI,AI,,,,1,0,1,0,1,0,0
+52,d35602e0b69c127035c8caeeffa46b103e0f4edd,joamag/boytacean,AIDev,https://github.com/joamag/boytacean/commit/d35602e0b69c127035c8caeeffa46b103e0f4edd,Human,Human,Human,,,,0,0,0,0,0,0,0
+53,86b5a5d10cabf088fbc83c21ee12251fd5bed11e,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/86b5a5d10cabf088fbc83c21ee12251fd5bed11e,Human,Human,Human,,,,0,0,0,0,0,0,0
+54,e974f59942c63d4046fef71b902b9a9948c0325e,Azure/azure-sdk-for-python,AIDev,https://github.com/Azure/azure-sdk-for-python/commit/e974f59942c63d4046fef71b902b9a9948c0325e,AI,AI,AI,,,,1,0,1,1,1,0,0
+55,96cae9a9b9972ac06e7ce6bdaef09f35c84c72c8,microsoft/testfx,AIDev,https://github.com/microsoft/testfx/commit/96cae9a9b9972ac06e7ce6bdaef09f35c84c72c8,Human,Human,Human,,,,0,0,0,0,0,0,0
+56,933c20f57989e6c910e13053cd6d9e0acd081f15,ag2ai/fastagency,AIDev,https://github.com/ag2ai/fastagency/commit/933c20f57989e6c910e13053cd6d9e0acd081f15,AI,AI,AI,,,,1,0,1,1,1,0,0
+57,40245526ad19683d01f482b481c03db5bd5d3908,phel-lang/phel-lang,AIDev,https://github.com/phel-lang/phel-lang/commit/40245526ad19683d01f482b481c03db5bd5d3908,Human,Human,Human,,,,0,0,0,0,0,0,0
+58,8ac3ef62026f4604971ef582986e79ca9f542da8,microsoft/AzureTRE,AIDev,https://github.com/microsoft/AzureTRE/commit/8ac3ef62026f4604971ef582986e79ca9f542da8,AI,AI,AI,,,,1,0,1,1,1,0,0
+59,2765f88f7153f53f52eefbea1103cdcc06cdbd07,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/2765f88f7153f53f52eefbea1103cdcc06cdbd07,Human,Human,Human,,,,0,0,0,0,0,0,0
+60,9dd0250d2822a58fef3b14ae3497f62a2ace554a,microsoft/ApplicationInsights-Java,AIDev,https://github.com/microsoft/ApplicationInsights-Java/commit/9dd0250d2822a58fef3b14ae3497f62a2ace554a,AI,AI,AI,,,,1,0,1,0,1,0,1
+61,0b21caa2201a413c702afffbac7b73850279e561,liam-hq/liam,AIDev,https://github.com/liam-hq/liam/commit/0b21caa2201a413c702afffbac7b73850279e561,Human,Human,Human,,,,0,0,0,0,0,0,0
+62,c151b8ec67182756c510b9ba3d1058597eca2d4d,ShaunLawrie/PwshSpectreConsole,AIDev,https://github.com/ShaunLawrie/PwshSpectreConsole/commit/c151b8ec67182756c510b9ba3d1058597eca2d4d,AI,AI,AI,,,,1,0,1,0,1,0,0
+63,2babc3f9ea882597d09c7b57f5121ab3b28f8862,appsmithorg/appsmith,AIDev,https://github.com/appsmithorg/appsmith/commit/2babc3f9ea882597d09c7b57f5121ab3b28f8862,AI,AI,AI,,,,1,0,1,1,1,0,0
+64,9818e9444d547932affa49be224d81f68919138e,valkey-io/valkey-glide,AIDev,https://github.com/valkey-io/valkey-glide/commit/9818e9444d547932affa49be224d81f68919138e,AI,AI,AI,,,,1,0,1,1,1,0,0
+65,02d218df6a42fb25850670a744ea208756e0508a,microsoft/vscode,AIDev,https://github.com/microsoft/vscode/commit/02d218df6a42fb25850670a744ea208756e0508a,AI,AI,AI,,,,1,0,1,1,1,0,0
+66,460ced0bd9df755c03905bbc3efecfabf57ebcff,microsoft/GSL,AIDev,https://github.com/microsoft/GSL/commit/460ced0bd9df755c03905bbc3efecfabf57ebcff,AI,AI,AI,,,,1,0,1,1,1,0,0
+67,08103d74590fdae830e5320aad96c75aded9e525,microsoft/azurelinux,AIDev,https://github.com/microsoft/azurelinux/commit/08103d74590fdae830e5320aad96c75aded9e525,AI,AI,AI,,,,1,0,1,1,1,0,0
+68,fec325348a214a99585a6d382cf52d70ef5fdef7,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/fec325348a214a99585a6d382cf52d70ef5fdef7,Human,Human,Human,,,,0,0,0,0,0,0,0
+69,44a4d07aabfa4a2051c6ad98cbc00a34f55c8107,operaton/operaton,AIDev,https://github.com/operaton/operaton/commit/44a4d07aabfa4a2051c6ad98cbc00a34f55c8107,Human,Human,Human,,,,0,0,0,0,0,0,0
+70,ad3e8f860254d29248de03adf4f1dc7b29212d20,antiwork/gumroad,AIDev,https://github.com/antiwork/gumroad/commit/ad3e8f860254d29248de03adf4f1dc7b29212d20,AI,AI,AI,,,,1,0,1,1,1,0,0
+71,a5016e43b5d3b3d103093f5ab4aab872bf483c76,aztfmod/terraform-provider-azurecaf,AIDev,https://github.com/aztfmod/terraform-provider-azurecaf/commit/a5016e43b5d3b3d103093f5ab4aab872bf483c76,Human,Human,Human,,,,0,0,0,0,0,0,0
+72,94c46e6017791bfb498150267171957f4a313787,WorkflowAI/WorkflowAI,AIDev,https://github.com/WorkflowAI/WorkflowAI/commit/94c46e6017791bfb498150267171957f4a313787,Human,Human,Human,,,,0,0,0,0,0,0,0
+73,4033ec670035039000ded4acfa6b7587f0c56304,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/4033ec670035039000ded4acfa6b7587f0c56304,Human,Human,Human,,,,0,0,0,0,0,0,0
+74,c380e723ce356f23a3debd6438f367ffbd8ab655,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/c380e723ce356f23a3debd6438f367ffbd8ab655,Human,Human,Human,,,,0,0,0,0,0,0,0
+75,b6a6819b0278b6d3d608de302c37e68d4f8ef97f,mediar-ai/terminator,AIDev,https://github.com/mediar-ai/terminator/commit/b6a6819b0278b6d3d608de302c37e68d4f8ef97f,AI,AI,AI,,,,0,0,0,1,0,0,0
+76,c3e29e416bfe1169f9fb6e3793f39e583b37c283,epicweb-dev/epicshop,AIDev,https://github.com/epicweb-dev/epicshop/commit/c3e29e416bfe1169f9fb6e3793f39e583b37c283,AI,AI,AI,,,,0,0,0,0,0,0,0
+77,2c26ab27c01cea0db400b2d4f5782f79afe8a49f,crewAIInc/crewAI,AIDev,https://github.com/crewAIInc/crewAI/commit/2c26ab27c01cea0db400b2d4f5782f79afe8a49f,AI,AI,AI,,,,1,0,1,1,1,0,0
+78,1c87f24c537225486f155db5829f20d486a61631,lingodotdev/lingo.dev,AIDev,https://github.com/lingodotdev/lingo.dev/commit/1c87f24c537225486f155db5829f20d486a61631,AI,AI,AI,,,,1,0,1,1,1,0,0
+79,bb516106e75731aac019503cc38f7193db6c5a8c,GrimAnticheat/Grim,AIDev,https://github.com/GrimAnticheat/Grim/commit/bb516106e75731aac019503cc38f7193db6c5a8c,Human,Human,Human,,,,0,0,0,0,0,0,0
+80,8fd977ce57e5fad5c8b6fc0fe654ddb9b79c121f,dongaba/TVerRec,AIDev,https://github.com/dongaba/TVerRec/commit/8fd977ce57e5fad5c8b6fc0fe654ddb9b79c121f,Human,Human,Human,,,,0,0,0,0,0,0,0
+81,4067c5b84f4317fe9a9aba5a502841dfcdb50f3a,parse-community/parse-dashboard,AIDev,https://github.com/parse-community/parse-dashboard/commit/4067c5b84f4317fe9a9aba5a502841dfcdb50f3a,Human,Human,Human,,,,0,0,0,0,0,0,0
+82,88b28af54743d1dcd1b6ae6c635b8c0208045e96,microsoft/etl2pcapng,AIDev,https://github.com/microsoft/etl2pcapng/commit/88b28af54743d1dcd1b6ae6c635b8c0208045e96,AI,AI,AI,,,,1,0,1,1,1,0,0
+83,35963bd5a33a6f7a1be5689d64f74cb1e3e6ea59,Azure/sql-action,AIDev,https://github.com/Azure/sql-action/commit/35963bd5a33a6f7a1be5689d64f74cb1e3e6ea59,AI,AI,AI,,,,1,0,1,0,1,0,0
+84,09551dde0ebeb29a48cb41d42a89a91798b91390,python/python-docs-zh-tw,AIDev,https://github.com/python/python-docs-zh-tw/commit/09551dde0ebeb29a48cb41d42a89a91798b91390,AI,AI,AI,,,,1,0,1,0,1,0,1
+85,883cb538b536845458040093d52f93b48e8e8b86,amantus-ai/vibetunnel,AIDev,https://github.com/amantus-ai/vibetunnel/commit/883cb538b536845458040093d52f93b48e8e8b86,Human,Human,Human,,,,0,0,0,0,0,0,0
+86,cd5874e28615742f09626a1ac0181f39364461c0,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/cd5874e28615742f09626a1ac0181f39364461c0,Human,Human,Human,,,,0,0,0,0,0,0,0
+87,08b9802a1b6ccefd3952172ad34a40742cceade3,forntoh/LcdMenu,AIDev,https://github.com/forntoh/LcdMenu/commit/08b9802a1b6ccefd3952172ad34a40742cceade3,Human,Human,Human,,,,0,0,0,0,0,0,0
+88,f928cd3ecf4f6d0a78f730bc614d5b525ade8055,OpenHFT/Chronicle-Wire,AIDev,https://github.com/OpenHFT/Chronicle-Wire/commit/f928cd3ecf4f6d0a78f730bc614d5b525ade8055,Human,Human,Human,,,,0,0,0,0,0,0,0
+89,965586b3961b53d6ee7bcafd6c467e859951cb05,liam-hq/liam,AIDev,https://github.com/liam-hq/liam/commit/965586b3961b53d6ee7bcafd6c467e859951cb05,Human,Human,Human,,,,0,0,0,0,0,0,0
+90,61b034a535ef63573afd6aeda6f82ac9c6040d81,microsoft/vscode,AIDev,https://github.com/microsoft/vscode/commit/61b034a535ef63573afd6aeda6f82ac9c6040d81,AI,AI,AI,,,,1,0,1,1,1,0,0
+91,6fa9d171667c0202c314e64dcaddca69d97f434f,hmislk/hmis,AIDev,https://github.com/hmislk/hmis/commit/6fa9d171667c0202c314e64dcaddca69d97f434f,Human,Human,Human,,,,0,0,0,0,0,0,0
+92,292550ec4bc49f01052214eeeb0332e7f60d0211,different-ai/zero-finance,AIDev,https://github.com/different-ai/zero-finance/commit/292550ec4bc49f01052214eeeb0332e7f60d0211,AI,AI,AI,,,,0,0,0,0,0,0,0
+93,8abf8deeb0c61516fed8be1548502891d2d52cd9,onlook-dev/onlook,AIDev,https://github.com/onlook-dev/onlook/commit/8abf8deeb0c61516fed8be1548502891d2d52cd9,Human,Human,Human,,,,0,0,0,0,0,0,0
+94,3bddbdb5964cc9c589c2d76f4d7c18357b188eed,neondatabase/website,AIDev,https://github.com/neondatabase/website/commit/3bddbdb5964cc9c589c2d76f4d7c18357b188eed,AI,AI,AI,,,,1,0,1,1,1,0,0
+95,43bb8883e5bb8c3e57d7bed7d16a2c7cb4e85c9b,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/43bb8883e5bb8c3e57d7bed7d16a2c7cb4e85c9b,Human,Human,Human,,,,0,0,0,0,0,0,0
+96,47188ce558e7108bcc49dc8d6c48dbc6d973809a,Azure/autorest.typescript,AIDev,https://github.com/Azure/autorest.typescript/commit/47188ce558e7108bcc49dc8d6c48dbc6d973809a,AI,AI,AI,,,,1,0,1,1,1,0,0
+97,2a3e8d90fbbae21d3a61dff5be63e0d19541556b,aztfmod/terraform-provider-azurecaf,AIDev,https://github.com/aztfmod/terraform-provider-azurecaf/commit/2a3e8d90fbbae21d3a61dff5be63e0d19541556b,AI,AI,AI,,,,1,0,1,0,1,0,0
+98,7a5ddd7dc615b67ec61d84f768fd6262d8d9b095,vltpkg/vltpkg,AIDev,https://github.com/vltpkg/vltpkg/commit/7a5ddd7dc615b67ec61d84f768fd6262d8d9b095,Human,Human,Human,,,,0,0,0,0,0,0,0
+99,9fd16c3056da2729fce663f5d778a5604963df81,SaveTheRbtz/zstd-seekable-format-go,AIDev,https://github.com/SaveTheRbtz/zstd-seekable-format-go/commit/9fd16c3056da2729fce663f5d778a5604963df81,Human,Human,Human,,,,0,0,0,0,0,0,0
+100,86d0ad2611c09adca66009e7833f01427f434f63,elizaOS/eliza,AIDev,https://github.com/elizaOS/eliza/commit/86d0ad2611c09adca66009e7833f01427f434f63,AI,AI,AI,,,,0,0,0,1,0,0,0
+101,65ce443cebdfe8767ec6bb2415a1d7698a7018e8,getsentry/sentry,AIDev,https://github.com/getsentry/sentry/commit/65ce443cebdfe8767ec6bb2415a1d7698a7018e8,Human,Human,Human,,,,0,0,0,0,0,0,0
+102,7991b97900e0cfeb5c546c05fcef9f15bf661d12,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/7991b97900e0cfeb5c546c05fcef9f15bf661d12,Human,Human,Human,,,,0,0,0,0,0,0,0
+103,c0c10d343046499dadbad8648ab6e396ba0cfa91,rsyslog/rsyslog,AIDev,https://github.com/rsyslog/rsyslog/commit/c0c10d343046499dadbad8648ab6e396ba0cfa91,Human,Human,Human,,,,0,0,0,0,0,0,0
+104,cae2a1bb238cf123d656c984211b26aa1beaaa1e,microsoft/testfx,AIDev,https://github.com/microsoft/testfx/commit/cae2a1bb238cf123d656c984211b26aa1beaaa1e,Human,Human,Human,,,,0,0,0,0,0,0,0
+105,4f64240fea288f9ead329f8dd5325b2c4f6fdfdf,stack-auth/stack-auth,AIDev,https://github.com/stack-auth/stack-auth/commit/4f64240fea288f9ead329f8dd5325b2c4f6fdfdf,Human,Human,Human,,,,0,0,0,0,0,0,0
+106,379e84c597d47c4e413c62425a720d04568ae9dd,hotovo/aider-desk,AIDev,https://github.com/hotovo/aider-desk/commit/379e84c597d47c4e413c62425a720d04568ae9dd,Human,Human,Human,,,,0,0,0,0,0,0,0
+107,55fafcf2a12ed0497d889b28d589ebf59560eb50,airbytehq/airbyte,AIDev,https://github.com/airbytehq/airbyte/commit/55fafcf2a12ed0497d889b28d589ebf59560eb50,AI,AI,AI,,,,1,0,1,1,1,0,0
+108,d8765930783da716d858c5dd6a1351344831a4b6,microsoft/typespec,AIDev,https://github.com/microsoft/typespec/commit/d8765930783da716d858c5dd6a1351344831a4b6,AI,AI,AI,,,,1,0,1,0,1,0,1
+109,bc4dd4e1df64786dd1efe2ae5d544ed4a8c4983c,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/bc4dd4e1df64786dd1efe2ae5d544ed4a8c4983c,Human,Human,Human,,,,0,0,0,0,0,0,0
+110,633712b05c1be626bbc28447cc77c84ee26c211f,airbytehq/airbyte,AIDev,https://github.com/airbytehq/airbyte/commit/633712b05c1be626bbc28447cc77c84ee26c211f,Human,Human,Human,,,,0,0,0,0,0,0,0
+111,335cde345db817627ef0b719ac5dfb8678ec71a0,bbc/simorgh,AIDev,https://github.com/bbc/simorgh/commit/335cde345db817627ef0b719ac5dfb8678ec71a0,AI,AI,AI,,,,1,0,1,1,1,0,0
+112,7dda03435ab1b5d14f16268155082d9796657aed,lordmauve/pgzero,AIDev,https://github.com/lordmauve/pgzero/commit/7dda03435ab1b5d14f16268155082d9796657aed,Human,Human,Human,,,,0,0,0,0,0,0,0
+113,8334999e985e84cae5ef32fe2360d121109cf74f,jxxghp/MoviePilot-Frontend,AIDev,https://github.com/jxxghp/MoviePilot-Frontend/commit/8334999e985e84cae5ef32fe2360d121109cf74f,Human,Human,Human,,,,0,0,0,0,0,0,0
+114,c16fb210ce08f450a0b4afcc6ae8df11c2e9c45c,neondatabase/website,AIDev,https://github.com/neondatabase/website/commit/c16fb210ce08f450a0b4afcc6ae8df11c2e9c45c,AI,AI,AI,,,,1,0,1,1,1,0,0
+115,e8cc4181fa9a4b52d5557a601b000b4cb81d752f,airbytehq/airbyte,AIDev,https://github.com/airbytehq/airbyte/commit/e8cc4181fa9a4b52d5557a601b000b4cb81d752f,AI,AI,AI,,,,1,0,1,1,1,0,0
+116,dea710c115fb0ebd54471ff9366b973da69086d1,dotnet/runtime,AIDev,https://github.com/dotnet/runtime/commit/dea710c115fb0ebd54471ff9366b973da69086d1,AI,AI,AI,,,,1,0,1,1,1,0,0
+117,bc117fdb79788663cc7764edff5749bfef323327,Felix3322/PotPlayer_ChatGPT_Translate,AIDev,https://github.com/Felix3322/PotPlayer_ChatGPT_Translate/commit/bc117fdb79788663cc7764edff5749bfef323327,Human,Human,Human,,,,0,0,0,0,0,0,0
+118,f2a0972b035bc0156ebc516786082d2577e5a75d,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/f2a0972b035bc0156ebc516786082d2577e5a75d,Human,Human,Human,,,,0,0,0,0,0,0,0
+119,09c92fe0458fc4996d299f5226c6e74faea11339,dcSpark/shinkai-local-ai-agents,AIDev,https://github.com/dcSpark/shinkai-local-ai-agents/commit/09c92fe0458fc4996d299f5226c6e74faea11339,AI,AI,AI,,,,1,0,1,1,1,0,0
+120,27e904ad5b0b15c645a5375a67fa929423fa4e83,567-labs/instructor,AIDev,https://github.com/567-labs/instructor/commit/27e904ad5b0b15c645a5375a67fa929423fa4e83,Human,Human,Human,,,,0,0,0,0,0,0,0
+121,f26087bd67d9fd752ab8e4cd638f1318f9b182b5,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/f26087bd67d9fd752ab8e4cd638f1318f9b182b5,Human,Human,Human,,,,0,0,0,0,0,0,0
+122,46cb5fa4c1a9655671b7e65ca51819d2857d2e13,promptfoo/promptfoo,AIDev,https://github.com/promptfoo/promptfoo/commit/46cb5fa4c1a9655671b7e65ca51819d2857d2e13,Human,Human,Human,,,,0,0,0,0,0,0,0
+123,5108520823c5b4ca62618300a44298573c9311d9,CommunityToolkit/Aspire,AIDev,https://github.com/CommunityToolkit/Aspire/commit/5108520823c5b4ca62618300a44298573c9311d9,Human,Human,Human,,,,0,0,0,0,0,0,0
+124,11592df95f251ca0957b3bd3d9d183c09237fe14,forntoh/LcdMenu,AIDev,https://github.com/forntoh/LcdMenu/commit/11592df95f251ca0957b3bd3d9d183c09237fe14,Human,Human,Human,,,,0,0,0,0,0,0,0
+125,490717d2f0c6df0a44531ae50f0c021b265e80e3,dotnet/aspire,AIDev,https://github.com/dotnet/aspire/commit/490717d2f0c6df0a44531ae50f0c021b265e80e3,Human,Human,Human,,,,0,0,0,0,0,0,0
+126,9501cb71d69bc29ae160b4d18528a609d2ae0e36,team-mirai/policy,AIDev,https://github.com/team-mirai/policy/commit/9501cb71d69bc29ae160b4d18528a609d2ae0e36,AI,AI,AI,,,,1,0,1,1,1,0,0
+127,3a3632d421fa01b76e13e2e7d05377971da2d4cb,reneschulte/WriteableBitmapEx,AIDev,https://github.com/reneschulte/WriteableBitmapEx/commit/3a3632d421fa01b76e13e2e7d05377971da2d4cb,AI,AI,AI,,,,1,0,1,1,1,0,0
+128,d5163b6b9c65f85cb82625320ddf0e8f67922aa1,openops-cloud/openops,AIDev,https://github.com/openops-cloud/openops/commit/d5163b6b9c65f85cb82625320ddf0e8f67922aa1,AI,AI,AI,,,,1,0,1,1,1,0,0
+129,2047dbf8fa9139f2cde8ecd82ef700f4e45a48f0,pyth-network/pyth-crosschain,AIDev,https://github.com/pyth-network/pyth-crosschain/commit/2047dbf8fa9139f2cde8ecd82ef700f4e45a48f0,AI,AI,AI,,,,1,0,1,1,1,0,0
+130,0b1dcec907ddb4f50b4ec1ca473b42462569b5b9,mshr-h/vscode-verilog-hdl-support,AIDev,https://github.com/mshr-h/vscode-verilog-hdl-support/commit/0b1dcec907ddb4f50b4ec1ca473b42462569b5b9,Human,Human,Human,,,,0,0,0,0,0,0,0
+131,3bd6ef514288626310efefb30d09679ac75cca35,pdfme/pdfme,AIDev,https://github.com/pdfme/pdfme/commit/3bd6ef514288626310efefb30d09679ac75cca35,AI,AI,AI,,,,1,0,1,1,1,0,0
+132,32605dd821ab8c92405dae4246cb60291e7c97a8,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/32605dd821ab8c92405dae4246cb60291e7c97a8,Human,Human,Human,,,,0,0,0,0,0,0,0
+133,a4dffc9501a6e174a2dd808fd3caaaea5ad46c96,celestiaorg/celestia-core,AIDev,https://github.com/celestiaorg/celestia-core/commit/a4dffc9501a6e174a2dd808fd3caaaea5ad46c96,Human,Human,Human,,,,0,0,0,0,0,0,0
+134,0da2d44b15f44a030b2c4901f5a1e836d26fd0c8,neondatabase/website,AIDev,https://github.com/neondatabase/website/commit/0da2d44b15f44a030b2c4901f5a1e836d26fd0c8,Human,Human,Human,,,,0,0,0,0,0,0,0
+135,a58f080d05303848df1dc3bb171c5539d8efea4a,imbhargav5/rooks,AIDev,https://github.com/imbhargav5/rooks/commit/a58f080d05303848df1dc3bb171c5539d8efea4a,AI,AI,AI,,,,0,0,0,1,0,0,0
+136,c2c327e6d2947b19ebaac1aaf1514a4060509f6a,promptfoo/promptfoo,AIDev,https://github.com/promptfoo/promptfoo/commit/c2c327e6d2947b19ebaac1aaf1514a4060509f6a,Human,Human,Human,,,,0,0,0,0,0,0,0
+137,7389fa1ceeaf2d047576f9e440b8abb11ae02c5f,samayo/country-json,AIDev,https://github.com/samayo/country-json/commit/7389fa1ceeaf2d047576f9e440b8abb11ae02c5f,Human,Human,Human,,,,0,0,0,0,0,0,0
+138,7e79457dd7b81e858bf4a92822abfa8698857f9e,jdx/mise,AIDev,https://github.com/jdx/mise/commit/7e79457dd7b81e858bf4a92822abfa8698857f9e,Human,Human,Human,,,,0,0,0,0,0,0,0
+139,8ef183a660b1f6e8d8e4c615f55ee41cd7d05aa9,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/8ef183a660b1f6e8d8e4c615f55ee41cd7d05aa9,Human,Human,Human,,,,0,0,0,0,0,0,0
+140,5ef36ea1291d5e5c19845c98316f8166993e97da,onlook-dev/onlook,AIDev,https://github.com/onlook-dev/onlook/commit/5ef36ea1291d5e5c19845c98316f8166993e97da,Human,Human,Human,,,,0,0,0,0,0,0,0
+141,42230608abb70c4caf74ff7667fd59de82265672,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/42230608abb70c4caf74ff7667fd59de82265672,Human,Human,Human,,,,0,0,0,0,0,0,0
+142,47449ba2e15c0dcf7e230b5fdb0afbd67a0ee2fc,web-infra-dev/rspack,AIDev,https://github.com/web-infra-dev/rspack/commit/47449ba2e15c0dcf7e230b5fdb0afbd67a0ee2fc,AI,AI,AI,,,,1,0,1,1,1,0,0
+143,6de7833d04004873b69e4e624684e664f7d08cf4,shiosyakeyakini-info/miria,AIDev,https://github.com/shiosyakeyakini-info/miria/commit/6de7833d04004873b69e4e624684e664f7d08cf4,Human,Human,Human,,,,0,0,0,0,0,0,0
+144,9ef6c43355d35b8225f89488e858c7f1dbd0251f,antiwork/gumroad,AIDev,https://github.com/antiwork/gumroad/commit/9ef6c43355d35b8225f89488e858c7f1dbd0251f,AI,AI,AI,,,,0,0,0,0,0,0,0
+145,aec3c90d69930264ddcd352528bb4289bd5d924b,microsoft/vscode,AIDev,https://github.com/microsoft/vscode/commit/aec3c90d69930264ddcd352528bb4289bd5d924b,Human,Human,Human,,,,0,0,0,0,0,0,0
+146,b335e2ba6980262f8efce390db98ff5b6ce07519,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/b335e2ba6980262f8efce390db98ff5b6ce07519,Human,Human,Human,,,,0,0,0,0,0,0,0
+147,97736acca39309cd9e8cb57498bef78ea1daff15,BeehiveInnovations/zen-mcp-server,AIDev,https://github.com/BeehiveInnovations/zen-mcp-server/commit/97736acca39309cd9e8cb57498bef78ea1daff15,Human,Human,Human,,,,0,0,0,0,0,0,0
+148,1c9a24d7905585e8c58122ffdeb4b3b1ce4924d4,vercel/next.js,AIDev,https://github.com/vercel/next.js/commit/1c9a24d7905585e8c58122ffdeb4b3b1ce4924d4,AI,AI,AI,,,,1,0,1,1,1,0,0
+149,1b77a78153ada0d8e34d5ecc25cf8fbf2abd89df,WorkflowAI/WorkflowAI,AIDev,https://github.com/WorkflowAI/WorkflowAI/commit/1b77a78153ada0d8e34d5ecc25cf8fbf2abd89df,Human,Human,Human,,,,0,0,0,0,0,0,0
+150,bbc633c89d9c8e4532c70f8fd7b08c60ef69bfd2,gluesql/gluesql,AIDev,https://github.com/gluesql/gluesql/commit/bbc633c89d9c8e4532c70f8fd7b08c60ef69bfd2,Human,Human,Human,,,,0,0,0,0,0,0,0
+151,29802fbd4627ee9ab53ee6c33bed3f82022ae903,aztfmod/terraform-provider-azurecaf,AIDev,https://github.com/aztfmod/terraform-provider-azurecaf/commit/29802fbd4627ee9ab53ee6c33bed3f82022ae903,AI,AI,AI,,,,1,0,1,0,1,0,1
+152,474a2fd14b0cdec47677e7cf66abaa3c3bc820fd,selfxyz/self,AIDev,https://github.com/selfxyz/self/commit/474a2fd14b0cdec47677e7cf66abaa3c3bc820fd,Human,Human,Human,,,,0,0,0,0,0,0,0
+153,dacf135fdbb2866000e1a078a779c74687269ece,mlflow/mlflow,AIDev,https://github.com/mlflow/mlflow/commit/dacf135fdbb2866000e1a078a779c74687269ece,AI,AI,AI,,,,1,0,1,0,1,0,1
+154,b2701f91a2dd55c8cc9d93d12dd596231794cb48,team-mirai/policy,AIDev,https://github.com/team-mirai/policy/commit/b2701f91a2dd55c8cc9d93d12dd596231794cb48,AI,AI,AI,,,,1,0,1,1,1,0,0
+155,d8f7ed79c6b45a82f8b71c696847c0bb0de8c005,buger/probe,AIDev,https://github.com/buger/probe/commit/d8f7ed79c6b45a82f8b71c696847c0bb0de8c005,AI,AI,AI,,,,1,0,1,1,1,0,0
+156,8b9015c81ab6ff0efd47edc6705fd0ef6995e70c,jina-ai/deepsearch-ui,AIDev,https://github.com/jina-ai/deepsearch-ui/commit/8b9015c81ab6ff0efd47edc6705fd0ef6995e70c,Human,Human,Human,,,,0,0,0,0,0,0,0
+157,a3518885cffd3bbafc6fff88455427467ea9db9d,getsentry/sentry-docs,AIDev,https://github.com/getsentry/sentry-docs/commit/a3518885cffd3bbafc6fff88455427467ea9db9d,AI,AI,AI,,,,0,0,0,0,0,0,0
+158,9125a8f06f4e52424a0a0f12c34ad8c19be74146,dotnet/aspire,AIDev,https://github.com/dotnet/aspire/commit/9125a8f06f4e52424a0a0f12c34ad8c19be74146,AI,AI,AI,,,,1,0,1,1,1,0,0
+159,94ab4c1dabe10ff7e4e76f1e0cdc187d78bc9801,onflow/flow-go,AIDev,https://github.com/onflow/flow-go/commit/94ab4c1dabe10ff7e4e76f1e0cdc187d78bc9801,AI,AI,AI,,,,1,0,1,1,1,0,0
+160,cbbc2c1a30c0928a726c34c289a46d9a355bd36c,yamadashy/repomix,AIDev,https://github.com/yamadashy/repomix/commit/cbbc2c1a30c0928a726c34c289a46d9a355bd36c,AI,AI,AI,,,,1,0,1,1,1,0,0
+161,8107c0d62469ac1fcd0509dd8819c2a7e3344c27,microsoft/AdaptiveCards,AIDev,https://github.com/microsoft/AdaptiveCards/commit/8107c0d62469ac1fcd0509dd8819c2a7e3344c27,AI,AI,AI,,,,1,0,1,1,1,0,0
+162,7ba08e8a8eec8599fe2c8c19435c78287c5f64f7,box/box-ui-elements,AIDev,https://github.com/box/box-ui-elements/commit/7ba08e8a8eec8599fe2c8c19435c78287c5f64f7,AI,AI,AI,,,,1,0,1,0,1,0,0
+163,05bebcbd4a179a043d64bc450cac70d4ae848d9b,prebid/Prebid.js,AIDev,https://github.com/prebid/Prebid.js/commit/05bebcbd4a179a043d64bc450cac70d4ae848d9b,Human,Human,Human,,,,0,0,0,0,0,0,0
+164,e96a0ff0c890dacd02914c69bae6ce008d53dacd,calcom/cal.com,AIDev,https://github.com/calcom/cal.com/commit/e96a0ff0c890dacd02914c69bae6ce008d53dacd,AI,AI,AI,,,,1,0,1,1,1,0,0
+165,1b8c61df184d9b2680caf514f317b0f1a641367d,dotnet/aspire,AIDev,https://github.com/dotnet/aspire/commit/1b8c61df184d9b2680caf514f317b0f1a641367d,Human,Human,Human,,,,0,0,0,0,0,0,0
+166,83cfc37eb32c1d51df7ef14dd939674b508e9ec2,microsoft/vscode-cpptools,AIDev,https://github.com/microsoft/vscode-cpptools/commit/83cfc37eb32c1d51df7ef14dd939674b508e9ec2,AI,AI,AI,,,,0,0,0,1,0,0,0
+167,c7bbf8a5353cd560a2cf7fab0943f250d07bc561,liam-hq/liam,AIDev,https://github.com/liam-hq/liam/commit/c7bbf8a5353cd560a2cf7fab0943f250d07bc561,AI,AI,AI,,,,1,0,1,1,1,0,0
+168,4673e8f81fa1e34f7283c83f1bbae1f4ee81a6c1,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/4673e8f81fa1e34f7283c83f1bbae1f4ee81a6c1,Human,Human,Human,,,,0,0,0,0,0,0,0
+169,ae411738e38dcc2548ffa458569eccac602a3e3a,stefankoegl/python-json-patch,AIDev,https://github.com/stefankoegl/python-json-patch/commit/ae411738e38dcc2548ffa458569eccac602a3e3a,AI,AI,AI,,,,1,0,1,1,1,0,0
+170,20510cc52f40ae4226447c697ed6d5f2cd0e831f,microsoft/vscode,AIDev,https://github.com/microsoft/vscode/commit/20510cc52f40ae4226447c697ed6d5f2cd0e831f,AI,AI,AI,,,,1,0,1,1,1,0,0
+171,c8c8785f809f0c0b0fad75ac4c215293b0783521,dotnet/macios,AIDev,https://github.com/dotnet/macios/commit/c8c8785f809f0c0b0fad75ac4c215293b0783521,Human,Human,Human,,,,0,0,0,0,0,0,0
+172,159617c6703868e51d21e9710716a23d03511a7c,nandyalu/trailarr,AIDev,https://github.com/nandyalu/trailarr/commit/159617c6703868e51d21e9710716a23d03511a7c,Human,Human,Human,,,,0,0,0,0,0,0,0
+173,83ca918be6a7e702bf0956922387cc53b23d3241,dotnet/aspire,AIDev,https://github.com/dotnet/aspire/commit/83ca918be6a7e702bf0956922387cc53b23d3241,AI,AI,AI,,,,1,0,1,1,1,0,0
+174,1e7a75eaf9024aa8b16c5e1b852158021919eb13,oven-sh/bun,AIDev,https://github.com/oven-sh/bun/commit/1e7a75eaf9024aa8b16c5e1b852158021919eb13,Human,Human,Human,,,,0,0,0,0,0,0,0
+175,8b276763f4e5190daa08b58f3df7358105cbf1fb,microsoft/onnxscript,AIDev,https://github.com/microsoft/onnxscript/commit/8b276763f4e5190daa08b58f3df7358105cbf1fb,Human,Human,Human,,,,0,0,0,0,0,0,0
+176,6c9e916d8937518737ef859fa21d5ca6f37aabff,onnx/onnx,AIDev,https://github.com/onnx/onnx/commit/6c9e916d8937518737ef859fa21d5ca6f37aabff,AI,AI,AI,,,,1,0,1,1,1,0,0
+177,02299e43bbde87a8742e97db1e91e0253cf1808d,dotnet/aspnetcore,AIDev,https://github.com/dotnet/aspnetcore/commit/02299e43bbde87a8742e97db1e91e0253cf1808d,AI,AI,AI,,,,1,0,1,0,1,0,1
+178,40e5ac7881f65d774e2c39e3529b8f0829508bda,DataDog/dd-trace-java,AIDev,https://github.com/DataDog/dd-trace-java/commit/40e5ac7881f65d774e2c39e3529b8f0829508bda,Human,Human,Human,,,,0,0,0,0,0,0,0
+179,5e0fe2e00b177e420f5f52a8feb4fb972ba3b870,pdfme/pdfme,AIDev,https://github.com/pdfme/pdfme/commit/5e0fe2e00b177e420f5f52a8feb4fb972ba3b870,AI,AI,AI,,,,1,0,1,1,1,0,0
+180,f23b4b9acbbc873aab71340f0eb2ac38f9bf1c5e,FastLED/FastLED,AIDev,https://github.com/FastLED/FastLED/commit/f23b4b9acbbc873aab71340f0eb2ac38f9bf1c5e,AI,AI,AI,,,,0,0,0,1,0,0,0
+181,e06b6db87392285a64a2933e45590f979bcf0612,microsoft/react-native-windows,AIDev,https://github.com/microsoft/react-native-windows/commit/e06b6db87392285a64a2933e45590f979bcf0612,AI,AI,AI,,,,1,0,1,1,1,0,0
+182,f4de32f3588dbb7f38784af1e9f13fa1459c2c16,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/f4de32f3588dbb7f38784af1e9f13fa1459c2c16,Human,Human,Human,,,,0,0,0,0,0,0,0
+183,add42e51dc9a6e88ab9da76eda16d9f3408cbe98,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/add42e51dc9a6e88ab9da76eda16d9f3408cbe98,Human,Human,Human,,,,0,0,0,0,0,0,0
+184,41d4949b7018f8f3d0ab78c6750d37fef3f78adb,microsoft/vscode,AIDev,https://github.com/microsoft/vscode/commit/41d4949b7018f8f3d0ab78c6750d37fef3f78adb,AI,AI,AI,,,,1,0,1,0,1,0,1
+185,ce24b094220750a0872207569238fad43d69a4c3,box/box-ui-elements,AIDev,https://github.com/box/box-ui-elements/commit/ce24b094220750a0872207569238fad43d69a4c3,AI,AI,AI,,,,1,0,1,1,1,0,0
+186,194f1619012e6e9c25da416d2a10a9caad47dfca,microsoft/typescript-go,AIDev,https://github.com/microsoft/typescript-go/commit/194f1619012e6e9c25da416d2a10a9caad47dfca,AI,AI,AI,,,,1,0,1,1,1,0,0
+187,139b87e61f74be801321fc2f3cf34f06c0b7dcbb,Azure/azure-container-networking,AIDev,https://github.com/Azure/azure-container-networking/commit/139b87e61f74be801321fc2f3cf34f06c0b7dcbb,AI,AI,AI,,,,1,0,1,1,1,0,0
+188,6e07b6c0a6f2287944fceaee8c65eed4c7800f0d,Azure/azure-mcp,AIDev,https://github.com/Azure/azure-mcp/commit/6e07b6c0a6f2287944fceaee8c65eed4c7800f0d,AI,AI,AI,,,,1,0,1,0,1,0,0
+189,073bdbdc68b4f35a919892c495cd7d48c0c873ec,microsoft/react-native-windows,AIDev,https://github.com/microsoft/react-native-windows/commit/073bdbdc68b4f35a919892c495cd7d48c0c873ec,AI,AI,AI,,,,1,0,1,0,1,0,0
+190,43ab3c030872a5c9cc49e3b69b2f5d26bafdca36,microsoft/vscode-pull-request-github,AIDev,https://github.com/microsoft/vscode-pull-request-github/commit/43ab3c030872a5c9cc49e3b69b2f5d26bafdca36,AI,AI,AI,,,,1,0,1,1,1,0,0
+191,233704565d725acc42ca7ae8f4f40fa2f0dcc7d3,giselles-ai/giselle,AIDev,https://github.com/giselles-ai/giselle/commit/233704565d725acc42ca7ae8f4f40fa2f0dcc7d3,Human,Human,Human,,,,0,0,0,0,0,0,0
+192,58792998c9d5322c6162d76ed6da7aff0eb33222,KomodoPlatform/komodo-wallet,AIDev,https://github.com/KomodoPlatform/komodo-wallet/commit/58792998c9d5322c6162d76ed6da7aff0eb33222,Human,Human,Human,,,,0,0,0,0,0,0,0
+193,15306dfc9cad31ed5d6a29eae791d6a66c9784f1,neondatabase/website,AIDev,https://github.com/neondatabase/website/commit/15306dfc9cad31ed5d6a29eae791d6a66c9784f1,AI,AI,AI,,,,1,0,1,1,1,0,0
+194,5e954eb332d122d76a7b5c709c9bd46661876ef2,SoftFever/OrcaSlicer,AIDev,https://github.com/SoftFever/OrcaSlicer/commit/5e954eb332d122d76a7b5c709c9bd46661876ef2,Human,Human,Human,,,,0,0,0,0,0,0,0
+195,eb5c33c59dfa90456b9fc192c74060969d4b75ce,KomodoPlatform/komodo-wallet,AIDev,https://github.com/KomodoPlatform/komodo-wallet/commit/eb5c33c59dfa90456b9fc192c74060969d4b75ce,Human,Human,Human,,,,0,0,0,0,0,0,0
+196,61b68ac1e646ae3325da322fd43fd3c7a2dba070,dotnet/msbuild,AIDev,https://github.com/dotnet/msbuild/commit/61b68ac1e646ae3325da322fd43fd3c7a2dba070,Human,Human,Human,,,,0,0,0,0,0,0,0
+197,04174e31b2536d27e55d03cc4fd0a70bb4683b67,f/mcptools,AIDev,https://github.com/f/mcptools/commit/04174e31b2536d27e55d03cc4fd0a70bb4683b67,AI,AI,AI,,,,1,0,1,1,1,0,0
+198,ebcb6c6f90e0703706eb47ec636d948c2ee5a592,crewAIInc/crewAI,AIDev,https://github.com/crewAIInc/crewAI/commit/ebcb6c6f90e0703706eb47ec636d948c2ee5a592,AI,AI,AI,,,,1,0,1,1,1,0,0
+199,5b9eb7d7f8460af96f3e7ecb623b6b1791adfba3,ryokun6/ryos,AIDev,https://github.com/ryokun6/ryos/commit/5b9eb7d7f8460af96f3e7ecb623b6b1791adfba3,AI,AI,AI,,,,1,0,1,1,1,0,0
+200,64b059eb46ec65c51b93dff9aaedd8c6030db2b0,OpenHFT/Chronicle-Wire,AIDev,https://github.com/OpenHFT/Chronicle-Wire/commit/64b059eb46ec65c51b93dff9aaedd8c6030db2b0,Human,Human,Human,,,,0,0,0,0,0,0,0
+201,a650a5b68b779728a171814be638503e73ad747b,Azure/azure-sdk-for-go,AIDev,https://github.com/Azure/azure-sdk-for-go/commit/a650a5b68b779728a171814be638503e73ad747b,AI,AI,AI,,,,1,0,1,1,1,0,0
+202,64da40515689443ebe0b4ced90c547c097fa4401,mlflow/mlflow,AIDev,https://github.com/mlflow/mlflow/commit/64da40515689443ebe0b4ced90c547c097fa4401,AI,AI,AI,,,,1,0,1,0,1,0,0
+203,3fb1aacbcf5fb07c59da50e3d80d4d71f136e517,Equationzhao/g,AIDev,https://github.com/Equationzhao/g/commit/3fb1aacbcf5fb07c59da50e3d80d4d71f136e517,AI,AI,AI,,,,1,0,1,1,1,0,0
+204,eb5af0ee48396e857526d3de2ecfa0ee74b93489,ryokun6/ryos,AIDev,https://github.com/ryokun6/ryos/commit/eb5af0ee48396e857526d3de2ecfa0ee74b93489,AI,AI,AI,,,,0,0,0,0,0,0,0
+205,0fe090e692274af4e0f6c21140a035ce496ab7c2,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/0fe090e692274af4e0f6c21140a035ce496ab7c2,Human,Human,Human,,,,0,0,0,0,0,0,0
+206,ea22fea42400db5e2bf07046051edd217cb9d619,stack-auth/stack-auth,AIDev,https://github.com/stack-auth/stack-auth/commit/ea22fea42400db5e2bf07046051edd217cb9d619,AI,AI,AI,,,,0,0,0,0,0,0,0
+207,654b22a7f870e6627a812cec8fa9ddc59144fab3,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/654b22a7f870e6627a812cec8fa9ddc59144fab3,Human,Human,Human,,,,0,0,0,0,0,0,0
+208,7371e7f57b9f4becfce8d592ba71693dfbeef201,AzureCosmosDB/data-migration-desktop-tool,AIDev,https://github.com/AzureCosmosDB/data-migration-desktop-tool/commit/7371e7f57b9f4becfce8d592ba71693dfbeef201,AI,AI,AI,,,,1,0,1,0,1,0,0
+209,f3681574ea81e342f506dd3dadf860e56d8a84f6,near/nearcore,AIDev,https://github.com/near/nearcore/commit/f3681574ea81e342f506dd3dadf860e56d8a84f6,AI,AI,AI,,,,1,0,1,1,1,0,0
+210,0b9a3c131482569fc704bee89c5187b05230f239,seasonedcc/remix-forms,AIDev,https://github.com/seasonedcc/remix-forms/commit/0b9a3c131482569fc704bee89c5187b05230f239,Human,Human,Human,,,,0,0,0,0,0,0,0
+211,95e9841c3e3eceb34f17711ab12829db5b91bb92,microsoft/retina,AIDev,https://github.com/microsoft/retina/commit/95e9841c3e3eceb34f17711ab12829db5b91bb92,AI,AI,AI,,,,1,0,1,1,1,0,0
+212,9267ef6de2b288cc06054685a0dd2c9aac93ccec,tech-systems/panes,AIDev,https://github.com/tech-systems/panes/commit/9267ef6de2b288cc06054685a0dd2c9aac93ccec,AI,AI,AI,,,,1,0,1,1,1,0,0
+213,74b3b5005b2a4662154f6242ff39770d25ecb556,different-ai/note-companion,AIDev,https://github.com/different-ai/note-companion/commit/74b3b5005b2a4662154f6242ff39770d25ecb556,Human,Human,Human,,,,0,0,0,0,0,0,0
+214,904cb9064f6acaf0a4d9052c6fe34db0fe223674,cline/cline,AIDev,https://github.com/cline/cline/commit/904cb9064f6acaf0a4d9052c6fe34db0fe223674,AI,AI,AI,,,,1,0,1,1,1,0,0
+215,28ad280670843294b6226738146a00dce1f4a3d2,evstack/ev-node,AIDev,https://github.com/evstack/ev-node/commit/28ad280670843294b6226738146a00dce1f4a3d2,AI,AI,AI,,,,1,0,1,1,1,0,0
+216,685b6677320a7c90fed9d81fae7c96fd3ff8268f,marin-community/marin,AIDev,https://github.com/marin-community/marin/commit/685b6677320a7c90fed9d81fae7c96fd3ff8268f,Human,Human,Human,,,,0,0,0,0,0,0,0
+217,130bd6867b6082e79df279f95a54bc3866ca3f07,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/130bd6867b6082e79df279f95a54bc3866ca3f07,Human,Human,Human,,,,0,0,0,0,0,0,0
+218,14fdcd726ce7d8c46f3efe659c07402b25de6e18,liam-hq/liam,AIDev,https://github.com/liam-hq/liam/commit/14fdcd726ce7d8c46f3efe659c07402b25de6e18,AI,AI,AI,,,,1,0,1,1,1,0,0
+219,7869cb172a7d5c143a63669e6c898342c5566b4b,op-rs/kona,AIDev,https://github.com/op-rs/kona/commit/7869cb172a7d5c143a63669e6c898342c5566b4b,Human,Human,Human,,,,0,0,0,0,0,0,0
+220,210a5d6586014a6bdb7528dc4d8dbb2d139050f0,microsoft/graphitation,AIDev,https://github.com/microsoft/graphitation/commit/210a5d6586014a6bdb7528dc4d8dbb2d139050f0,AI,AI,AI,,,,1,0,1,0,1,0,1
+221,f6848eabb6d665fa97bf99972fbc6c7f76d6ef8a,OpenHFT/Chronicle-Wire,AIDev,https://github.com/OpenHFT/Chronicle-Wire/commit/f6848eabb6d665fa97bf99972fbc6c7f76d6ef8a,Human,Human,Human,,,,0,0,0,0,0,0,0
+222,ce07b0fd303744063f9eb2363fa144ce26130998,paperless-ngx/paperless-ngx,AIDev,https://github.com/paperless-ngx/paperless-ngx/commit/ce07b0fd303744063f9eb2363fa144ce26130998,Human,Human,Human,,,,0,0,0,0,0,0,0
+223,caf245c6c8167016d5399dfc0f0ade7f84691a34,GlareDB/glaredb,AIDev,https://github.com/GlareDB/glaredb/commit/caf245c6c8167016d5399dfc0f0ade7f84691a34,AI,AI,AI,,,,1,0,1,1,1,0,0
+224,f869a2285fb0aff6ebecce03d6540441bc0f0c55,prebid/Prebid.js,AIDev,https://github.com/prebid/Prebid.js/commit/f869a2285fb0aff6ebecce03d6540441bc0f0c55,Human,Human,Human,,,,0,0,0,0,0,0,0
+225,3d54962a22c6aadf92b7cb32badb66e305cf1287,TauricResearch/TradingAgents,AIDev,https://github.com/TauricResearch/TradingAgents/commit/3d54962a22c6aadf92b7cb32badb66e305cf1287,Human,Human,Human,,,,0,0,0,0,0,0,0
+226,b957da783372140595ae4fec787e7bb7a56c6a4f,onnx/onnx,AIDev,https://github.com/onnx/onnx/commit/b957da783372140595ae4fec787e7bb7a56c6a4f,AI,AI,AI,,,,1,0,1,1,1,0,0
+227,1b8ba495519c7d26f21fdfdd5c0f8375e3031a35,team-mirai/policy,AIDev,https://github.com/team-mirai/policy/commit/1b8ba495519c7d26f21fdfdd5c0f8375e3031a35,AI,AI,AI,,,,1,0,1,1,1,0,0
+228,f8b7dc8b2f0540855a1596dc73cea558b3c9ea11,calcom/cal.com,AIDev,https://github.com/calcom/cal.com/commit/f8b7dc8b2f0540855a1596dc73cea558b3c9ea11,AI,AI,AI,,,,1,0,1,1,1,0,0
+229,714c5a69aedcfb9f07ce50eaf0d938f75a9382a5,calcom/cal.com,AIDev,https://github.com/calcom/cal.com/commit/714c5a69aedcfb9f07ce50eaf0d938f75a9382a5,AI,AI,AI,,,,1,0,1,1,1,0,0
+230,9db53eeba40c54ac0b4a7757f914c3769696ca5e,jdereg/java-util,AIDev,https://github.com/jdereg/java-util/commit/9db53eeba40c54ac0b4a7757f914c3769696ca5e,Human,Human,Human,,,,0,0,0,0,0,0,0
+231,059272f8df83da04cfdbc61a5409e585edddb15a,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/059272f8df83da04cfdbc61a5409e585edddb15a,Human,Human,Human,,,,0,0,0,0,0,0,0
+232,963b8ee308eb75016b93293d3c26ec62dabb080e,rqlite/sql,AIDev,https://github.com/rqlite/sql/commit/963b8ee308eb75016b93293d3c26ec62dabb080e,AI,AI,AI,,,,1,0,1,0,1,0,0
+233,9f4bd99687fc467e8f5bf1c67bd30cfe446a387c,Rello/analytics,AIDev,https://github.com/Rello/analytics/commit/9f4bd99687fc467e8f5bf1c67bd30cfe446a387c,Human,Human,Human,,,,0,0,0,0,0,0,0
+234,c1852882ae98e82a6d3713f21e32cd26369264d5,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/c1852882ae98e82a6d3713f21e32cd26369264d5,Human,Human,Human,,,,0,0,0,0,0,0,0
+235,75f3fd711d92c31218f3daf68928edddd8d80cdd,microsoft/vscode-pull-request-github,AIDev,https://github.com/microsoft/vscode-pull-request-github/commit/75f3fd711d92c31218f3daf68928edddd8d80cdd,AI,AI,AI,,,,1,0,1,1,1,0,0
+236,5f7bcef824c9d94bf0c21d49ced5817545ce731c,novuhq/novu,AIDev,https://github.com/novuhq/novu/commit/5f7bcef824c9d94bf0c21d49ced5817545ce731c,AI,AI,AI,,,,0,0,0,0,0,0,0
+237,fb02926d7284200cefbb14b8754aa16827a0beee,taiga-family/taiga-ui,AIDev,https://github.com/taiga-family/taiga-ui/commit/fb02926d7284200cefbb14b8754aa16827a0beee,Human,Human,Human,,,,0,0,0,0,0,0,0
+238,23d63ccbe7f64aeac1f4111ec72e3dc25f59a9a6,airbytehq/airbyte,AIDev,https://github.com/airbytehq/airbyte/commit/23d63ccbe7f64aeac1f4111ec72e3dc25f59a9a6,AI,AI,AI,,,,1,0,1,1,1,0,0
+239,d5f8117e2f607f621334ffaf01ff77c5726278ef,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/d5f8117e2f607f621334ffaf01ff77c5726278ef,Human,Human,Human,,,,0,0,0,0,0,0,0
+240,6ed8413fcf139b23bf8999960152184e23dce1f5,microsoft/Microsoft365DSC,AIDev,https://github.com/microsoft/Microsoft365DSC/commit/6ed8413fcf139b23bf8999960152184e23dce1f5,AI,AI,AI,,,,1,0,1,1,1,0,0
+241,ba3311b23fa83a1f19929dd6c89b918800019718,celestiaorg/celestia-core,AIDev,https://github.com/celestiaorg/celestia-core/commit/ba3311b23fa83a1f19929dd6c89b918800019718,AI,AI,AI,,,,1,0,1,1,1,0,0
+242,79bb6b48be0bfa3b2be8ac510a2bc7ad15794a86,getsentry/sentry-javascript,AIDev,https://github.com/getsentry/sentry-javascript/commit/79bb6b48be0bfa3b2be8ac510a2bc7ad15794a86,Human,Human,Human,,,,0,0,0,0,0,0,0
+243,229ab6962ee9d0407a237e56c2f7c67e1a21329d,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/229ab6962ee9d0407a237e56c2f7c67e1a21329d,Human,Human,Human,,,,0,0,0,0,0,0,0
+244,592088f7fcce8da3a7f849f00b287646471c45ed,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/592088f7fcce8da3a7f849f00b287646471c45ed,Human,Human,Human,,,,0,0,0,0,0,0,0
+245,0af6d671b88fe9ae176453c362e2def5ff2aa623,AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet,AIDev,https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet/commit/0af6d671b88fe9ae176453c362e2def5ff2aa623,AI,AI,AI,,,,1,0,1,1,1,0,0
+246,4139e289dee0e3e4b626c751e70993ee921e4160,lgallard/terraform-aws-backup,AIDev,https://github.com/lgallard/terraform-aws-backup/commit/4139e289dee0e3e4b626c751e70993ee921e4160,Human,Human,Human,,,,0,0,0,0,0,0,0
+247,13bbca60d05668dc8169c9f58c5f48fef3d73862,microsoft/typespec,AIDev,https://github.com/microsoft/typespec/commit/13bbca60d05668dc8169c9f58c5f48fef3d73862,AI,AI,AI,,,,1,0,1,1,1,0,0
+248,8a231bbcafcf9c9a360e52608564763350fd4423,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/8a231bbcafcf9c9a360e52608564763350fd4423,Human,Human,Human,,,,0,0,0,0,0,0,0
+249,25b89ba9fade3a6457fa26367de966a29ed8599b,microsoft/ebpf-for-windows,AIDev,https://github.com/microsoft/ebpf-for-windows/commit/25b89ba9fade3a6457fa26367de966a29ed8599b,Human,Human,Human,,,,0,0,0,0,0,0,0
+250,89e116ac3f07934ea1a3378922a997d1cc40e52b,dotnet/aspire,AIDev,https://github.com/dotnet/aspire/commit/89e116ac3f07934ea1a3378922a997d1cc40e52b,AI,AI,AI,,,,1,0,1,1,1,0,0
+251,52ab5eeaa50386cc7f540e2f8bc0d5e2235af673,reown-com/appkit,AIDev,https://github.com/reown-com/appkit/commit/52ab5eeaa50386cc7f540e2f8bc0d5e2235af673,Human,Human,Human,,,,0,0,0,0,0,0,0
+252,7c5eb9e8a763a646c6c58df1a0bae110850ea317,dotnet/aspire,AIDev,https://github.com/dotnet/aspire/commit/7c5eb9e8a763a646c6c58df1a0bae110850ea317,AI,AI,AI,,,,1,0,1,0,1,0,1
+253,516a14a68e48f960d0a5cfa5016c48f7226d5e8d,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/516a14a68e48f960d0a5cfa5016c48f7226d5e8d,Human,Human,Human,,,,0,0,0,0,0,0,0
+254,844e27b247d06e4bbbcd7ade49585dc311f228ae,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/844e27b247d06e4bbbcd7ade49585dc311f228ae,Human,Human,Human,,,,0,0,0,0,0,0,0
+255,1a11bb469f5e258328975782d154b97c320d62e2,warting/android-signaturepad,AIDev,https://github.com/warting/android-signaturepad/commit/1a11bb469f5e258328975782d154b97c320d62e2,AI,AI,AI,,,,1,0,1,1,1,0,0
+256,00e73ad8b4df1d88ad2e33f122bc280e9c6e113f,langfuse/langfuse,AIDev,https://github.com/langfuse/langfuse/commit/00e73ad8b4df1d88ad2e33f122bc280e9c6e113f,Human,Human,Human,,,,0,0,0,0,0,0,0
+257,41005fb28eb5ec4d6d7e57243caa967e1e2d309f,gridaco/grida,AIDev,https://github.com/gridaco/grida/commit/41005fb28eb5ec4d6d7e57243caa967e1e2d309f,Human,Human,Human,,,,0,0,0,0,0,0,0
+258,221807ad31b77dd493a061280259fc88e4ad8c60,dotnet/maui,AIDev,https://github.com/dotnet/maui/commit/221807ad31b77dd493a061280259fc88e4ad8c60,Human,Human,Human,,,,0,0,0,0,0,0,0
+259,cf976c8e6a1278c5a145d077b74beed52d2ea499,FinAegis/core-banking-prototype-laravel,AIDev,https://github.com/FinAegis/core-banking-prototype-laravel/commit/cf976c8e6a1278c5a145d077b74beed52d2ea499,Human,Human,Human,,,,0,0,0,0,0,0,0
+260,8de461606f488addfe64daac9db4f6ae87801812,PaloAltoNetworks/docusaurus-openapi-docs,AIDev,https://github.com/PaloAltoNetworks/docusaurus-openapi-docs/commit/8de461606f488addfe64daac9db4f6ae87801812,Human,Human,Human,,,,0,0,0,0,0,0,0
+261,11b05452e6b930cd5f4abf9f929856a3c30b98dc,antiwork/gumroad,AIDev,https://github.com/antiwork/gumroad/commit/11b05452e6b930cd5f4abf9f929856a3c30b98dc,AI,AI,AI,,,,1,0,1,1,1,0,0
+262,b6ff2a7bb5e3ad107c291e0511d2990bf362055c,fjordllc/bootcamp,AIDev,https://github.com/fjordllc/bootcamp/commit/b6ff2a7bb5e3ad107c291e0511d2990bf362055c,Human,Human,Human,,,,0,0,0,0,0,0,0
+263,a8181286b43b7ce77a215fdb004c069b57cbf44b,imbhargav5/rooks,AIDev,https://github.com/imbhargav5/rooks/commit/a8181286b43b7ce77a215fdb004c069b57cbf44b,AI,AI,AI,,,,0,0,0,1,0,0,0
+264,d5cc5e339ccc0809da00ef63bced81d5b5ce60cb,rqlite/rqlite,AIDev,https://github.com/rqlite/rqlite/commit/d5cc5e339ccc0809da00ef63bced81d5b5ce60cb,AI,AI,AI,,,,1,0,1,0,1,0,0
+265,e05168cd912afb58e91c1cf818f223d8e09d067c,Mail-0/Zero,AIDev,https://github.com/Mail-0/Zero/commit/e05168cd912afb58e91c1cf818f223d8e09d067c,AI,AI,AI,,,,1,0,1,1,1,0,0
+266,25d2315b884f1db11587b4f8fd7e09ee6626d74f,GodsScion/Auto_job_applier_linkedIn,AIDev,https://github.com/GodsScion/Auto_job_applier_linkedIn/commit/25d2315b884f1db11587b4f8fd7e09ee6626d74f,Human,Human,Human,,,,0,0,0,0,0,0,0
+267,04e37d46223d5082cdea7fd63f21bf75b65fcc99,PowerShell/PowerShellEditorServices,AIDev,https://github.com/PowerShell/PowerShellEditorServices/commit/04e37d46223d5082cdea7fd63f21bf75b65fcc99,AI,AI,AI,,,,1,0,1,1,1,0,0
+268,8829661d388d5df4c4a1bb0a84201059127f1e30,airbytehq/airbyte,AIDev,https://github.com/airbytehq/airbyte/commit/8829661d388d5df4c4a1bb0a84201059127f1e30,AI,AI,AI,,,,1,0,1,1,1,0,0
+269,d295902c60f65fb1f2babd0fbca81205ea411e30,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/d295902c60f65fb1f2babd0fbca81205ea411e30,Human,Human,Human,,,,0,0,0,0,0,0,0
+270,1b438478dde581cb80dac66807be90998560b7eb,metabase/metabase,AIDev,https://github.com/metabase/metabase/commit/1b438478dde581cb80dac66807be90998560b7eb,AI,AI,AI,,,,0,0,0,1,0,0,0
+271,ab3210ffa8478f5cf2c689a140c2ee7fb737bc72,airbytehq/PyAirbyte,AIDev,https://github.com/airbytehq/PyAirbyte/commit/ab3210ffa8478f5cf2c689a140c2ee7fb737bc72,AI,AI,AI,,,,1,0,1,1,1,0,0
+272,3b0ff14baae2d301be7bda121993d948b5c348d0,bionic-gpt/bionic-gpt,AIDev,https://github.com/bionic-gpt/bionic-gpt/commit/3b0ff14baae2d301be7bda121993d948b5c348d0,Human,Human,Human,,,,0,0,0,0,0,0,0
+273,7e73901d7bb05111bc9c367522d05bd489b3b545,bruin-data/bruin,AIDev,https://github.com/bruin-data/bruin/commit/7e73901d7bb05111bc9c367522d05bd489b3b545,Human,Human,Human,,,,0,0,0,0,0,0,0
+274,016e455fcb2d033e3c18797872170308f58eb17e,microsoft/go-mssqldb,AIDev,https://github.com/microsoft/go-mssqldb/commit/016e455fcb2d033e3c18797872170308f58eb17e,AI,AI,AI,,,,1,0,1,1,1,0,0
+275,789a8733bcd4f08aa89a5b244549fecf63f2c7fc,getsentry/sentry,AIDev,https://github.com/getsentry/sentry/commit/789a8733bcd4f08aa89a5b244549fecf63f2c7fc,Human,Human,Human,,,,0,0,0,0,0,0,0
+276,71fe7eaa5b1b6243c907510d2f099545ca03b049,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/71fe7eaa5b1b6243c907510d2f099545ca03b049,Human,Human,Human,,,,0,0,0,0,0,0,0
+277,94119a9a952135a9ecd86ef948fc9dfa90c64aed,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/94119a9a952135a9ecd86ef948fc9dfa90c64aed,Human,Human,Human,,,,0,0,0,0,0,0,0
+278,2f097d2fad8c5f1cefa1d34538ebdd0007e7a938,dotnet/msbuild,AIDev,https://github.com/dotnet/msbuild/commit/2f097d2fad8c5f1cefa1d34538ebdd0007e7a938,AI,AI,AI,,,,1,0,1,1,1,0,0
+279,bdefa5d6fc8bc91cf95a1afd45d359c80f3af457,Bastelschlumpf/M5PaperWeather,AIDev,https://github.com/Bastelschlumpf/M5PaperWeather/commit/bdefa5d6fc8bc91cf95a1afd45d359c80f3af457,Human,Human,Human,,,,0,0,0,0,0,0,0
+280,0df8504f98de991e22d1f78863a2b904b374fcfe,Skyvern-AI/skyvern,AIDev,https://github.com/Skyvern-AI/skyvern/commit/0df8504f98de991e22d1f78863a2b904b374fcfe,Human,Human,Human,,,,0,0,0,0,0,0,0
+281,e5b8c1fb069b89df59c5f0625ae2ad9932f4e95f,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/e5b8c1fb069b89df59c5f0625ae2ad9932f4e95f,Human,Human,Human,,,,0,0,0,0,0,0,0
+282,5edc7280903e0e1314cf0d3524a4ade0b01132a8,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/5edc7280903e0e1314cf0d3524a4ade0b01132a8,Human,Human,Human,,,,0,0,0,0,0,0,0
+283,6759f5435a4dcd22a389b96994e5c32cc99ff31e,python-cachier/cachier,AIDev,https://github.com/python-cachier/cachier/commit/6759f5435a4dcd22a389b96994e5c32cc99ff31e,Human,Human,Human,,,,0,0,0,0,0,0,0
+284,619653f4f64a8a617dd7a6f6af217a68a07ad130,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/619653f4f64a8a617dd7a6f6af217a68a07ad130,Human,Human,Human,,,,0,0,0,0,0,0,0
+285,b51c9e9cf3d101255aa5c122e93b0f1796431e0b,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/b51c9e9cf3d101255aa5c122e93b0f1796431e0b,Human,Human,Human,,,,0,0,0,0,0,0,0
+286,3f935fc6c23955dabe52268a44e7e8ea3220c720,bmander/graphserver,AIDev,https://github.com/bmander/graphserver/commit/3f935fc6c23955dabe52268a44e7e8ea3220c720,AI,AI,AI,,,,1,0,1,0,1,0,1
+287,7d7a029d5975a7e2ecbd7630e1e80b0af4e0db19,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/7d7a029d5975a7e2ecbd7630e1e80b0af4e0db19,Human,Human,Human,,,,0,0,0,0,0,0,0
+288,7a95eef6d74a32a70880ae20a5f681fa245e6d99,safak/animated-portfolio,AIDev,https://github.com/safak/animated-portfolio/commit/7a95eef6d74a32a70880ae20a5f681fa245e6d99,Human,Human,Human,,,,0,0,0,0,0,0,0
+289,541fa13df7552c9831858058332f5d939bb38e3e,crewAIInc/crewAI,AIDev,https://github.com/crewAIInc/crewAI/commit/541fa13df7552c9831858058332f5d939bb38e3e,AI,AI,AI,,,,1,0,1,1,1,0,0
+290,bc137fd50b9a0bc0a76d219dc3bdaf6e891f30fa,microsoft/presidio,AIDev,https://github.com/microsoft/presidio/commit/bc137fd50b9a0bc0a76d219dc3bdaf6e891f30fa,Human,Human,Human,,,,0,0,0,0,0,0,0
+291,5670e1c512bbdcfdd2e7b0b691710faef1b6246c,rsyslog/rsyslog,AIDev,https://github.com/rsyslog/rsyslog/commit/5670e1c512bbdcfdd2e7b0b691710faef1b6246c,Human,Human,Human,,,,0,0,0,0,0,0,0
+292,683cfc7b4c52d9b0943a3839e5548b7d2183d646,freeCodeCamp/mobile,AIDev,https://github.com/freeCodeCamp/mobile/commit/683cfc7b4c52d9b0943a3839e5548b7d2183d646,AI,AI,AI,,,,1,0,1,1,1,0,0
+293,52082f2c8d26e766c368cf8de4112c5e94e430cf,getsentry/sentry,AIDev,https://github.com/getsentry/sentry/commit/52082f2c8d26e766c368cf8de4112c5e94e430cf,Human,Human,Human,,,,0,0,0,0,0,0,0
+294,a8cbdb1f1f2f74961b8135ddbcbe9b798878fc21,microsoft/AzureTRE,AIDev,https://github.com/microsoft/AzureTRE/commit/a8cbdb1f1f2f74961b8135ddbcbe9b798878fc21,AI,AI,AI,,,,1,0,1,0,1,0,1
+295,3f17b31802e9d337166338397f25165eae75ced2,calcom/cal.com,AIDev,https://github.com/calcom/cal.com/commit/3f17b31802e9d337166338397f25165eae75ced2,AI,AI,AI,,,,1,0,1,0,1,0,0
+296,dd78525c5400cbef4cdb7a6a9167041f7365544c,buger/probe,AIDev,https://github.com/buger/probe/commit/dd78525c5400cbef4cdb7a6a9167041f7365544c,AI,AI,AI,,,,1,0,1,1,1,0,0
+297,a067d29d9f3b09cf130dfe14892518ec2e927b0e,hasanharman/form-builder,AIDev,https://github.com/hasanharman/form-builder/commit/a067d29d9f3b09cf130dfe14892518ec2e927b0e,AI,AI,AI,,,,1,0,1,1,1,0,0
+298,e1ef1664fe8080a533645a4b61d17b571ffc4923,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/e1ef1664fe8080a533645a4b61d17b571ffc4923,Human,Human,Human,,,,0,0,0,0,0,0,0
+299,c008c8e05bab9f3e0ca042410a8f140e65142d36,langflow-ai/langflow,AIDev,https://github.com/langflow-ai/langflow/commit/c008c8e05bab9f3e0ca042410a8f140e65142d36,AI,AI,AI,,,,0,0,0,0,0,0,0
+300,ef775887160db179603f701af7225316a0fb3fe6,imgntn/j360,AIDev,https://github.com/imgntn/j360/commit/ef775887160db179603f701af7225316a0fb3fe6,Human,Human,Human,,,,0,0,0,0,0,0,0
+301,1aa9c65fe0a26725905de23f93db7dafb7371800,orangecoding/fredy,AIDev,https://github.com/orangecoding/fredy/commit/1aa9c65fe0a26725905de23f93db7dafb7371800,Human,Human,Human,,,,0,0,0,0,0,0,0
+302,0c93836a194a891b055a41cea92d8cac1f281518,eplatonoff/pilorama,AIDev,https://github.com/eplatonoff/pilorama/commit/0c93836a194a891b055a41cea92d8cac1f281518,Human,Human,Human,,,,0,0,0,0,0,0,0
+303,18dd517d5bd35464f4e903871e90196ff797aac3,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/18dd517d5bd35464f4e903871e90196ff797aac3,Human,Human,Human,,,,0,0,0,0,0,0,0
+304,245b3fb425c677d4b270c626cf14222c40bee0e2,dotnet/fsharp,AIDev,https://github.com/dotnet/fsharp/commit/245b3fb425c677d4b270c626cf14222c40bee0e2,AI,AI,AI,,,,1,0,1,1,1,0,0
+305,c65877f887841f3339ef431f6f71153227b06b0d,NangoHQ/nango,AIDev,https://github.com/NangoHQ/nango/commit/c65877f887841f3339ef431f6f71153227b06b0d,Human,Human,Human,,,,0,0,0,0,0,0,0
+306,b179f2d010f937f981b832c2e37947613be0bd8e,bruin-data/bruin,AIDev,https://github.com/bruin-data/bruin/commit/b179f2d010f937f981b832c2e37947613be0bd8e,Human,Human,Human,,,,0,0,0,0,0,0,0
+307,ab80b52742a83c53eb4cbf676d0ee707a1bf71d8,stack-auth/stack-auth,AIDev,https://github.com/stack-auth/stack-auth/commit/ab80b52742a83c53eb4cbf676d0ee707a1bf71d8,Human,Human,Human,,,,0,0,0,0,0,0,0
+308,221fbf4a73f3f62dea0c00be4c073c0c132fc3d5,dotnet/sdk,AIDev,https://github.com/dotnet/sdk/commit/221fbf4a73f3f62dea0c00be4c073c0c132fc3d5,Human,Human,Human,,,,0,0,0,0,0,0,0
+309,f9af63f9385a563c15d4ac5ca9d9df3f562d0be4,Stirling-Tools/Stirling-PDF,AIDev,https://github.com/Stirling-Tools/Stirling-PDF/commit/f9af63f9385a563c15d4ac5ca9d9df3f562d0be4,Human,Human,Human,,,,0,0,0,0,0,0,0
+310,fb3b95b778d51124d83281adfa9683e96478cfb0,OpenHFT/Chronicle-Core,AIDev,https://github.com/OpenHFT/Chronicle-Core/commit/fb3b95b778d51124d83281adfa9683e96478cfb0,Human,Human,Human,,,,0,0,0,0,0,0,0
+311,9e30a00c9555715170b058ca05705b046988e995,DaveSkender/Stock.Indicators,AIDev,https://github.com/DaveSkender/Stock.Indicators/commit/9e30a00c9555715170b058ca05705b046988e995,Human,Human,Human,,,,0,0,0,0,0,0,0
+312,a0a71370865e400e4ad554da73218002cfc46984,wieslawsoltes/Dock,AIDev,https://github.com/wieslawsoltes/Dock/commit/a0a71370865e400e4ad554da73218002cfc46984,Human,Human,Human,,,,0,0,0,0,0,0,0
+313,21e05919e1b623801949c79f51934cab06067bd4,Azure/data-api-builder,AIDev,https://github.com/Azure/data-api-builder/commit/21e05919e1b623801949c79f51934cab06067bd4,Human,Human,Human,,,,0,0,0,0,0,0,0
+314,6ee74f4c7351d62b4299137d53b222f11af50f0a,elsa-workflows/elsa-core,AIDev,https://github.com/elsa-workflows/elsa-core/commit/6ee74f4c7351d62b4299137d53b222f11af50f0a,Human,Human,Human,,,,0,0,0,0,0,0,0
+315,3fa092d856146efd70c0bf00cd6a8fffa8a411ef,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/3fa092d856146efd70c0bf00cd6a8fffa8a411ef,Human,Human,Human,,,,0,0,0,0,0,0,0
+316,aa32d70a5cc50d6c4b5850049997fb5e5703c46c,giselles-ai/giselle,AIDev,https://github.com/giselles-ai/giselle/commit/aa32d70a5cc50d6c4b5850049997fb5e5703c46c,AI,AI,AI,,,,1,0,1,1,1,0,0
+317,42e382a36cc784fd5ecd161946b8cf11a460479c,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/42e382a36cc784fd5ecd161946b8cf11a460479c,Human,Human,Human,,,,0,0,0,0,0,0,0
+318,f9582c3271db1471e36cdcee5d6fa1cbca37a30c,airbytehq/airbyte,AIDev,https://github.com/airbytehq/airbyte/commit/f9582c3271db1471e36cdcee5d6fa1cbca37a30c,AI,AI,AI,,,,1,0,1,1,1,0,0
+319,86f846531ced244d8714dfd72963e59671689f93,wieslawsoltes/Dock,AIDev,https://github.com/wieslawsoltes/Dock/commit/86f846531ced244d8714dfd72963e59671689f93,Human,Human,Human,,,,0,0,0,0,0,0,0
+320,5d6ff4b6e394e2388354658083126cb776c1764d,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/5d6ff4b6e394e2388354658083126cb776c1764d,Human,Human,Human,,,,0,0,0,0,0,0,0
+321,73939b92aecbb039a3b31425d74fec17f9648134,crewAIInc/crewAI,AIDev,https://github.com/crewAIInc/crewAI/commit/73939b92aecbb039a3b31425d74fec17f9648134,AI,AI,AI,,,,1,0,1,1,1,0,0
+322,10c6a5f771d1e68377c44505e9e388fcf7d14a77,airbytehq/airbyte,AIDev,https://github.com/airbytehq/airbyte/commit/10c6a5f771d1e68377c44505e9e388fcf7d14a77,Human,Human,Human,,,,0,0,0,0,0,0,0
+323,064c257437fd2d118d060c8155c049bc894fc054,WorkflowAI/WorkflowAI,AIDev,https://github.com/WorkflowAI/WorkflowAI/commit/064c257437fd2d118d060c8155c049bc894fc054,Human,Human,Human,,,,0,0,0,0,0,0,0
+324,dc5e1e8c2645b9dc85b3e90b6a051f2cbb552860,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/dc5e1e8c2645b9dc85b3e90b6a051f2cbb552860,Human,Human,Human,,,,0,0,0,0,0,0,0
+325,4bf37d89d4110123c4d65c890774c796b8fa7e0b,graphistry/pygraphistry,AIDev,https://github.com/graphistry/pygraphistry/commit/4bf37d89d4110123c4d65c890774c796b8fa7e0b,Human,Human,Human,,,,0,0,0,0,0,0,0
+326,5ec6ff7741675d411e2c729ff4f62187ad080cdb,Azure/azure-sdk-for-net,AIDev,https://github.com/Azure/azure-sdk-for-net/commit/5ec6ff7741675d411e2c729ff4f62187ad080cdb,AI,AI,AI,,,,1,0,1,1,1,0,0
+327,76bf617619f7636ac095deef69ec5506ea942439,getsentry/sentry-docs,AIDev,https://github.com/getsentry/sentry-docs/commit/76bf617619f7636ac095deef69ec5506ea942439,AI,AI,AI,,,,0,0,0,1,0,0,0
+328,02914efe2d8eaaf5ef04e8a894cf949848a39578,lingodotdev/lingo.dev,AIDev,https://github.com/lingodotdev/lingo.dev/commit/02914efe2d8eaaf5ef04e8a894cf949848a39578,AI,AI,AI,,,,1,0,1,1,1,0,0
+329,0809edeb43b8e379df67c6bcc0981226150577be,crewAIInc/crewAI,AIDev,https://github.com/crewAIInc/crewAI/commit/0809edeb43b8e379df67c6bcc0981226150577be,AI,AI,AI,,,,1,0,1,1,1,0,0
+330,1ffb3672a0e93ad89fcb9fe162a51b5659d32e4b,microsoft/FluidFramework,AIDev,https://github.com/microsoft/FluidFramework/commit/1ffb3672a0e93ad89fcb9fe162a51b5659d32e4b,AI,AI,AI,,,,1,0,1,0,1,0,0
+331,8630061c14295f4a596dd68a9345f2f709356e67,onlook-dev/onlook,AIDev,https://github.com/onlook-dev/onlook/commit/8630061c14295f4a596dd68a9345f2f709356e67,Human,Human,Human,,,,0,0,0,0,0,0,0
+332,8b08465e9f903e718ed74f52cff65222887febb6,mrgnlabs/marginfi-v2,AIDev,https://github.com/mrgnlabs/marginfi-v2/commit/8b08465e9f903e718ed74f52cff65222887febb6,Human,Human,Human,,,,0,0,0,0,0,0,0
+333,7811d63e9de262f55b7c515b0f62069a8f6490ff,haydenbleasel/kibo,AIDev,https://github.com/haydenbleasel/kibo/commit/7811d63e9de262f55b7c515b0f62069a8f6490ff,AI,AI,AI,,,,1,0,1,1,1,0,0
+334,e547fc5d33fd7d67c48f5a38d7d0517e1ab0257d,aldinokemal/go-whatsapp-web-multidevice,AIDev,https://github.com/aldinokemal/go-whatsapp-web-multidevice/commit/e547fc5d33fd7d67c48f5a38d7d0517e1ab0257d,AI,AI,AI,,,,0,0,0,1,0,0,0
+335,0055c76a19d63ca5146de6dacea2662dff9a31f0,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/0055c76a19d63ca5146de6dacea2662dff9a31f0,Human,Human,Human,,,,0,0,0,0,0,0,0
+336,183c8255dc34041cf0c8959f4d20af72a04abe17,raycast/extensions,AIDev,https://github.com/raycast/extensions/commit/183c8255dc34041cf0c8959f4d20af72a04abe17,Human,Human,Human,,,,0,0,0,0,0,0,0
+337,e7b79380fea7cc5d9ae9b78bb0f66b8577aad4a7,TauricResearch/TradingAgents,AIDev,https://github.com/TauricResearch/TradingAgents/commit/e7b79380fea7cc5d9ae9b78bb0f66b8577aad4a7,Human,Human,Human,,,,0,0,0,0,0,0,0
+338,385d2ae75f1b263e703a6069d804129726b40ec5,Azure/azure-dev,AIDev,https://github.com/Azure/azure-dev/commit/385d2ae75f1b263e703a6069d804129726b40ec5,AI,AI,AI,,,,1,0,1,0,1,0,0
+339,5cb00f72503dcdd0670c197c296b5230ead4216e,astral-sh/uv,AIDev,https://github.com/astral-sh/uv/commit/5cb00f72503dcdd0670c197c296b5230ead4216e,AI,AI,AI,,,,1,0,1,0,1,0,1
+340,6c48034876d8bbee69513bacbb0826b0cdc7645a,oven-sh/bun,AIDev,https://github.com/oven-sh/bun/commit/6c48034876d8bbee69513bacbb0826b0cdc7645a,AI,AI,AI,,,,0,0,0,1,0,0,0
+341,de5bf81a3a0f2a272361b3313da39b88043af2c5,dotnet/aspire,AIDev,https://github.com/dotnet/aspire/commit/de5bf81a3a0f2a272361b3313da39b88043af2c5,AI,AI,AI,,,,1,0,1,1,1,0,0
+342,48e4f3c0cb8330facd9dc48e96f02e165b081b84,liam-hq/liam,AIDev,https://github.com/liam-hq/liam/commit/48e4f3c0cb8330facd9dc48e96f02e165b081b84,AI,AI,AI,,,,1,0,1,1,1,0,0
+343,f70f544af3250137e6ccfd4d30dd3a647182b740,colorstackorg/oyster,AIDev,https://github.com/colorstackorg/oyster/commit/f70f544af3250137e6ccfd4d30dd3a647182b740,AI,AI,AI,,,,0,0,0,0,0,0,0
+344,23ab8b5d5842ecf559e325763d27cc1d0caf3429,wieslawsoltes/Dock,AIDev,https://github.com/wieslawsoltes/Dock/commit/23ab8b5d5842ecf559e325763d27cc1d0caf3429,Human,Human,Human,,,,0,0,0,0,0,0,0
+345,6174ba897905904cc2e85d03c40b8c32c226f028,receptron/graphai,AIDev,https://github.com/receptron/graphai/commit/6174ba897905904cc2e85d03c40b8c32c226f028,Human,Human,Human,,,,0,0,0,0,0,0,0
+346,4bb16edfd00be17c07e359d99f0dac7e60ce09f2,specmatic/specmatic,AIDev,https://github.com/specmatic/specmatic/commit/4bb16edfd00be17c07e359d99f0dac7e60ce09f2,AI,AI,AI,,,,1,0,1,1,1,0,0
+347,a94988d51a69f4e818bd8091d548befa8232a5b9,pdfme/pdfme,AIDev,https://github.com/pdfme/pdfme/commit/a94988d51a69f4e818bd8091d548befa8232a5b9,AI,AI,AI,,,,1,0,1,1,1,0,0
+348,359eb76216aa47fa2759ee64455d700e30e1b42c,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/359eb76216aa47fa2759ee64455d700e30e1b42c,Human,Human,Human,,,,0,0,0,0,0,0,0
+349,d7e17eea02b2c7cba3cefee4e69bcf5213d8b8d1,getsentry/sentry-docs,AIDev,https://github.com/getsentry/sentry-docs/commit/d7e17eea02b2c7cba3cefee4e69bcf5213d8b8d1,AI,AI,AI,,,,0,0,0,1,0,0,0
+350,a8aa8e4912aad5b425653d469688383c7aff490a,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/a8aa8e4912aad5b425653d469688383c7aff490a,Human,Human,Human,,,,0,0,0,0,0,0,0
+351,cd7108cfef0873b4adfd9541feb32e5431404f1e,bionic-gpt/bionic-gpt,AIDev,https://github.com/bionic-gpt/bionic-gpt/commit/cd7108cfef0873b4adfd9541feb32e5431404f1e,Human,Human,Human,,,,0,0,0,0,0,0,0
+352,b4f8bd1d6edec4577c14c0962aaacb0667826d6c,TanStack/router,AIDev,https://github.com/TanStack/router/commit/b4f8bd1d6edec4577c14c0962aaacb0667826d6c,AI,AI,AI,,,,0,0,0,1,0,0,0
+353,8d9627579a97aa0a1994bd98a4b4f9d1e1536646,pyth-network/pyth-crosschain,AIDev,https://github.com/pyth-network/pyth-crosschain/commit/8d9627579a97aa0a1994bd98a4b4f9d1e1536646,AI,AI,AI,,,,1,0,1,1,1,0,0
+354,a642053a554c75d8d477050030333297c6c8ff30,sqlrooms/sqlrooms,AIDev,https://github.com/sqlrooms/sqlrooms/commit/a642053a554c75d8d477050030333297c6c8ff30,Human,Human,Human,,,,0,0,0,0,0,0,0
+355,90e5dbbfb7820d608c9dddddc09b671cfa7620a3,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/90e5dbbfb7820d608c9dddddc09b671cfa7620a3,Human,Human,Human,,,,0,0,0,0,0,0,0
+356,bc159e113f37dea3d361183c3a80d43821cc2e06,dotnet/aspire,AIDev,https://github.com/dotnet/aspire/commit/bc159e113f37dea3d361183c3a80d43821cc2e06,AI,AI,AI,,,,1,0,1,1,1,0,0
+357,c8d28316b95412f610d42ace29a03f8a58846368,unclecode/crawl4ai,AIDev,https://github.com/unclecode/crawl4ai/commit/c8d28316b95412f610d42ace29a03f8a58846368,AI,AI,AI,,,,1,0,1,1,1,0,0
+358,a4674e2cf2c2115d934423d23073a3f4f3218bd7,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/a4674e2cf2c2115d934423d23073a3f4f3218bd7,Human,Human,Human,,,,0,0,0,0,0,0,0
+359,936812545ad5f3b04443caf941195b722ae2acca,dotnet/sdk,AIDev,https://github.com/dotnet/sdk/commit/936812545ad5f3b04443caf941195b722ae2acca,AI,AI,AI,,,,1,0,1,0,1,0,1
+360,830136dee927eaa0e5b0acb5bf0836b794d8906b,microsoft/AzureTRE,AIDev,https://github.com/microsoft/AzureTRE/commit/830136dee927eaa0e5b0acb5bf0836b794d8906b,Human,Human,Human,,,,0,0,0,0,0,0,0
+361,c6f8185d9466482dd7a8bb3db61e2e853221c317,microsoft/pict,AIDev,https://github.com/microsoft/pict/commit/c6f8185d9466482dd7a8bb3db61e2e853221c317,AI,AI,AI,,,,1,0,1,1,1,0,0
+362,5d32496b28f7c8c8537a0ba539ebaefcacf887c3,calcom/cal.com,AIDev,https://github.com/calcom/cal.com/commit/5d32496b28f7c8c8537a0ba539ebaefcacf887c3,Human,Human,Human,,,,0,0,0,0,0,0,0
+363,658a15171cf6e5b589350376f5faf7a9fceb6737,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/658a15171cf6e5b589350376f5faf7a9fceb6737,Human,Human,Human,,,,0,0,0,0,0,0,0
+364,1bb80faa250e1f2b2e67127402fa75dcdacf34c4,shader-slang/slang,AIDev,https://github.com/shader-slang/slang/commit/1bb80faa250e1f2b2e67127402fa75dcdacf34c4,AI,AI,AI,,,,1,0,1,1,1,0,0
+365,bccfd2f0e0fa8afee93a7dea26058134a6b5a5d4,dotnet/arcade,AIDev,https://github.com/dotnet/arcade/commit/bccfd2f0e0fa8afee93a7dea26058134a6b5a5d4,AI,AI,AI,,,,1,0,1,1,1,0,0
+366,1bd1bb5b7154b96c9e102dd065052e747326cebf,MontrealAI/AGI-Alpha-Agent-v0,AIDev,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/commit/1bd1bb5b7154b96c9e102dd065052e747326cebf,AI,AI,AI,,,,0,0,0,1,0,0,0
+367,b77774999f3d7381de56cf842c70a373d40729f5,giselles-ai/giselle,AIDev,https://github.com/giselles-ai/giselle/commit/b77774999f3d7381de56cf842c70a373d40729f5,Human,Human,Human,,,,0,0,0,0,0,0,0
+368,02688ff1b9071b80af51505658a14c6f834f2985,dotnet/runtime,AIDev,https://github.com/dotnet/runtime/commit/02688ff1b9071b80af51505658a14c6f834f2985,AI,AI,AI,,,,1,0,1,1,1,0,0
+369,6ce03fe3706bb1943a5e362e96e7117d15d9d76a,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/6ce03fe3706bb1943a5e362e96e7117d15d9d76a,Human,Human,Human,,,,0,0,0,0,0,0,0
+370,b8cbb58d93d2cf306f190c1a3dcc7ab4c5c99305,bespokelabsai/curator,AIDev,https://github.com/bespokelabsai/curator/commit/b8cbb58d93d2cf306f190c1a3dcc7ab4c5c99305,AI,AI,AI,,,,1,0,1,1,1,0,0
+371,d8516329a71cf8ceaab8998eb47b51e978fc4e73,OpenHFT/Chronicle-Threads,AIDev,https://github.com/OpenHFT/Chronicle-Threads/commit/d8516329a71cf8ceaab8998eb47b51e978fc4e73,Human,Human,Human,,,,0,0,0,0,0,0,0
+372,fabf36e00d52bab845d82658147b2642af219599,Automattic/wp-feature-api,AIDev,https://github.com/Automattic/wp-feature-api/commit/fabf36e00d52bab845d82658147b2642af219599,Human,Human,Human,,,,0,0,0,0,0,0,0
+373,d8a262f2a2c7fdb68da31544a204d719cfdba543,prebid/Prebid.js,AIDev,https://github.com/prebid/Prebid.js/commit/d8a262f2a2c7fdb68da31544a204d719cfdba543,Human,Human,Human,,,,0,0,0,0,0,0,0
+374,3b39549c45750efb0d9b9868f3e851e6de51643e,mochilang/mochi,AIDev,https://github.com/mochilang/mochi/commit/3b39549c45750efb0d9b9868f3e851e6de51643e,Human,Human,Human,,,,0,0,0,0,0,0,0
+375,e960f1be662c7439f87d32fb2c97740b326c82c1,ikamensh/flynt,AIDev,https://github.com/ikamensh/flynt/commit/e960f1be662c7439f87d32fb2c97740b326c82c1,Human,Human,Human,,,,0,0,0,0,0,0,0
+376,1fff6af857d1dade15861b288a53250ebe8cf16c,dotnet/maui,AIDev,https://github.com/dotnet/maui/commit/1fff6af857d1dade15861b288a53250ebe8cf16c,AI,AI,AI,,,,1,0,1,0,1,0,1
+377,03ab1acfdea9dd33aad8271bbb607544f23c1d56,kern/filepizza,AIDev,https://github.com/kern/filepizza/commit/03ab1acfdea9dd33aad8271bbb607544f23c1d56,Human,Human,Human,,,,0,0,0,0,0,0,0
+378,ad76238ddff9aaadb79532bb633878c8449ec957,go-vikunja/vikunja,AIDev,https://github.com/go-vikunja/vikunja/commit/ad76238ddff9aaadb79532bb633878c8449ec957,Human,Human,Human,,,,0,0,0,0,0,0,0
+379,3baa5a73aecbd07fb9985c8215a2f84da590f025,openai/codex,AIDev,https://github.com/openai/codex/commit/3baa5a73aecbd07fb9985c8215a2f84da590f025,Human,Human,Human,,,,0,0,0,1,0,0,0
+380,fa79e34bffaf1d47b57b97cb66ea6548f152e785,jdx/mise,AIDev,https://github.com/jdx/mise/commit/fa79e34bffaf1d47b57b97cb66ea6548f152e785,AI,AI,AI,,,,0,0,0,0,0,0,0
+381,beeb41e137ce9d9d783c48cc3eac70342f534e99,jdx/mise,AIDev,https://github.com/jdx/mise/commit/beeb41e137ce9d9d783c48cc3eac70342f534e99,AI,AI,AI,,,,0,0,0,0,0,0,0
+382,90913225cc1b1454c1ff6fe4748054f3910c510a,oxc-project/oxc,AIDev,https://github.com/oxc-project/oxc/commit/90913225cc1b1454c1ff6fe4748054f3910c510a,AI,AI,AI,,,,0,0,0,0,0,0,0
+383,ad8e24718376b70d6a0c44658adff674f45a2460,langflow-ai/langflow,AIDev,https://github.com/langflow-ai/langflow/commit/ad8e24718376b70d6a0c44658adff674f45a2460,AI,AI,AI,,,,0,0,0,0,0,0,0
+384,ee0d6fc3b4dc306c753e9ec97bf5fae0eebafdfb,langflow-ai/langflow,AIDev,https://github.com/langflow-ai/langflow/commit/ee0d6fc3b4dc306c753e9ec97bf5fae0eebafdfb,AI,AI,AI,,,,0,0,0,1,0,1,0
+385,ac203cfdf06c1d66219e215a8991086b9be156ba,pmndrs/docs,David Lo,https://github.com/pmndrs/docs/commit/ac203cfdf06c1d66219e215a8991086b9be156ba,AI,AI,AI,,,,0,0,0,0,0,0,0
+386,96d076505030690805c6d3e34c32d872a27aef97,harvard-edge/cs249r_book,David Lo,https://github.com/harvard-edge/cs249r_book/commit/96d076505030690805c6d3e34c32d872a27aef97,AI,AI,AI,,,,0,0,0,0,0,0,0
+387,c0f1ff4cd49a93c2e31831f435057c838a31dbab,opencollective/opencollective-api,David Lo,https://github.com/opencollective/opencollective-api/commit/c0f1ff4cd49a93c2e31831f435057c838a31dbab,AI,AI,AI,,,,0,0,0,0,0,0,0
+388,6552613e06f77b84461649477dd46fad56a7569c,mediar-ai/screenpipe,David Lo,https://github.com/mediar-ai/screenpipe/commit/6552613e06f77b84461649477dd46fad56a7569c,AI,AI,AI,,,,0,0,0,0,0,0,0
+389,b72aec3e7a25d202a0aef3ad016590796dfe6103,WCY-dt/MrRSS,David Lo,https://github.com/WCY-dt/MrRSS/commit/b72aec3e7a25d202a0aef3ad016590796dfe6103,AI,AI,AI,,,,0,0,0,0,0,0,0
+390,f322c1a609a41e911a07072d5b1bf2c9cdea50c9,WordPress/gutenberg,David Lo,https://github.com/WordPress/gutenberg/commit/f322c1a609a41e911a07072d5b1bf2c9cdea50c9,AI,AI,AI,,,,0,0,0,0,0,0,0
+391,5081a5643ce5c70bb63e2819fedc8a804aeebe5d,dcSpark/shinkai-apps,David Lo,https://github.com/dcSpark/shinkai-apps/commit/5081a5643ce5c70bb63e2819fedc8a804aeebe5d,AI,AI,AI,,,,1,0,1,1,1,0,0
+392,18a1abb8696896aa9950e497bfb03243788c7add,Nonary/JANUS,David Lo,https://github.com/Nonary/JANUS/commit/18a1abb8696896aa9950e497bfb03243788c7add,AI,AI,AI,,,,0,0,0,0,0,0,0
+393,79e54a7643a5180f448c3e1b26891a614808ba22,dotnet/sdk,David Lo,https://github.com/dotnet/sdk/commit/79e54a7643a5180f448c3e1b26891a614808ba22,AI,AI,AI,,,,0,0,0,0,0,0,0
+394,f43c93a0fab442a098de5f6c3a3219e2d6a2090b,wasp-lang/wasp,David Lo,https://github.com/wasp-lang/wasp/commit/f43c93a0fab442a098de5f6c3a3219e2d6a2090b,AI,AI,AI,,,,0,0,0,0,0,0,0
+395,e9e4e731c6affc96bac6b85117171677d192807f,Sefaria/Sefaria-Project,David Lo,https://github.com/Sefaria/Sefaria-Project/commit/e9e4e731c6affc96bac6b85117171677d192807f,AI,AI,AI,,,,0,0,0,0,0,0,0
+396,833f3d2cebbe84a62f85708e30dd91d2a2f5f08f,mongodb-js/mongodb-mcp-server,David Lo,https://github.com/mongodb-js/mongodb-mcp-server/commit/833f3d2cebbe84a62f85708e30dd91d2a2f5f08f,AI,AI,AI,,,,0,0,0,0,0,0,0
+397,8f85a86cc564f91fe0910b172f1b267af198c067,InsightSoftwareConsortium/ITK,David Lo,https://github.com/InsightSoftwareConsortium/ITK/commit/8f85a86cc564f91fe0910b172f1b267af198c067,AI,AI,AI,,,,0,0,0,0,0,0,0
+398,597a9c47ba5f388a2e70cc595ba830b3dc1628d8,acoliver/gemini-cli,David Lo,https://github.com/acoliver/gemini-cli/commit/597a9c47ba5f388a2e70cc595ba830b3dc1628d8,AI,AI,AI,,,,0,0,0,0,0,0,0
+399,952bc6d273180d481286fd2dba5fa5e0ffda73f4,lablup/backend.ai,David Lo,https://github.com/lablup/backend.ai/commit/952bc6d273180d481286fd2dba5fa5e0ffda73f4,AI,AI,AI,,,,0,0,0,0,0,0,0
+400,76c1bd757844fda097a6adb0b7a0a2535f3f470d,AndyMik90/Auto-Claude,David Lo,https://github.com/AndyMik90/Auto-Claude/commit/76c1bd757844fda097a6adb0b7a0a2535f3f470d,AI,AI,AI,,,,0,0,0,0,0,0,0
+401,6e5b9a48c44423ed74f8d030e447591609411720,crnormand/gurps,David Lo,https://github.com/crnormand/gurps/commit/6e5b9a48c44423ed74f8d030e447591609411720,AI,AI,AI,,,,0,0,0,0,0,0,0
+402,24903b93f60d3b4fcd91222e0b4d6bbfb5d43df3,airbytehq/PyAirbyte,David Lo,https://github.com/airbytehq/PyAirbyte/commit/24903b93f60d3b4fcd91222e0b4d6bbfb5d43df3,AI,AI,AI,,,,1,0,1,1,1,0,0
+403,28d94cf810293c7902f97cde0ed6b7d4c5e91c02,samuelclay/NewsBlur,David Lo,https://github.com/samuelclay/NewsBlur/commit/28d94cf810293c7902f97cde0ed6b7d4c5e91c02,AI,AI,AI,,,,0,0,0,0,0,0,0
+404,00aef524267000d09df8cfda1dbd58bc6549a44f,source-academy/frontend,David Lo,https://github.com/source-academy/frontend/commit/00aef524267000d09df8cfda1dbd58bc6549a44f,AI,AI,AI,,,,0,0,0,0,0,0,0
+405,ea0ef25e71d347a3a71b80357f34d34eb2875d1a,anthropics/claude-agent-sdk-python,David Lo,https://github.com/anthropics/claude-agent-sdk-python/commit/ea0ef25e71d347a3a71b80357f34d34eb2875d1a,AI,AI,AI,,,,0,0,0,0,0,0,0
+406,9bdaf707a0ad9b7fd44cf13c27683692ae8ed737,PostHog/posthog-foss,David Lo,https://github.com/PostHog/posthog-foss/commit/9bdaf707a0ad9b7fd44cf13c27683692ae8ed737,AI,AI,AI,,,,0,0,0,0,0,0,0
+407,1357ca24aeb12f487a88fff32fdd671b8b81b611,cloudflare/workers-sdk,David Lo,https://github.com/cloudflare/workers-sdk/commit/1357ca24aeb12f487a88fff32fdd671b8b81b611,AI,AI,AI,,,,0,0,0,0,0,0,0
+408,1e88934dfb85f82dfdf9a5fadfd0765c837c50cc,brafdlog/caspion,David Lo,https://github.com/brafdlog/caspion/commit/1e88934dfb85f82dfdf9a5fadfd0765c837c50cc,AI,AI,AI,,,,0,0,0,0,0,0,0
+409,db41e350b62c4298ee189ae9e275ff0cc64aae28,BerriAI/litellm,David Lo,https://github.com/BerriAI/litellm/commit/db41e350b62c4298ee189ae9e275ff0cc64aae28,AI,AI,AI,,,,0,0,0,0,0,0,0
+410,850fc01f12f071fa42122cc29d7ae80eefd2853b,Duelion/homebox-companion,David Lo,https://github.com/Duelion/homebox-companion/commit/850fc01f12f071fa42122cc29d7ae80eefd2853b,AI,AI,AI,,,,0,0,0,0,0,0,0
+411,09d3270e84cd7f580739d7f283b205f5e7c5c7df,LMCache/LMCache,David Lo,https://github.com/LMCache/LMCache/commit/09d3270e84cd7f580739d7f283b205f5e7c5c7df,AI,AI,AI,,,,0,0,0,0,0,0,0
+412,76434157aeaa2f4fb6501702403262025614931b,tambo-ai/tambo,David Lo,https://github.com/tambo-ai/tambo/commit/76434157aeaa2f4fb6501702403262025614931b,AI,AI,AI,,,,0,0,0,0,0,0,0
+413,22ced0e81d3baa6c53ac596f4dfdf11726a76834,RubyResearch/Agent,David Lo,https://github.com/RubyResearch/Agent/commit/22ced0e81d3baa6c53ac596f4dfdf11726a76834,AI,AI,AI,,,,0,0,0,0,0,0,0
+414,42a24278dba76e2efd41ec0f1eef6394c4a56de7,czlonkowski/n8n-mcp,David Lo,https://github.com/czlonkowski/n8n-mcp/commit/42a24278dba76e2efd41ec0f1eef6394c4a56de7,AI,AI,AI,,,,0,0,0,0,0,0,0
+415,beff93c0123e81bb816943103d3f39ea55dc6c33,anthropics/claude-cookbooks,David Lo,https://github.com/anthropics/claude-cookbooks/commit/beff93c0123e81bb816943103d3f39ea55dc6c33,AI,AI,AI,,,,0,0,0,0,0,0,0
+416,40043ed101e1b3b084b9e650c257b3a120a30d32,mehdibha/dotUI,David Lo,https://github.com/mehdibha/dotUI/commit/40043ed101e1b3b084b9e650c257b3a120a30d32,AI,AI,AI,,,,0,0,0,0,0,0,0
+417,458af5adfe26e0c30d51036b3e8f12ba9a0aff7a,amilich/isometric-city,David Lo,https://github.com/amilich/isometric-city/commit/458af5adfe26e0c30d51036b3e8f12ba9a0aff7a,AI,AI,AI,,,,0,0,0,0,0,0,0
+418,4263993f11b2a707fd21b70d6e70c2f92f45a2e7,openwallet-foundation/acapy-vc-authn-oidc,David Lo,https://github.com/openwallet-foundation/acapy-vc-authn-oidc/commit/4263993f11b2a707fd21b70d6e70c2f92f45a2e7,AI,AI,AI,,,,0,0,0,0,0,0,0
+419,0f5bfc50b001d79a036d405329ff0f0a7d2df6d6,RubyResearch/Agent,David Lo,https://github.com/RubyResearch/Agent/commit/0f5bfc50b001d79a036d405329ff0f0a7d2df6d6,AI,AI,AI,,,,0,0,0,1,0,0,0
+420,c68f8f591e97cfe9a98a2290ce2a687bf45abcc4,zgsm-ai/costrict,David Lo,https://github.com/zgsm-ai/costrict/commit/c68f8f591e97cfe9a98a2290ce2a687bf45abcc4,AI,AI,AI,,,,0,0,0,0,0,0,0
+421,1afed29231dfcc381f45fe6f9176c01261a4082a,Foundry376/Mailspring,David Lo,https://github.com/Foundry376/Mailspring/commit/1afed29231dfcc381f45fe6f9176c01261a4082a,AI,AI,AI,,,,0,0,0,0,0,0,0
+422,4c9746561c13e9d3183b5c01c1bc4b7ad13fd6d0,acoliver/llxprt-code,David Lo,https://github.com/acoliver/llxprt-code/commit/4c9746561c13e9d3183b5c01c1bc4b7ad13fd6d0,AI,AI,AI,,,,0,0,0,0,0,0,0
+423,5ca7111f2cd648e6b25d64cafa9424ab6c4192ad,digitaldemocracy2030/kouchou-ai,David Lo,https://github.com/digitaldemocracy2030/kouchou-ai/commit/5ca7111f2cd648e6b25d64cafa9424ab6c4192ad,AI,AI,AI,,,,1,0,1,1,1,0,0
+424,69342dbab7107ff0af908e324ba8369b4a35295f,Azure/autorest,David Lo,https://github.com/Azure/autorest/commit/69342dbab7107ff0af908e324ba8369b4a35295f,AI,AI,AI,,,,1,0,1,0,1,0,0
+425,489bd1f3cca5fe8e1f167a7306b41923f91d4cfa,cyberkaida/reverse-engineering-assistant,David Lo,https://github.com/cyberkaida/reverse-engineering-assistant/commit/489bd1f3cca5fe8e1f167a7306b41923f91d4cfa,AI,AI,AI,,,,0,0,0,0,0,0,0
+426,5003e8165447a74fa4b02e34c00b1ba6bb6bf4cf,vercel/vercel,David Lo,https://github.com/vercel/vercel/commit/5003e8165447a74fa4b02e34c00b1ba6bb6bf4cf,AI,AI,AI,,,,0,0,0,0,0,0,0
+427,8e0a58cf7790f602cbdf8498f0e2a772f1d5da62,CapSoftware/Cap,David Lo,https://github.com/CapSoftware/Cap/commit/8e0a58cf7790f602cbdf8498f0e2a772f1d5da62,AI,AI,AI,,,,0,0,0,0,0,0,0
+428,e6e9ef75ad73c185dd09d2db4196abdb2212a894,tobi/qmd,David Lo,https://github.com/tobi/qmd/commit/e6e9ef75ad73c185dd09d2db4196abdb2212a894,AI,AI,AI,,,,0,0,0,0,0,0,0
+429,b16ed4e5382fba2acab8c7c70d4760100cba6d5a,decidim/decidim,David Lo,https://github.com/decidim/decidim/commit/b16ed4e5382fba2acab8c7c70d4760100cba6d5a,AI,AI,AI,,,,0,0,0,0,0,0,0
+430,a59011eaa3b6280552dac1825b542a0b42056d1a,astronomer/astronomer-cosmos,David Lo,https://github.com/astronomer/astronomer-cosmos/commit/a59011eaa3b6280552dac1825b542a0b42056d1a,AI,AI,AI,,,,0,0,0,0,0,0,0
+431,2e5fc10ae0f162b28251ee402111d0bb9f02853f,bluet/proxybroker2,David Lo,https://github.com/bluet/proxybroker2/commit/2e5fc10ae0f162b28251ee402111d0bb9f02853f,AI,AI,AI,,,,0,0,0,0,0,0,0
+432,a9a062615a471329e15074bdd76018bb7a961b5e,stevenang/randomness_testsuite,David Lo,https://github.com/stevenang/randomness_testsuite/commit/a9a062615a471329e15074bdd76018bb7a961b5e,AI,AI,AI,,,,0,0,0,0,0,0,0
+433,3b177a54c13665b83bc4dfd780812365b4be08aa,ar-io/ar-io-node,David Lo,https://github.com/ar-io/ar-io-node/commit/3b177a54c13665b83bc4dfd780812365b4be08aa,AI,AI,AI,,,,0,0,0,0,0,0,0
+434,814922490c0884e5b336a4f26e227f79d65e9cb9,reflex-dev/reflex-web,David Lo,https://github.com/reflex-dev/reflex-web/commit/814922490c0884e5b336a4f26e227f79d65e9cb9,AI,AI,AI,,,,0,0,0,0,0,0,0
+435,61c919110e8446d9c8f90d082854f16b8524f22e,bluesky-social/social-app,David Lo,https://github.com/bluesky-social/social-app/commit/61c919110e8446d9c8f90d082854f16b8524f22e,AI,AI,AI,,,,0,0,0,0,0,0,0
+436,0a686fcbff6cd7e376d9a30663f2eeb34ffb8b18,svelteplot/svelteplot,David Lo,https://github.com/svelteplot/svelteplot/commit/0a686fcbff6cd7e376d9a30663f2eeb34ffb8b18,AI,AI,AI,,,,0,0,0,0,0,0,0
+437,078478074f37bcf1202aa647b1be7a585b4d7fdf,blinkospace/blinko,David Lo,https://github.com/blinkospace/blinko/commit/078478074f37bcf1202aa647b1be7a585b4d7fdf,AI,AI,AI,,,,0,0,0,0,0,0,0
+438,b46ed012107e62121fa1323d8d36979315b49de9,enzonotario/vitepress-openapi,David Lo,https://github.com/enzonotario/vitepress-openapi/commit/b46ed012107e62121fa1323d8d36979315b49de9,AI,AI,AI,,,,0,0,0,0,0,0,0
+439,cc26b3d273f33abae5edc429dd49909384fa5cd2,vaadin/flow-components,David Lo,https://github.com/vaadin/flow-components/commit/cc26b3d273f33abae5edc429dd49909384fa5cd2,AI,AI,AI,,,,0,0,0,0,0,0,0
+440,16f9a048ba07f396288f6c5a16f201a1718ec481,ding113/claude-code-hub,David Lo,https://github.com/ding113/claude-code-hub/commit/16f9a048ba07f396288f6c5a16f201a1718ec481,AI,AI,AI,,,,0,0,0,0,0,0,0
+441,f3aa68e16e8cc4ae0a8ee028b986740185cf28f3,ShaneIsrael/fireshare,David Lo,https://github.com/ShaneIsrael/fireshare/commit/f3aa68e16e8cc4ae0a8ee028b986740185cf28f3,AI,AI,AI,,,,0,0,0,0,0,0,0
+442,ddcff02df9015458b26c4d35cb939e9d8e53e0ea,AndyMik90/Auto-Claude,David Lo,https://github.com/AndyMik90/Auto-Claude/commit/ddcff02df9015458b26c4d35cb939e9d8e53e0ea,AI,AI,AI,,,,0,0,0,0,0,0,0
+443,404d82c0782c3446660b4e332b6b5910f09e9d0c,Notifuse/notifuse,David Lo,https://github.com/Notifuse/notifuse/commit/404d82c0782c3446660b4e332b6b5910f09e9d0c,AI,AI,AI,,,,0,0,0,0,0,0,0
+444,86472cef87afe53239552fffe9810508fba89d90,NVIDIA/NeMo-Agent-Toolkit,David Lo,https://github.com/NVIDIA/NeMo-Agent-Toolkit/commit/86472cef87afe53239552fffe9810508fba89d90,AI,AI,AI,,,,0,0,0,0,0,0,0
+445,b9e9d3e19c5049419af24d19fe5bcdee4936fedf,wp-document-revisions/wp-document-revisions,David Lo,https://github.com/wp-document-revisions/wp-document-revisions/commit/b9e9d3e19c5049419af24d19fe5bcdee4936fedf,AI,AI,AI,,,,0,0,0,0,0,0,0
+446,2f066eb1c00c26d59f9cfc86dcdabb07392c0587,elizaOS/eliza,David Lo,https://github.com/elizaOS/eliza/commit/2f066eb1c00c26d59f9cfc86dcdabb07392c0587,AI,AI,AI,,,,0,0,0,0,0,0,0
+447,1a05480a70e326adc4872ead3578105ed06f98a2,BasedHardware/omi,David Lo,https://github.com/BasedHardware/omi/commit/1a05480a70e326adc4872ead3578105ed06f98a2,AI,AI,AI,,,,0,0,0,0,0,0,0
+448,bee1ed5fb6c18710093cf7a222bd9a9ea4a40755,Agoric/agoric-sdk,David Lo,https://github.com/Agoric/agoric-sdk/commit/bee1ed5fb6c18710093cf7a222bd9a9ea4a40755,AI,AI,AI,,,,0,0,0,0,0,0,0
+449,9b3e0ccefa7562192941b3f611ee3fbeb0b57ebe,mcp-ecosystem/mcp-gateway,David Lo,https://github.com/mcp-ecosystem/mcp-gateway/commit/9b3e0ccefa7562192941b3f611ee3fbeb0b57ebe,AI,AI,AI,,,,1,0,1,1,1,0,0
+450,e3541f0d6558f6f1c80d12d70c80ce90ff25f034,Gnathonic/mokuro-reader,David Lo,https://github.com/Gnathonic/mokuro-reader/commit/e3541f0d6558f6f1c80d12d70c80ce90ff25f034,AI,AI,AI,,,,0,0,0,0,0,0,0
+451,c5fb353f109dfe79b51c201ebb1ff33fceeae34a,docling-project/docling,David Lo,https://github.com/docling-project/docling/commit/c5fb353f109dfe79b51c201ebb1ff33fceeae34a,AI,AI,AI,,,,0,0,0,0,0,0,0
+452,5b6b7e9cfed51ff59d5791135bfafacc761a3972,acados/acados,David Lo,https://github.com/acados/acados/commit/5b6b7e9cfed51ff59d5791135bfafacc761a3972,AI,AI,AI,,,,0,0,0,0,0,0,0
+453,02b24bbeb71c15f791aef5ed67b089dcd86691cb,camunda/camunda,David Lo,https://github.com/camunda/camunda/commit/02b24bbeb71c15f791aef5ed67b089dcd86691cb,AI,AI,AI,,,,0,0,0,0,0,0,0
+454,4fdcc87a1c747275f999e3d8912dc437cbdba6dc,platonai/PulsarRPA,David Lo,https://github.com/platonai/PulsarRPA/commit/4fdcc87a1c747275f999e3d8912dc437cbdba6dc,AI,AI,AI,,,,0,0,0,0,0,0,0
+455,14e6ade78513ac35f00a6928d24e125a798fba10,civitai/civitai,David Lo,https://github.com/civitai/civitai/commit/14e6ade78513ac35f00a6928d24e125a798fba10,AI,AI,AI,,,,0,0,0,0,0,0,0
+456,2b05e33d62e68a5fd37a0ee409ccb57ee439a478,romange/helio,David Lo,https://github.com/romange/helio/commit/2b05e33d62e68a5fd37a0ee409ccb57ee439a478,AI,AI,AI,,,,0,0,0,0,0,0,0
+457,bc3abca35abcf6ea46670b38b77d50f1a45654a1,codervisor/lean-spec,David Lo,https://github.com/codervisor/lean-spec/commit/bc3abca35abcf6ea46670b38b77d50f1a45654a1,AI,AI,AI,,,,0,0,0,0,0,0,0
+458,f42a5296e7fc5b35231b5340f513fb111ae5aedf,EstrellaXD/Auto_Bangumi,David Lo,https://github.com/EstrellaXD/Auto_Bangumi/commit/f42a5296e7fc5b35231b5340f513fb111ae5aedf,AI,AI,AI,,,,0,0,0,0,0,0,0
+459,d17b1a6109b5c0379174475426221519eeb1a34f,yoshiko-pg/difit,David Lo,https://github.com/yoshiko-pg/difit/commit/d17b1a6109b5c0379174475426221519eeb1a34f,AI,AI,AI,,,,0,0,0,0,0,0,0
+460,e358f59d7edefc8cf951595e23101677af4f2ff5,groupultra/telegram-search,David Lo,https://github.com/groupultra/telegram-search/commit/e358f59d7edefc8cf951595e23101677af4f2ff5,AI,AI,AI,,,,0,0,0,0,0,0,0
+461,69c5b09dcbd2b270e8195c356883aacd6c528b1b,TinyActive/nginx-love,David Lo,https://github.com/TinyActive/nginx-love/commit/69c5b09dcbd2b270e8195c356883aacd6c528b1b,AI,AI,AI,,,,0,0,0,0,0,0,0
+462,8d2168ef803d62e57b0f20c57373f7e038a30ea9,calcitem/Sanmill,David Lo,https://github.com/calcitem/Sanmill/commit/8d2168ef803d62e57b0f20c57373f7e038a30ea9,AI,AI,AI,,,,0,0,0,0,0,0,0
+463,821cb89b06925a74bdeba15b11ebfc0be6d6747b,leerob/comprs,David Lo,https://github.com/leerob/comprs/commit/821cb89b06925a74bdeba15b11ebfc0be6d6747b,AI,AI,AI,,,,0,0,0,0,0,0,0
+464,22977ecdca2c61cb368c2485cf9673c32ab35624,cagnulein/qdomyos-zwift,David Lo,https://github.com/cagnulein/qdomyos-zwift/commit/22977ecdca2c61cb368c2485cf9673c32ab35624,AI,AI,AI,,,,0,0,0,0,0,0,0
+465,a33ecdbb971869605c4e8c03b5a0a00465040bd4,Flow-Launcher/Flow.Launcher,David Lo,https://github.com/Flow-Launcher/Flow.Launcher/commit/a33ecdbb971869605c4e8c03b5a0a00465040bd4,AI,AI,AI,,,,0,0,0,0,0,0,0
+466,9a4a38f4a2ef85952ca57de0eafe24840892b8f1,ngtcp2/ngtcp2,David Lo,https://github.com/ngtcp2/ngtcp2/commit/9a4a38f4a2ef85952ca57de0eafe24840892b8f1,AI,AI,AI,,,,0,0,0,0,0,0,0
+467,edd25a7f99192685fd3c48a7376131ea2af6572c,OpenMS/OpenMS,David Lo,https://github.com/OpenMS/OpenMS/commit/edd25a7f99192685fd3c48a7376131ea2af6572c,AI,AI,AI,,,,0,0,0,0,0,0,0
+468,41d353360ee7a76552d79720fdb804311de1710b,maester365/maester,David Lo,https://github.com/maester365/maester/commit/41d353360ee7a76552d79720fdb804311de1710b,AI,AI,AI,,,,0,0,0,0,0,0,0
+469,36365d7410c39c0b8ca493dea127da3e7fb2b2ee,DrizzleTime/Foxel,David Lo,https://github.com/DrizzleTime/Foxel/commit/36365d7410c39c0b8ca493dea127da3e7fb2b2ee,AI,AI,AI,,,,0,0,0,0,0,0,0
+470,81fedfaac23a36dc7558216ce3dbcb0db0b2f79d,Azure/azure-sdk-for-python,David Lo,https://github.com/Azure/azure-sdk-for-python/commit/81fedfaac23a36dc7558216ce3dbcb0db0b2f79d,AI,AI,AI,,,,0,0,0,0,0,0,0
+471,24729eeea3d923fb7346714d948734ba0cbfb82a,RubyResearch/Agent,David Lo,https://github.com/RubyResearch/Agent/commit/24729eeea3d923fb7346714d948734ba0cbfb82a,AI,AI,AI,,,,0,0,0,0,0,0,0
+472,3b27c302fbb0331ab1f01555b61dc39ff3743ed6,testdriverai/cli,David Lo,https://github.com/testdriverai/cli/commit/3b27c302fbb0331ab1f01555b61dc39ff3743ed6,AI,AI,AI,,,,0,0,0,0,0,0,0
+473,60d14f9a25c352b4b9553396f3946c03d48e2020,OpenMS/OpenMS,David Lo,https://github.com/OpenMS/OpenMS/commit/60d14f9a25c352b4b9553396f3946c03d48e2020,AI,AI,AI,,,,0,0,0,0,0,0,0
+474,b32b4660dd6f8408dd7162958b8115cfb7df8a0a,motiondivision/motion,David Lo,https://github.com/motiondivision/motion/commit/b32b4660dd6f8408dd7162958b8115cfb7df8a0a,AI,AI,AI,,,,0,0,0,0,0,0,0
+475,ad22c21037e5541c9ba38d98173f5d453c5c82d0,web-infra-dev/rspack,David Lo,https://github.com/web-infra-dev/rspack/commit/ad22c21037e5541c9ba38d98173f5d453c5c82d0,AI,AI,AI,,,,0,0,0,0,0,0,0
+476,40af4a717f447498495a828f1ef3ed099ba4242d,livestorejs/livestore,David Lo,https://github.com/livestorejs/livestore/commit/40af4a717f447498495a828f1ef3ed099ba4242d,AI,AI,AI,,,,0,0,0,0,0,0,0
+477,8727a22c501cdd5f9bd7c00923acd2552fd9f53f,MetaMask/core,David Lo,https://github.com/MetaMask/core/commit/8727a22c501cdd5f9bd7c00923acd2552fd9f53f,AI,AI,AI,,,,0,0,0,0,0,0,0
+478,85cbe05f8f349939cfd04b10ad91418ddc308a81,AgentOps-AI/agentops,David Lo,https://github.com/AgentOps-AI/agentops/commit/85cbe05f8f349939cfd04b10ad91418ddc308a81,AI,AI,AI,,,,1,0,1,1,1,0,0
+479,3c8da60b6917b6e9387c624c8860164ececa1122,razorpay/blade,David Lo,https://github.com/razorpay/blade/commit/3c8da60b6917b6e9387c624c8860164ececa1122,AI,AI,AI,,,,0,0,0,0,0,0,0
+480,005201cf68685cb6e6440a46ea1f5a847942a79d,tursodatabase/turso,David Lo,https://github.com/tursodatabase/turso/commit/005201cf68685cb6e6440a46ea1f5a847942a79d,AI,AI,AI,,,,0,0,0,0,0,0,0
+481,13ee5bf054f66be4b8d42bced2f3f6fc35e4e37b,taikoxyz/taiko-mono,David Lo,https://github.com/taikoxyz/taiko-mono/commit/13ee5bf054f66be4b8d42bced2f3f6fc35e4e37b,AI,AI,AI,,,,0,0,0,0,0,0,0
+482,c1253706938ef340678352bb79ca8efa754bcf3c,ROCm/TheRock,David Lo,https://github.com/ROCm/TheRock/commit/c1253706938ef340678352bb79ca8efa754bcf3c,AI,AI,AI,,,,0,0,0,0,0,0,0
+483,5a94b8cb3c64aed6623440660816594266840b91,OWASP/mastg,David Lo,https://github.com/OWASP/mastg/commit/5a94b8cb3c64aed6623440660816594266840b91,AI,AI,AI,,,,0,0,0,0,0,0,0
+484,39a74fd637cd6d302e53ea44fd666faf2e414aa9,operately/operately,David Lo,https://github.com/operately/operately/commit/39a74fd637cd6d302e53ea44fd666faf2e414aa9,AI,AI,AI,,,,0,0,0,0,0,0,0
+485,6d8120e5642085eee16637082b2a369ca834a8f1,Helicone/helicone,David Lo,https://github.com/Helicone/helicone/commit/6d8120e5642085eee16637082b2a369ca834a8f1,AI,AI,AI,,,,0,0,0,0,0,0,0
+486,d0e9f6a461eac5c57aad486e8bfe3888a1ff259c,leerob/pixo,David Lo,https://github.com/leerob/pixo/commit/d0e9f6a461eac5c57aad486e8bfe3888a1ff259c,AI,AI,AI,,,,0,0,0,0,0,0,0
+487,1fd1be34f9b1fd5003e2b5474d690fd9f1a717f7,freenet/freenet-core,David Lo,https://github.com/freenet/freenet-core/commit/1fd1be34f9b1fd5003e2b5474d690fd9f1a717f7,AI,AI,AI,,,,0,0,0,0,0,0,0
+488,d5bb88e36da2e54f2260b320a0e2caec676014b9,safety-research/safety-tooling,David Lo,https://github.com/safety-research/safety-tooling/commit/d5bb88e36da2e54f2260b320a0e2caec676014b9,AI,AI,AI,,,,0,0,0,0,0,0,0
+489,de6009da7e50f907a78118d1e3b56497f59fd57f,lobehub/lobehub,David Lo,https://github.com/lobehub/lobehub/commit/de6009da7e50f907a78118d1e3b56497f59fd57f,AI,AI,AI,,,,0,0,0,0,0,0,0
+490,625bc467d4159eb731b6c8ce9726b6052f867d10,home-assistant/core,David Lo,https://github.com/home-assistant/core/commit/625bc467d4159eb731b6c8ce9726b6052f867d10,AI,AI,AI,,,,0,0,0,0,0,0,0
+491,136bb3ad08b4a656ed53651bf11e2364574baa37,groupultra/telegram-search,David Lo,https://github.com/groupultra/telegram-search/commit/136bb3ad08b4a656ed53651bf11e2364574baa37,AI,AI,AI,,,,0,0,0,0,0,0,0
+492,94f542c76a0aae3cdbeb9397dcd706a5ff8d23ee,BeehiveInnovations/pal-mcp-server,David Lo,https://github.com/BeehiveInnovations/pal-mcp-server/commit/94f542c76a0aae3cdbeb9397dcd706a5ff8d23ee,AI,AI,AI,,,,0,0,0,0,0,0,0
+493,d7a536ab857fc04aab75cd8bc07316b9ec5bbfcb,foxglove/foxglove-sdk,David Lo,https://github.com/foxglove/foxglove-sdk/commit/d7a536ab857fc04aab75cd8bc07316b9ec5bbfcb,AI,AI,AI,,,,0,0,0,0,0,0,0
+494,5ca12b38b5953a092f5a59138715bc873723fea4,playcanvas/editor,David Lo,https://github.com/playcanvas/editor/commit/5ca12b38b5953a092f5a59138715bc873723fea4,AI,AI,AI,,,,0,0,0,0,0,0,0
+495,745a7ffea946e09836b358e25ad9af3d8e5a5eec,github/docs,David Lo,https://github.com/github/docs/commit/745a7ffea946e09836b358e25ad9af3d8e5a5eec,AI,AI,AI,,,,0,0,0,0,0,0,0
+496,bcd97c9a7ab119d0caae8fae3d846aeecc2b4dd5,bannzai/Pilll,David Lo,https://github.com/bannzai/Pilll/commit/bcd97c9a7ab119d0caae8fae3d846aeecc2b4dd5,AI,AI,AI,,,,0,0,0,0,0,0,0
+497,104623bc65497ba3f3cdfb8534bd96e169720e40,TBosak/mkfd,David Lo,https://github.com/TBosak/mkfd/commit/104623bc65497ba3f3cdfb8534bd96e169720e40,AI,AI,AI,,,,0,0,0,0,0,0,0
+498,447d73f8c2245d061b0e84890fb994a77816a736,shader-slang/slang,David Lo,https://github.com/shader-slang/slang/commit/447d73f8c2245d061b0e84890fb994a77816a736,AI,AI,AI,,,,0,0,0,0,0,0,0
+499,f0f3d3edc132befc7b708706214c567498e312c5,stackrox/stackrox,David Lo,https://github.com/stackrox/stackrox/commit/f0f3d3edc132befc7b708706214c567498e312c5,AI,AI,AI,,,,0,0,0,0,0,0,0
+500,c666f7d0e014ac3939a3369e870f1a2e261d8444,yamadashy/repopack,David Lo,https://github.com/yamadashy/repopack/commit/c666f7d0e014ac3939a3369e870f1a2e261d8444,AI,AI,AI,,,,0,0,0,0,0,0,0
+501,5c5feb13e84d0ba8828f02773aa5507c27a33013,RchGrav/claudebox,David Lo,https://github.com/RchGrav/claudebox/commit/5c5feb13e84d0ba8828f02773aa5507c27a33013,AI,AI,AI,,,,0,0,0,0,0,0,0
+502,85df16cb80834b6e8c93640fed1f3aa8d2e72e45,codeflash-ai/codeflash,David Lo,https://github.com/codeflash-ai/codeflash/commit/85df16cb80834b6e8c93640fed1f3aa8d2e72e45,AI,AI,AI,,,,0,0,0,0,0,0,0
+503,7fad4810e2c12130e838c57415120eb08cd2f3f7,pydantic/pydantic-ai,David Lo,https://github.com/pydantic/pydantic-ai/commit/7fad4810e2c12130e838c57415120eb08cd2f3f7,AI,AI,AI,,,,0,0,0,0,0,0,0
+504,23367654162fbafd7ede4a5fd0784d1c52dec45e,1c-syntax/bsl-language-server,David Lo,https://github.com/1c-syntax/bsl-language-server/commit/23367654162fbafd7ede4a5fd0784d1c52dec45e,AI,AI,AI,,,,0,0,0,0,0,0,0
+505,6b6857929d8397fbec1cd132eb4ea5d13712497c,vllm-project/vllm-ascend,David Lo,https://github.com/vllm-project/vllm-ascend/commit/6b6857929d8397fbec1cd132eb4ea5d13712497c,AI,AI,AI,,,,0,0,0,0,0,0,0
+506,2590ac77d8985bf1c17b02d5e8d767d8a490f7e0,apache/sedona-db,David Lo,https://github.com/apache/sedona-db/commit/2590ac77d8985bf1c17b02d5e8d767d8a490f7e0,AI,AI,AI,,,,0,0,0,0,0,0,0
+507,19f7b44d571e092fd28e33e221f7079de132169b,theopenco/openllm,David Lo,https://github.com/theopenco/openllm/commit/19f7b44d571e092fd28e33e221f7079de132169b,AI,AI,AI,,,,0,0,0,0,0,0,0
+508,cc1bf1245bc08a6ae0c52077df6f69fa6fb4b64d,hmislk/hmis,David Lo,https://github.com/hmislk/hmis/commit/cc1bf1245bc08a6ae0c52077df6f69fa6fb4b64d,AI,AI,AI,,,,0,0,0,0,0,0,0
+509,5c157018e3ff54d7f55ee8916dbe9eef94b1c709,vaadin/web-components,David Lo,https://github.com/vaadin/web-components/commit/5c157018e3ff54d7f55ee8916dbe9eef94b1c709,AI,AI,AI,,,,0,0,0,0,0,0,0
+510,1298f7bd57898cb6c86f7905060bef3adc18683c,yusufkaraaslan/Skill_Seekers,David Lo,https://github.com/yusufkaraaslan/Skill_Seekers/commit/1298f7bd57898cb6c86f7905060bef3adc18683c,AI,AI,AI,,,,0,0,0,0,0,0,0
+511,bf6a4f766062d7b030c7c32fc4b6f11114ad3824,514-labs/moose,David Lo,https://github.com/514-labs/moose/commit/bf6a4f766062d7b030c7c32fc4b6f11114ad3824,AI,AI,AI,,,,0,0,0,0,0,0,0
+512,785092f2768c19d6dd9df215a33892ea848908e5,codervisor/lean-spec,David Lo,https://github.com/codervisor/lean-spec/commit/785092f2768c19d6dd9df215a33892ea848908e5,AI,AI,AI,,,,0,0,0,0,0,0,0
+513,909d7647bfb8271846ae0b84a759d60ec1b7172f,pmndrs/triplex,David Lo,https://github.com/pmndrs/triplex/commit/909d7647bfb8271846ae0b84a759d60ec1b7172f,AI,AI,AI,,,,0,0,0,0,0,0,0
+514,7a4aa852650b69d40e89fca09c7ad9fb0ad4ce7b,kromitgmbh/titra,David Lo,https://github.com/kromitgmbh/titra/commit/7a4aa852650b69d40e89fca09c7ad9fb0ad4ce7b,AI,AI,AI,,,,0,0,0,0,0,0,0
+515,5ddeb44150fa737a5130827af9954d57952b8019,e2b-dev/E2B,David Lo,https://github.com/e2b-dev/E2B/commit/5ddeb44150fa737a5130827af9954d57952b8019,AI,AI,AI,,,,0,0,0,0,0,0,0
+516,1d4e55315f0b54fd281a6cd9a63175ab8218d1e3,tysonthomas9/browser-operator-core,David Lo,https://github.com/tysonthomas9/browser-operator-core/commit/1d4e55315f0b54fd281a6cd9a63175ab8218d1e3,AI,AI,AI,,,,0,0,0,0,0,0,0
+517,a407aedb1c6ed7f3ab454db422fc9c4caa4e3a1e,NVIDIA-NeMo/Curator,David Lo,https://github.com/NVIDIA-NeMo/Curator/commit/a407aedb1c6ed7f3ab454db422fc9c4caa4e3a1e,AI,AI,AI,,,,0,0,0,0,0,0,0
+518,edcba5f66ffd56deaca6b3172ea9bb91ccfebdf9,evalstate/fast-agent,David Lo,https://github.com/evalstate/fast-agent/commit/edcba5f66ffd56deaca6b3172ea9bb91ccfebdf9,AI,AI,AI,,,,0,0,0,0,0,0,0
+519,5e1627f34989361e7bde4d5aeee5b18cf9282b6e,CherryHQ/cherry-studio,David Lo,https://github.com/CherryHQ/cherry-studio/commit/5e1627f34989361e7bde4d5aeee5b18cf9282b6e,AI,AI,AI,,,,0,0,0,0,0,0,0
+520,5d9de64fc8ec1ee087252fbb08621db23d9ae893,567-labs/instructor,David Lo,https://github.com/567-labs/instructor/commit/5d9de64fc8ec1ee087252fbb08621db23d9ae893,AI,AI,AI,,,,0,0,0,0,0,0,0
+521,739599a2c022cc3bda3e66ff57c12da3c8208ef6,module-federation/core,David Lo,https://github.com/module-federation/core/commit/739599a2c022cc3bda3e66ff57c12da3c8208ef6,AI,AI,AI,,,,0,0,0,0,0,0,0
+522,b4d20b4f48f9e00c9667bfa9ea0db5e7f530c1fc,wandb/catnip,David Lo,https://github.com/wandb/catnip/commit/b4d20b4f48f9e00c9667bfa9ea0db5e7f530c1fc,AI,AI,AI,,,,0,0,0,0,0,0,0
+523,f517ffca4803109586f9d0daac3f7afb5cf795eb,samuelclay/NewsBlur,David Lo,https://github.com/samuelclay/NewsBlur/commit/f517ffca4803109586f9d0daac3f7afb5cf795eb,AI,AI,AI,,,,0,0,0,0,0,0,0
+524,540fe99d20f2867c9589b8194ac1daa6e53a3fbd,TimeCopilot/timecopilot,David Lo,https://github.com/TimeCopilot/timecopilot/commit/540fe99d20f2867c9589b8194ac1daa6e53a3fbd,AI,AI,AI,,,,0,0,0,0,0,0,0
+525,2a7876c1481cbc88a618994b5f5c2e04f8087a52,vitest-dev/docs-cn,David Lo,https://github.com/vitest-dev/docs-cn/commit/2a7876c1481cbc88a618994b5f5c2e04f8087a52,AI,AI,AI,,,,0,0,0,0,0,0,0
+526,9c700f760a7103b081bbffc58b2759251653bccc,dotnet/runtimelab,David Lo,https://github.com/dotnet/runtimelab/commit/9c700f760a7103b081bbffc58b2759251653bccc,AI,AI,AI,,,,0,0,0,0,0,0,0
+527,30db1529aaf175202a07cbc5dd2f8b2464000f95,mattgodbolt/jsbeeb,David Lo,https://github.com/mattgodbolt/jsbeeb/commit/30db1529aaf175202a07cbc5dd2f8b2464000f95,AI,AI,AI,,,,0,0,0,0,0,0,0
+528,f09aff3a93ca913e9edd75ba51899808fce0af0d,kubestellar/kubestellar,David Lo,https://github.com/kubestellar/kubestellar/commit/f09aff3a93ca913e9edd75ba51899808fce0af0d,AI,AI,AI,,,,0,0,0,0,0,0,0
+529,1030616fed6e8a56af641b60b351ccf008296049,NapNeko/NapCatQQ-Desktop,David Lo,https://github.com/NapNeko/NapCatQQ-Desktop/commit/1030616fed6e8a56af641b60b351ccf008296049,AI,AI,AI,,,,0,0,0,0,0,0,0
+530,bf7ea584ef692d9e0c650845e55f100c4afb5da2,Michael-A-Kuykendall/shimmy,David Lo,https://github.com/Michael-A-Kuykendall/shimmy/commit/bf7ea584ef692d9e0c650845e55f100c4afb5da2,AI,AI,AI,,,,0,0,0,0,0,0,0
+531,299287377778cb80cd0080f2d93094ef80a5cb32,yusufkaraaslan/Skill_Seekers,David Lo,https://github.com/yusufkaraaslan/Skill_Seekers/commit/299287377778cb80cd0080f2d93094ef80a5cb32,AI,AI,AI,,,,0,0,0,0,0,0,0
+532,b5ace253640e56b4127a1b9293c3c7496e388582,markuplint/markuplint,David Lo,https://github.com/markuplint/markuplint/commit/b5ace253640e56b4127a1b9293c3c7496e388582,AI,AI,AI,,,,0,0,0,0,0,0,0
+533,dfe24c83abdfcf787a7a104a95cbd576de9772fc,langgenius/dify,David Lo,https://github.com/langgenius/dify/commit/dfe24c83abdfcf787a7a104a95cbd576de9772fc,AI,AI,AI,,,,0,0,0,0,0,0,0
+534,2d57aad9ad556d6d311efbfca55c2a5fa7caf53b,speakeasy-api/gram,David Lo,https://github.com/speakeasy-api/gram/commit/2d57aad9ad556d6d311efbfca55c2a5fa7caf53b,AI,AI,AI,,,,0,0,0,0,0,0,0
+535,4e3064ecca8318b159a51eeebe77221fa7078f6c,different-ai/file-organizer-2000,David Lo,https://github.com/different-ai/file-organizer-2000/commit/4e3064ecca8318b159a51eeebe77221fa7078f6c,AI,AI,AI,,,,1,0,1,1,1,0,0
+536,e78bfc80ecaf6e80f873ec679c02096474fc06fa,AutoMaker-Org/automaker,David Lo,https://github.com/AutoMaker-Org/automaker/commit/e78bfc80ecaf6e80f873ec679c02096474fc06fa,AI,AI,AI,,,,0,0,0,0,0,0,0
+537,6db4b487c0e14707c14e248c620eced5ef4166e0,PostHog/posthog-js,David Lo,https://github.com/PostHog/posthog-js/commit/6db4b487c0e14707c14e248c620eced5ef4166e0,AI,AI,AI,,,,0,0,0,0,0,0,0
+538,681f46c873f5dd45e61636dafa1eafbeebce140e,anthropics/claude-agent-sdk-python,David Lo,https://github.com/anthropics/claude-agent-sdk-python/commit/681f46c873f5dd45e61636dafa1eafbeebce140e,AI,AI,AI,,,,0,0,0,0,0,0,0
+539,ea10ad75671b3f47d9979b45bf4d5362217ab405,ballerine-io/ballerine,David Lo,https://github.com/ballerine-io/ballerine/commit/ea10ad75671b3f47d9979b45bf4d5362217ab405,AI,AI,AI,,,,0,0,0,0,0,0,0
+540,e9024e6d3008cfa0f42d4a219b7f15d7431e03f8,ChatLunaLab/chatluna,David Lo,https://github.com/ChatLunaLab/chatluna/commit/e9024e6d3008cfa0f42d4a219b7f15d7431e03f8,AI,AI,AI,,,,0,0,0,0,0,0,0
+541,3d825c3466bf94f5e7316d558b8344652dddfdcd,CarGuo/GSYGithubAPP,David Lo,https://github.com/CarGuo/GSYGithubAPP/commit/3d825c3466bf94f5e7316d558b8344652dddfdcd,AI,AI,AI,,,,0,0,0,0,0,0,0
+542,d574d8ba9cdeb9f943b4e62dca1928e99134a72e,zwave-js/zwave-js-ui,David Lo,https://github.com/zwave-js/zwave-js-ui/commit/d574d8ba9cdeb9f943b4e62dca1928e99134a72e,AI,AI,AI,,,,0,0,0,0,0,0,0
+543,7fb8cdc56ec1a3e6e13815e59e6114755dee6d5e,microsoft/TypeScript,David Lo,https://github.com/microsoft/TypeScript/commit/7fb8cdc56ec1a3e6e13815e59e6114755dee6d5e,AI,AI,AI,,,,1,0,1,1,1,0,0
+544,a7d0e42f3fa5b147fea9109f60e799229f30a68b,langchain-ai/langchain,David Lo,https://github.com/langchain-ai/langchain/commit/a7d0e42f3fa5b147fea9109f60e799229f30a68b,AI,AI,AI,,,,0,0,0,0,0,0,0
+545,4693ffb468a04f30f08ad9c10b88695889b8d149,OWASP/mastg,David Lo,https://github.com/OWASP/mastg/commit/4693ffb468a04f30f08ad9c10b88695889b8d149,AI,AI,AI,,,,0,0,0,0,0,0,0
+546,24b47039fb798a724433a911f1f719264705bc3c,wireapp/wire-webapp,David Lo,https://github.com/wireapp/wire-webapp/commit/24b47039fb798a724433a911f1f719264705bc3c,AI,AI,AI,,,,0,0,0,0,0,0,0
+547,9a697d76cf35330156393f85794dd53b900d23d0,codelibs/fess,David Lo,https://github.com/codelibs/fess/commit/9a697d76cf35330156393f85794dd53b900d23d0,AI,AI,AI,,,,0,0,0,0,0,0,0
+548,de70ede54a432631e2bc938bbfc7b68e59d407f4,Significant-Gravitas/AutoGPT,David Lo,https://github.com/Significant-Gravitas/AutoGPT/commit/de70ede54a432631e2bc938bbfc7b68e59d407f4,AI,AI,AI,,,,0,0,0,0,0,0,0
+549,be737454be495b8ee8d89fb1486eab4dc7dee39a,RazorConsole/RazorConsole,David Lo,https://github.com/RazorConsole/RazorConsole/commit/be737454be495b8ee8d89fb1486eab4dc7dee39a,AI,AI,AI,,,,0,0,0,0,0,0,0
+550,542581f6a4580252ff259b1bd536576e873ef321,dinerojs/dinero.js,David Lo,https://github.com/dinerojs/dinero.js/commit/542581f6a4580252ff259b1bd536576e873ef321,AI,AI,AI,,,,0,0,0,0,0,0,0
+551,e18b7a92c7faccc993db68cb4a2d6a30c8e6db36,lobehub/lobe-chat,David Lo,https://github.com/lobehub/lobe-chat/commit/e18b7a92c7faccc993db68cb4a2d6a30c8e6db36,AI,AI,AI,,,,0,0,0,0,0,0,0
+552,269625a5a79ae6bf53de4017b2ed72f02a8b985f,TanStack/router,David Lo,https://github.com/TanStack/router/commit/269625a5a79ae6bf53de4017b2ed72f02a8b985f,AI,AI,AI,,,,0,0,0,0,0,0,0
+553,54a698b84e68109fdb3c492426a14ed553f25147,jsonresume/jsonresume.org,David Lo,https://github.com/jsonresume/jsonresume.org/commit/54a698b84e68109fdb3c492426a14ed553f25147,AI,AI,AI,,,,0,0,0,0,0,0,0
+554,f50f0ae79811ce01906123ec81726a04998f48ba,redpanda-data/redpanda,David Lo,https://github.com/redpanda-data/redpanda/commit/f50f0ae79811ce01906123ec81726a04998f48ba,AI,AI,AI,,,,0,0,0,0,0,0,0
+555,e2904756be35d5f7df12e2c253f5da2353409efb,tambo-ai/tambo,David Lo,https://github.com/tambo-ai/tambo/commit/e2904756be35d5f7df12e2c253f5da2353409efb,AI,AI,AI,,,,0,0,0,0,0,0,0
+556,f9b18f141b14b24631c879ef21b206a0dcb3702b,getarcaneapp/arcane,David Lo,https://github.com/getarcaneapp/arcane/commit/f9b18f141b14b24631c879ef21b206a0dcb3702b,AI,AI,AI,,,,0,0,0,0,0,0,0
+557,86131d4bd8081dd0102df2d78295c9669003799c,langgenius/dify,David Lo,https://github.com/langgenius/dify/commit/86131d4bd8081dd0102df2d78295c9669003799c,AI,AI,AI,,,,0,0,0,0,0,0,0
+558,10cfed72b9452881f4af7b6e7737719d69b666dd,wisent-ai/wisent-guard,David Lo,https://github.com/wisent-ai/wisent-guard/commit/10cfed72b9452881f4af7b6e7737719d69b666dd,AI,AI,AI,,,,0,0,0,0,0,0,0
+559,5610da6275007a04d2c4f83bf91ded3e8cb7e476,514-labs/moosestack,David Lo,https://github.com/514-labs/moosestack/commit/5610da6275007a04d2c4f83bf91ded3e8cb7e476,AI,AI,AI,,,,0,0,0,0,0,0,0
+560,d4fbe0bf7339459eaff537135507999a0c721995,capacitor-community/stripe,David Lo,https://github.com/capacitor-community/stripe/commit/d4fbe0bf7339459eaff537135507999a0c721995,AI,AI,AI,,,,0,0,0,0,0,0,0
+561,87eea10e9842515364fee448ded5a7e005ebf7a0,deco-cx/chat,David Lo,https://github.com/deco-cx/chat/commit/87eea10e9842515364fee448ded5a7e005ebf7a0,AI,AI,AI,,,,0,0,0,0,0,0,0
+562,dea7c6da7e0d60f2918e1498a6e3591a20ca9093,windmill-labs/windmill,David Lo,https://github.com/windmill-labs/windmill/commit/dea7c6da7e0d60f2918e1498a6e3591a20ca9093,AI,AI,AI,,,,0,0,0,0,0,0,0
+563,09a6d8b6e81bb15eb49bd25fff04206703f1ea9a,Azure/AKS,David Lo,https://github.com/Azure/AKS/commit/09a6d8b6e81bb15eb49bd25fff04206703f1ea9a,AI,AI,AI,,,,0,0,0,0,0,0,0
+564,beb7684592db2f61229b518015b131a67a44b2ea,AlaSQL/alasql,David Lo,https://github.com/AlaSQL/alasql/commit/beb7684592db2f61229b518015b131a67a44b2ea,AI,AI,AI,,,,0,0,0,0,0,0,0
+565,2e9f50a9bf73dbcf0333b5db94d3cd2442c2b625,casdoor/casdoor,David Lo,https://github.com/casdoor/casdoor/commit/2e9f50a9bf73dbcf0333b5db94d3cd2442c2b625,AI,AI,AI,,,,0,0,0,0,0,0,0
+566,0cc00035b6ed38294c8c85bc8f0594bdcee87fe0,twentyhq/twenty,David Lo,https://github.com/twentyhq/twenty/commit/0cc00035b6ed38294c8c85bc8f0594bdcee87fe0,AI,AI,AI,,,,0,0,0,0,0,0,0
+567,f16fe3d90514daf8ba378a61af2e4bf1439958ca,tambo-ai/tambo,David Lo,https://github.com/tambo-ai/tambo/commit/f16fe3d90514daf8ba378a61af2e4bf1439958ca,AI,AI,AI,,,,0,0,0,0,0,0,0
+568,0b770022de08b81778daba5a0215f98680b540a0,lingdojo/kanadojo,David Lo,https://github.com/lingdojo/kanadojo/commit/0b770022de08b81778daba5a0215f98680b540a0,AI,AI,AI,,,,0,0,0,0,0,0,0
+569,179fb86fc4a829b4323b1f344d7e953b621df36d,microsoft/amplifier,David Lo,https://github.com/microsoft/amplifier/commit/179fb86fc4a829b4323b1f344d7e953b621df36d,AI,AI,AI,,,,0,0,0,0,0,0,0
+570,9da889cee26b94766184b777ab505c4d7f81eda5,Kocoro-lab/Shannon,David Lo,https://github.com/Kocoro-lab/Shannon/commit/9da889cee26b94766184b777ab505c4d7f81eda5,AI,AI,AI,,,,0,0,0,0,0,0,0
+571,17fdcc8b5b70bedfd34fe2dafcd60b95437b73d8,vitejs/vite-plugin-react,David Lo,https://github.com/vitejs/vite-plugin-react/commit/17fdcc8b5b70bedfd34fe2dafcd60b95437b73d8,AI,AI,AI,,,,0,0,0,0,0,0,0
+572,82e077abbfa29e49073cb6dc611eb2e32098f660,antiwork/gumroad,David Lo,https://github.com/antiwork/gumroad/commit/82e077abbfa29e49073cb6dc611eb2e32098f660,AI,AI,AI,,,,0,0,0,0,0,0,0
+573,94f8ba065386bacc071e0a8a5237ee57244c7c66,natolambert/rlhf-book,David Lo,https://github.com/natolambert/rlhf-book/commit/94f8ba065386bacc071e0a8a5237ee57244c7c66,AI,AI,AI,,,,0,0,0,0,0,0,0
+574,26a5f9a21d1d79160dbcd1098f2a5359b5f9f092,robusta-dev/holmesgpt,David Lo,https://github.com/robusta-dev/holmesgpt/commit/26a5f9a21d1d79160dbcd1098f2a5359b5f9f092,AI,AI,AI,,,,0,0,0,0,0,0,0
+575,140d589c249552bab91cd9ee03596e958c880166,xlnfinance/xln,David Lo,https://github.com/xlnfinance/xln/commit/140d589c249552bab91cd9ee03596e958c880166,AI,AI,AI,,,,0,0,0,0,0,0,0
+576,1f9da9186770bb6c380a1152abe5a0f39c821134,ag-ui-protocol/ag-ui,David Lo,https://github.com/ag-ui-protocol/ag-ui/commit/1f9da9186770bb6c380a1152abe5a0f39c821134,AI,AI,AI,,,,0,0,0,0,0,0,0
+577,71a8ab250a50c7f65061fdbe2f9a5324c5cd437f,codegen-sh/codegen,David Lo,https://github.com/codegen-sh/codegen/commit/71a8ab250a50c7f65061fdbe2f9a5324c5cd437f,AI,AI,AI,,,,0,0,0,0,0,0,0
+578,a4b581df3342a028a078a531ce25322e684d7827,ArcadeData/arcadedb,David Lo,https://github.com/ArcadeData/arcadedb/commit/a4b581df3342a028a078a531ce25322e684d7827,AI,AI,AI,,,,0,0,0,0,0,0,0
+579,bb5a6914e5199afd65d878857b7e34ab974e59cb,skillrecordings/egghead-next,David Lo,https://github.com/skillrecordings/egghead-next/commit/bb5a6914e5199afd65d878857b7e34ab974e59cb,AI,AI,AI,,,,0,0,0,0,0,0,0
+580,8b1c095c9cd2fc372cb1181418fda8ac9591c824,enonic/xp,David Lo,https://github.com/enonic/xp/commit/8b1c095c9cd2fc372cb1181418fda8ac9591c824,AI,AI,AI,,,,0,0,0,0,0,0,0
+581,45c1693ad060b49a4bfc5315bc3f925fddcf33ba,vllm-project/speculators,David Lo,https://github.com/vllm-project/speculators/commit/45c1693ad060b49a4bfc5315bc3f925fddcf33ba,AI,AI,AI,,,,0,0,0,0,0,0,0
+582,c5963957b6d3e65d8dbc87b73376209a1006129f,windmill-labs/windmill,David Lo,https://github.com/windmill-labs/windmill/commit/c5963957b6d3e65d8dbc87b73376209a1006129f,AI,AI,AI,,,,0,0,0,0,0,0,0
+583,fca33278f8612fd55feafa7a6045688fb371f23d,oxc-project/oxc,David Lo,https://github.com/oxc-project/oxc/commit/fca33278f8612fd55feafa7a6045688fb371f23d,AI,AI,AI,,,,0,0,0,0,0,0,0
+584,6b3f927b75deed146ca250479a29bcf0007787e2,prisma/prisma,David Lo,https://github.com/prisma/prisma/commit/6b3f927b75deed146ca250479a29bcf0007787e2,AI,AI,AI,,,,0,0,0,0,0,0,0
+585,c4261c0bd56dab9cdc58e5f795c4ee6d9530060c,codeflash-ai/codeflash,David Lo,https://github.com/codeflash-ai/codeflash/commit/c4261c0bd56dab9cdc58e5f795c4ee6d9530060c,AI,AI,AI,,,,0,0,0,0,0,0,0
+586,3dfb28cc45d51d06f11cefe201dfd48878c73552,lobehub/lobe-chat,David Lo,https://github.com/lobehub/lobe-chat/commit/3dfb28cc45d51d06f11cefe201dfd48878c73552,AI,AI,AI,,,,0,0,0,0,0,0,0
+587,81b0b1ddd1f04dc5ff482a9cf62f3dbf3625784d,ray-project/ray,David Lo,https://github.com/ray-project/ray/commit/81b0b1ddd1f04dc5ff482a9cf62f3dbf3625784d,AI,AI,AI,,,,0,0,0,0,0,0,0
+588,7fe963d5c18844522e7b561b693b38617c6e376d,wp-media/wp-rocket,David Lo,https://github.com/wp-media/wp-rocket/commit/7fe963d5c18844522e7b561b693b38617c6e376d,AI,AI,AI,,,,0,0,0,0,0,0,0
+589,0230683a1156f350f298d0911a2132f9203eb0bf,lingodotdev/lingo.dev,David Lo,https://github.com/lingodotdev/lingo.dev/commit/0230683a1156f350f298d0911a2132f9203eb0bf,AI,AI,AI,,,,1,0,1,1,1,0,0
+590,66dca73591a5ccf1d571f158ac6f314eb52faf7d,apache/superset,David Lo,https://github.com/apache/superset/commit/66dca73591a5ccf1d571f158ac6f314eb52faf7d,AI,AI,AI,,,,0,0,0,0,0,0,0
+591,6ea26eb47984bc613525af08639722ce8edf4539,instructor-ai/instructor,David Lo,https://github.com/instructor-ai/instructor/commit/6ea26eb47984bc613525af08639722ce8edf4539,AI,AI,AI,,,,0,0,0,0,0,0,0
+592,c0d86eac9994d41ccdd45ad97ea8303e715a78ab,hnykda/wifi-heatmapper,David Lo,https://github.com/hnykda/wifi-heatmapper/commit/c0d86eac9994d41ccdd45ad97ea8303e715a78ab,AI,AI,AI,,,,0,0,0,0,0,0,0
+593,1f8de85a70e5b8f7a365a6cb1a730adb9577a744,volcengine/verl,David Lo,https://github.com/volcengine/verl/commit/1f8de85a70e5b8f7a365a6cb1a730adb9577a744,AI,AI,AI,,,,0,0,0,0,0,0,0
+594,9b49f6a84816e8405060ec64b7ff1f430d6af17d,yoshiko-pg/difit,David Lo,https://github.com/yoshiko-pg/difit/commit/9b49f6a84816e8405060ec64b7ff1f430d6af17d,AI,AI,AI,,,,0,0,0,0,0,0,0
+595,2ef506fa8abf58901b4eee4cbee399d03d230d32,MervinPraison/PraisonAI,David Lo,https://github.com/MervinPraison/PraisonAI/commit/2ef506fa8abf58901b4eee4cbee399d03d230d32,AI,AI,AI,,,,0,0,0,0,0,0,0
+596,9a9d6a4a2b3122957f85b48eaad4256db2b07e25,langgenius/dify,David Lo,https://github.com/langgenius/dify/commit/9a9d6a4a2b3122957f85b48eaad4256db2b07e25,AI,AI,AI,,,,0,0,0,0,0,0,0
+597,cb4661f1169eadbc9a1945f931611662062c2928,TanStack/db,David Lo,https://github.com/TanStack/db/commit/cb4661f1169eadbc9a1945f931611662062c2928,AI,AI,AI,,,,0,0,0,0,0,0,0
+598,a6d9dda1a90a5b9bad785d4cef41e5f5b72a0dcf,wandb/catnip,David Lo,https://github.com/wandb/catnip/commit/a6d9dda1a90a5b9bad785d4cef41e5f5b72a0dcf,AI,AI,AI,,,,0,0,0,0,0,0,0
+599,28712eca51da05a6fad1bcf374b9fd0072d986d9,codenameone/CodenameOne,David Lo,https://github.com/codenameone/CodenameOne/commit/28712eca51da05a6fad1bcf374b9fd0072d986d9,AI,AI,AI,,,,0,0,0,0,0,0,0
+600,5586738745de0d5f6b87a531c7db71e5995c437f,dotnet/sdk,David Lo,https://github.com/dotnet/sdk/commit/5586738745de0d5f6b87a531c7db71e5995c437f,AI,AI,AI,,,,0,0,0,0,0,0,0
+601,41cff6d436d2a4ee0920caacdbfa60f6ed1397da,payloadcms/payload,David Lo,https://github.com/payloadcms/payload/commit/41cff6d436d2a4ee0920caacdbfa60f6ed1397da,AI,AI,AI,,,,0,0,0,0,0,0,0
+602,aad8521e14d917b0e99efc5e08a86ce3bb6e802d,dathere/qsv,David Lo,https://github.com/dathere/qsv/commit/aad8521e14d917b0e99efc5e08a86ce3bb6e802d,AI,AI,AI,,,,0,0,0,0,0,0,0
+603,df706ace6eac41cc540eeddb58829f48919392e7,spellshift/realm,David Lo,https://github.com/spellshift/realm/commit/df706ace6eac41cc540eeddb58829f48919392e7,AI,AI,AI,,,,0,0,0,0,0,0,0
+604,5a0470d5e6c752bc76cdfbf7db8b5b308d982b4b,storybookjs/storybook,David Lo,https://github.com/storybookjs/storybook/commit/5a0470d5e6c752bc76cdfbf7db8b5b308d982b4b,AI,AI,AI,,,,0,0,0,0,0,0,0
+605,00207eb4c92026343563930e0ff03f22575c8bae,Significant-Gravitas/AutoGPT,David Lo,https://github.com/Significant-Gravitas/AutoGPT/commit/00207eb4c92026343563930e0ff03f22575c8bae,AI,AI,AI,,,,0,0,0,0,0,0,0
+606,bc37ee3cfbb036e7df4b67a3089ac330d0521d7d,Jij-Inc/pyo3-stub-gen,David Lo,https://github.com/Jij-Inc/pyo3-stub-gen/commit/bc37ee3cfbb036e7df4b67a3089ac330d0521d7d,AI,AI,AI,,,,0,0,0,0,0,0,0
+607,a0cadbca3550d96d03da0aea529f072a80b57a3f,VowpalWabbit/vowpal_wabbit,David Lo,https://github.com/VowpalWabbit/vowpal_wabbit/commit/a0cadbca3550d96d03da0aea529f072a80b57a3f,AI,AI,AI,,,,0,0,0,0,0,0,0
+608,daf3d60af99c1d8328c2d5f52fe146932e6586c5,digitallyinduced/ihp,David Lo,https://github.com/digitallyinduced/ihp/commit/daf3d60af99c1d8328c2d5f52fe146932e6586c5,AI,AI,AI,,,,0,0,0,0,0,0,0
+609,05714f7924a004220e2f4fa54e74d2cfa852c73d,vercel/workflow,David Lo,https://github.com/vercel/workflow/commit/05714f7924a004220e2f4fa54e74d2cfa852c73d,AI,AI,AI,,,,0,0,0,0,0,0,0
+610,770d92fe364240d485b1db33730bf14908dc9580,bytedance/deer-flow,David Lo,https://github.com/bytedance/deer-flow/commit/770d92fe364240d485b1db33730bf14908dc9580,AI,AI,AI,,,,0,0,0,0,0,0,0
+611,844b5dcdb547b270b28a7dc1662ce240089e341e,benadida/helios-server,David Lo,https://github.com/benadida/helios-server/commit/844b5dcdb547b270b28a7dc1662ce240089e341e,AI,AI,AI,,,,0,0,0,0,0,0,0
+612,6173e8e38366aa25f6a4dc4d46b5b26db2acd592,micro/go-micro,David Lo,https://github.com/micro/go-micro/commit/6173e8e38366aa25f6a4dc4d46b5b26db2acd592,AI,AI,AI,,,,0,0,0,0,0,0,0
+613,0c2a2b00c3e1a7dd4531608ba3f6c94d636bfd9f,xtekky/gpt4free,David Lo,https://github.com/xtekky/gpt4free/commit/0c2a2b00c3e1a7dd4531608ba3f6c94d636bfd9f,AI,AI,AI,,,,0,0,0,0,0,0,0
+614,40b7bfc6cbb3694edea90379078098697018ac8d,platonai/PulsarRPA,David Lo,https://github.com/platonai/PulsarRPA/commit/40b7bfc6cbb3694edea90379078098697018ac8d,AI,AI,AI,,,,0,0,0,0,0,0,0
+615,e81d9aec472abf4b875dcda61d1f5254423f1dd9,jaroslaw-weber/algo-lens,David Lo,https://github.com/jaroslaw-weber/algo-lens/commit/e81d9aec472abf4b875dcda61d1f5254423f1dd9,AI,AI,AI,,,,0,0,0,0,0,0,0
+616,ef784d5e6f2ce78297083e86eb212f4827f4cc0a,projectcalico/calico,David Lo,https://github.com/projectcalico/calico/commit/ef784d5e6f2ce78297083e86eb212f4827f4cc0a,AI,AI,AI,,,,0,0,0,0,0,0,0
+617,3d0316aa20ba62589fc100a2f2f71b53073ac8d7,civitai/civitai,David Lo,https://github.com/civitai/civitai/commit/3d0316aa20ba62589fc100a2f2f71b53073ac8d7,AI,AI,AI,,,,0,0,0,0,0,0,0
+618,5c23a0cde16970a795cc2fc78a9b6a0f1fb6355a,bids-standard/bids-specification,David Lo,https://github.com/bids-standard/bids-specification/commit/5c23a0cde16970a795cc2fc78a9b6a0f1fb6355a,AI,AI,AI,,,,0,0,0,0,0,0,0
+619,e15537e65b7abb70a8d4d926df7ffa2700c4cd2b,acados/acados,David Lo,https://github.com/acados/acados/commit/e15537e65b7abb70a8d4d926df7ffa2700c4cd2b,AI,AI,AI,,,,0,0,0,0,0,0,0
+620,bd1ab05a522d96d006c23f5767ad095af779479a,PBH-BTN/PeerBanHelper,David Lo,https://github.com/PBH-BTN/PeerBanHelper/commit/bd1ab05a522d96d006c23f5767ad095af779479a,AI,AI,AI,,,,0,0,0,0,0,0,0
+621,d1516b5c22353ff51ab2eb54a50d5cc8c517b99c,Nubaeon/empirica,David Lo,https://github.com/Nubaeon/empirica/commit/d1516b5c22353ff51ab2eb54a50d5cc8c517b99c,AI,AI,AI,,,,0,0,0,0,0,0,0
+622,23e1afcc666e73152fcb4d5df84f4d88c8fb3ed4,lighttransport/tinyusdz,David Lo,https://github.com/lighttransport/tinyusdz/commit/23e1afcc666e73152fcb4d5df84f4d88c8fb3ed4,AI,AI,AI,,,,0,0,0,0,0,0,0
+623,af7dafc9fa971de451c2dc03341bc6cb0800cbdb,lablup/backend.ai,David Lo,https://github.com/lablup/backend.ai/commit/af7dafc9fa971de451c2dc03341bc6cb0800cbdb,AI,AI,AI,,,,0,0,0,0,0,0,0
+624,1f78a0401507354ecce77ada488a8396f48784a7,fluentmigrator/fluentmigrator,David Lo,https://github.com/fluentmigrator/fluentmigrator/commit/1f78a0401507354ecce77ada488a8396f48784a7,AI,AI,AI,,,,0,0,0,0,0,0,0
+625,a83e096b3793722e288e18fcdb54f09ec948fb31,zhe-qi/hono-template,David Lo,https://github.com/zhe-qi/hono-template/commit/a83e096b3793722e288e18fcdb54f09ec948fb31,AI,AI,AI,,,,0,0,0,0,0,0,0
+626,c174e9cbdc2b96870294bf1996a48e11745f2e79,frappe/frappe,David Lo,https://github.com/frappe/frappe/commit/c174e9cbdc2b96870294bf1996a48e11745f2e79,AI,AI,AI,,,,0,0,0,0,0,0,0
+627,e6c33378dbf801871471e0031a6eb2bc2fb61d4b,jdx/usage,David Lo,https://github.com/jdx/usage/commit/e6c33378dbf801871471e0031a6eb2bc2fb61d4b,AI,AI,AI,,,,0,0,0,0,0,0,0
+628,3f2b716e72a27f66e82e30589b9063a9ce3342fb,JetBrains/ideavim,David Lo,https://github.com/JetBrains/ideavim/commit/3f2b716e72a27f66e82e30589b9063a9ce3342fb,AI,AI,AI,,,,0,0,0,0,0,0,0
+629,a83608b19aebfb081f0dbe5870bf013b1e2ecd31,Azure/azure-cli,David Lo,https://github.com/Azure/azure-cli/commit/a83608b19aebfb081f0dbe5870bf013b1e2ecd31,AI,AI,AI,,,,0,0,0,0,0,0,0
+630,55b7b3db2dac62652848181d75b68e837b3142ea,owid/owid-grapher,David Lo,https://github.com/owid/owid-grapher/commit/55b7b3db2dac62652848181d75b68e837b3142ea,AI,AI,AI,,,,0,0,0,0,0,0,0
+631,c137b81e41ce4a99aa0931b79e46408407948677,ROCm/iris,David Lo,https://github.com/ROCm/iris/commit/c137b81e41ce4a99aa0931b79e46408407948677,AI,AI,AI,,,,0,0,0,0,0,0,0
+632,a79449501bc6b2a9c8b0a4904c76dc3315d06641,rolldown/rolldown,David Lo,https://github.com/rolldown/rolldown/commit/a79449501bc6b2a9c8b0a4904c76dc3315d06641,AI,AI,AI,,,,0,0,0,0,0,0,0
+633,232ca992437a8031b8a60df4ebaf7f861744553c,ytmd-devs/ytmd,David Lo,https://github.com/ytmd-devs/ytmd/commit/232ca992437a8031b8a60df4ebaf7f861744553c,AI,AI,AI,,,,0,0,0,0,0,0,0
+634,cde71395dd0adfb7aa617b07878eccf8b4544ddb,evalstate/fast-agent,David Lo,https://github.com/evalstate/fast-agent/commit/cde71395dd0adfb7aa617b07878eccf8b4544ddb,AI,AI,AI,,,,0,0,0,0,0,0,0
+635,a588874307da50fb0a86a9adc84cbb31b25a2b8f,elie222/inbox-zero,David Lo,https://github.com/elie222/inbox-zero/commit/a588874307da50fb0a86a9adc84cbb31b25a2b8f,AI,AI,AI,,,,0,0,0,0,0,0,0
+636,e42031c6eae93ff1911e11ca2910c93680f5b805,pickles4evaaaa/mybibliotheca,David Lo,https://github.com/pickles4evaaaa/mybibliotheca/commit/e42031c6eae93ff1911e11ca2910c93680f5b805,AI,AI,AI,,,,0,0,0,0,0,0,0
+637,122de94ace2abafcf2cf5ab58cbe57a11e3e8683,phalt/clientele,David Lo,https://github.com/phalt/clientele/commit/122de94ace2abafcf2cf5ab58cbe57a11e3e8683,AI,AI,AI,,,,0,0,0,0,0,0,0
+638,a3f1223845c119afe7eadba04d947ab51e2b7e00,livestorejs/livestore,David Lo,https://github.com/livestorejs/livestore/commit/a3f1223845c119afe7eadba04d947ab51e2b7e00,AI,AI,AI,,,,0,0,0,0,0,0,0
+639,778acc30f73e5fb23eb13d2df42bd025264e61b2,supabase/supabase,David Lo,https://github.com/supabase/supabase/commit/778acc30f73e5fb23eb13d2df42bd025264e61b2,AI,AI,AI,,,,0,0,0,0,0,0,0
+640,8fc6e3bfa54a7e58665d3ea616cfa9de9a0db091,island-is/island.is,David Lo,https://github.com/island-is/island.is/commit/8fc6e3bfa54a7e58665d3ea616cfa9de9a0db091,AI,AI,AI,,,,0,0,0,0,0,0,0
+641,55ccb9fe615f8b1e1f92ffa30faac75bf7ce5cb2,1Panel-dev/1Panel,David Lo,https://github.com/1Panel-dev/1Panel/commit/55ccb9fe615f8b1e1f92ffa30faac75bf7ce5cb2,AI,AI,AI,,,,0,0,0,0,0,0,0
+642,68c083daec7a7b2f575f7b050535af1b9d2bd684,OpenMS/OpenMS,David Lo,https://github.com/OpenMS/OpenMS/commit/68c083daec7a7b2f575f7b050535af1b9d2bd684,AI,AI,AI,,,,0,0,0,0,0,0,0
+643,a3f933dad7605892d9afd312c6f5ffefceff9285,airbytehq/airbyte-agent-connectors,David Lo,https://github.com/airbytehq/airbyte-agent-connectors/commit/a3f933dad7605892d9afd312c6f5ffefceff9285,AI,AI,AI,,,,0,0,0,0,0,0,0
+644,247a781b47970f843919888e025c11ebcd07dca7,Zero-to-Heroes/firestone,David Lo,https://github.com/Zero-to-Heroes/firestone/commit/247a781b47970f843919888e025c11ebcd07dca7,AI,AI,AI,,,,0,0,0,0,0,0,0
+645,6fcf8f1059586dcfa75cffb7af50d0f195fd890a,shanselman/toasty,David Lo,https://github.com/shanselman/toasty/commit/6fcf8f1059586dcfa75cffb7af50d0f195fd890a,AI,AI,AI,,,,0,0,0,0,0,0,0
+646,3b249c0a96a1c1c3172b749bb478a0e2bc70cbc0,DLR-RM/stable-baselines3,David Lo,https://github.com/DLR-RM/stable-baselines3/commit/3b249c0a96a1c1c3172b749bb478a0e2bc70cbc0,AI,AI,AI,,,,0,0,0,0,0,0,0
+647,945650a1abac6a152d6d0a76a6014860fc07bf77,wp-statistics/wp-statistics,David Lo,https://github.com/wp-statistics/wp-statistics/commit/945650a1abac6a152d6d0a76a6014860fc07bf77,AI,AI,AI,,,,0,0,0,0,0,0,0
+648,e698d6aa99d194924b492ec77984cc54d28c4328,CapSoftware/Cap,David Lo,https://github.com/CapSoftware/Cap/commit/e698d6aa99d194924b492ec77984cc54d28c4328,AI,AI,AI,,,,0,0,0,0,0,0,0
+649,1092d62d4e9d3bdeb6204ab9125abafb4be772d2,jordanhubbard/nanolang,David Lo,https://github.com/jordanhubbard/nanolang/commit/1092d62d4e9d3bdeb6204ab9125abafb4be772d2,AI,AI,AI,,,,0,0,0,0,0,0,0
+650,c64d08fd6054aad73837a65a0f8f48c91477a4e2,scientific-python/cookie,David Lo,https://github.com/scientific-python/cookie/commit/c64d08fd6054aad73837a65a0f8f48c91477a4e2,AI,AI,AI,,,,0,0,0,0,0,0,0
+651,9327934fbc3bbfd428bab3ddc522a870c33c2a27,ttktjmt/muwanx,David Lo,https://github.com/ttktjmt/muwanx/commit/9327934fbc3bbfd428bab3ddc522a870c33c2a27,AI,AI,AI,,,,0,0,0,0,0,0,0
+652,99e7d389b2029e5481de5c443997c8ae6c4ab610,canonical/mir,David Lo,https://github.com/canonical/mir/commit/99e7d389b2029e5481de5c443997c8ae6c4ab610,AI,AI,AI,,,,0,0,0,0,0,0,0
+653,299f1dc11477362ab650b44502aef461da3c9fa2,acenta-ai/openagents,David Lo,https://github.com/acenta-ai/openagents/commit/299f1dc11477362ab650b44502aef461da3c9fa2,AI,AI,AI,,,,0,0,0,0,0,0,0
+654,1e025ccad53eea1533826990842313b5c8a882a8,webiny/webiny-js,David Lo,https://github.com/webiny/webiny-js/commit/1e025ccad53eea1533826990842313b5c8a882a8,AI,AI,AI,,,,0,0,0,0,0,0,0
+655,fbd3670439b37f56694f1c4c7fe7510fc8e0f639,ar-io/ar-io-node,David Lo,https://github.com/ar-io/ar-io-node/commit/fbd3670439b37f56694f1c4c7fe7510fc8e0f639,AI,AI,AI,,,,0,0,0,0,0,0,0
+656,682744d7e4c43c44456f7394fadb3458d4f82a1d,alchemiststudiosDOTai/tunacode,David Lo,https://github.com/alchemiststudiosDOTai/tunacode/commit/682744d7e4c43c44456f7394fadb3458d4f82a1d,AI,AI,AI,,,,0,0,0,0,0,0,0
+657,a34a6ae9a06d9b7bfb06fa65f3904434265aa3d9,DataRecce/recce,David Lo,https://github.com/DataRecce/recce/commit/a34a6ae9a06d9b7bfb06fa65f3904434265aa3d9,AI,AI,AI,,,,0,0,0,0,0,0,0
+658,f77d7ee568b3950a581458327806eb339ac2c6cd,shenjingnan/xiaozhi-client,David Lo,https://github.com/shenjingnan/xiaozhi-client/commit/f77d7ee568b3950a581458327806eb339ac2c6cd,AI,AI,AI,,,,0,0,0,0,0,0,0
+659,646b23e93696c56fee12273c658c989342481f32,JetBrains/ideavim,David Lo,https://github.com/JetBrains/ideavim/commit/646b23e93696c56fee12273c658c989342481f32,AI,AI,AI,,,,0,0,0,0,0,0,0
+660,95c5f8aff8ee8892c8c2d4d6c172897cd97f1d27,NomicFoundation/hardhat,David Lo,https://github.com/NomicFoundation/hardhat/commit/95c5f8aff8ee8892c8c2d4d6c172897cd97f1d27,AI,AI,AI,,,,0,0,0,0,0,0,0
+661,1b17f6d9f51ed291b94ba86e09f440ae7c6434ea,github/docs,David Lo,https://github.com/github/docs/commit/1b17f6d9f51ed291b94ba86e09f440ae7c6434ea,AI,AI,AI,,,,0,0,0,0,0,0,0
+662,76cf83028c306a8531301ad41ac5323a21e1aa69,CanCLID/jyutping.org,David Lo,https://github.com/CanCLID/jyutping.org/commit/76cf83028c306a8531301ad41ac5323a21e1aa69,AI,AI,AI,,,,0,0,0,0,0,0,0
+663,973c0be9d13004f4bfca389417e6e036b82df1c6,letta-ai/letta,David Lo,https://github.com/letta-ai/letta/commit/973c0be9d13004f4bfca389417e6e036b82df1c6,AI,AI,AI,,,,0,0,0,0,0,0,0
+664,205c97a4ae4f7db656bab5347ee91c009ee4ae46,NVIDIA/TensorRT-LLM,David Lo,https://github.com/NVIDIA/TensorRT-LLM/commit/205c97a4ae4f7db656bab5347ee91c009ee4ae46,AI,AI,AI,,,,0,0,0,0,0,0,0
+665,645a1f7216df46be493f95f4b761710eb48d3250,microsoft/react-native-windows,David Lo,https://github.com/microsoft/react-native-windows/commit/645a1f7216df46be493f95f4b761710eb48d3250,AI,AI,AI,,,,0,0,0,0,0,0,0
+666,3ed239e0e16d16da16febf823bbd2d338981a58f,Zero-to-Heroes/firestone,David Lo,https://github.com/Zero-to-Heroes/firestone/commit/3ed239e0e16d16da16febf823bbd2d338981a58f,AI,AI,AI,,,,0,0,0,0,0,0,0
+667,915edf90e798092f73f0ca29119615f12b5125da,codeflash-ai/codeflash,David Lo,https://github.com/codeflash-ai/codeflash/commit/915edf90e798092f73f0ca29119615f12b5125da,AI,AI,AI,,,,0,0,0,0,0,0,0
+668,7b60b594699c33f4b82defbbb703215d4eb29e8a,redpanda-data/redpanda,David Lo,https://github.com/redpanda-data/redpanda/commit/7b60b594699c33f4b82defbbb703215d4eb29e8a,AI,AI,AI,,,,0,0,0,0,0,0,0
+669,de6beda6d8b240529fb4686c9370ca8fd7b8412b,TanStack/db,David Lo,https://github.com/TanStack/db/commit/de6beda6d8b240529fb4686c9370ca8fd7b8412b,AI,AI,AI,,,,0,0,0,0,0,0,0
+670,0bdc878d3c2811cf9b7a43638b4292c30108dba0,iree-org/iree,David Lo,https://github.com/iree-org/iree/commit/0bdc878d3c2811cf9b7a43638b4292c30108dba0,AI,AI,AI,,,,0,0,0,0,0,0,0
+671,d093ec16bda241dd3bbdc54ad9cf9afa25ba21fd,NethermindEth/nethermind,David Lo,https://github.com/NethermindEth/nethermind/commit/d093ec16bda241dd3bbdc54ad9cf9afa25ba21fd,AI,AI,AI,,,,0,0,0,0,0,0,0
+672,25393f268148ba36e3fc51ba4c10d7035f3d4499,natolambert/rlhf-book,David Lo,https://github.com/natolambert/rlhf-book/commit/25393f268148ba36e3fc51ba4c10d7035f3d4499,AI,AI,AI,,,,0,0,0,0,0,0,0
+673,650f326faa7d6db0150a3c432d8c079f86447e4b,OpenMS/OpenMS,David Lo,https://github.com/OpenMS/OpenMS/commit/650f326faa7d6db0150a3c432d8c079f86447e4b,AI,AI,AI,,,,0,0,0,0,0,0,0
+674,4a36f669dc461b840be76741918d3b3445569106,Nike-Inc/spark-expectations,David Lo,https://github.com/Nike-Inc/spark-expectations/commit/4a36f669dc461b840be76741918d3b3445569106,AI,AI,AI,,,,0,0,0,0,0,0,0
+675,7e25bf6bc9163c79be3a514687e6b04f4fcf17b1,yamadashy/tech-blog-rss-feed,David Lo,https://github.com/yamadashy/tech-blog-rss-feed/commit/7e25bf6bc9163c79be3a514687e6b04f4fcf17b1,AI,AI,AI,,,,1,0,1,0,1,0,0
+676,bd0795df34f31241c8c1888b296773f881daa3e9,getsentry/sentry-docs,David Lo,https://github.com/getsentry/sentry-docs/commit/bd0795df34f31241c8c1888b296773f881daa3e9,AI,AI,AI,,,,0,0,0,0,0,0,0
+677,c233f71163ce54b3f0bf10c213ffa2dc4cd429f8,gsd-build/get-shit-done,David Lo,https://github.com/gsd-build/get-shit-done/commit/c233f71163ce54b3f0bf10c213ffa2dc4cd429f8,AI,AI,AI,,,,0,0,0,0,0,0,0
+678,137d8813f11e280bfcc6b9f83c82ad5f4164b012,AugmentOS-Community/AugmentOS,David Lo,https://github.com/AugmentOS-Community/AugmentOS/commit/137d8813f11e280bfcc6b9f83c82ad5f4164b012,AI,AI,AI,,,,0,0,0,0,0,0,0
+679,4bb86217a8b4f91169b591782e181a7ac43cfaf2,rz1989s/claude-code-statusline,David Lo,https://github.com/rz1989s/claude-code-statusline/commit/4bb86217a8b4f91169b591782e181a7ac43cfaf2,AI,AI,AI,,,,0,0,0,0,0,0,0
+680,14519bbbf0c7a07e647c8918db2ef23499fcf89b,open-metadata/OpenMetadata,David Lo,https://github.com/open-metadata/OpenMetadata/commit/14519bbbf0c7a07e647c8918db2ef23499fcf89b,AI,AI,AI,,,,0,0,0,0,0,0,0
+681,f34adaddfcf94d547000747dab7fed34054417a8,worknenjoy/gitpay,David Lo,https://github.com/worknenjoy/gitpay/commit/f34adaddfcf94d547000747dab7fed34054417a8,AI,AI,AI,,,,0,0,0,0,0,0,0
+682,3cc0643343f09dbccb3f9ce6c9a205d7f2de0896,remotion-dev/remotion,David Lo,https://github.com/remotion-dev/remotion/commit/3cc0643343f09dbccb3f9ce6c9a205d7f2de0896,AI,AI,AI,,,,1,0,1,1,1,0,0
+683,4544e0f549f1a9511a4884679e29273c3dbde8cb,DigiByte-Core/digibyte,David Lo,https://github.com/DigiByte-Core/digibyte/commit/4544e0f549f1a9511a4884679e29273c3dbde8cb,AI,AI,AI,,,,0,0,0,0,0,0,0
+684,3602216c22e1eca6ee632a157c4841cc35fb7cbf,simonepri/fitbit2garmin,David Lo,https://github.com/simonepri/fitbit2garmin/commit/3602216c22e1eca6ee632a157c4841cc35fb7cbf,AI,AI,AI,,,,0,0,0,0,0,0,0
+685,2c2c937ca08b36d048a8c8f5b04d868aa96199e2,ls1intum/Artemis,David Lo,https://github.com/ls1intum/Artemis/commit/2c2c937ca08b36d048a8c8f5b04d868aa96199e2,AI,AI,AI,,,,0,0,0,0,0,0,0
+686,74badb5a498d3ff4b7d2088045c0a79c24874d74,EvolvingLMMs-Lab/OneVision-Encoder,David Lo,https://github.com/EvolvingLMMs-Lab/OneVision-Encoder/commit/74badb5a498d3ff4b7d2088045c0a79c24874d74,AI,AI,AI,,,,0,0,0,0,0,0,0
+687,cc2584aec29a70780ee84eee495edde9ee56e6de,kevoreilly/CAPEv2,David Lo,https://github.com/kevoreilly/CAPEv2/commit/cc2584aec29a70780ee84eee495edde9ee56e6de,AI,AI,AI,,,,0,0,0,0,0,0,0
+688,11599b0e1ffdbe7f7e5f7d222dfbef69b41b3ad2,nlzy/vllm-gfx906,David Lo,https://github.com/nlzy/vllm-gfx906/commit/11599b0e1ffdbe7f7e5f7d222dfbef69b41b3ad2,AI,AI,AI,,,,0,0,0,0,0,0,0
+689,8ff180301ddefb50aebc12a33ffb99aebf028f58,microsoft/vscode-pull-request-github,David Lo,https://github.com/microsoft/vscode-pull-request-github/commit/8ff180301ddefb50aebc12a33ffb99aebf028f58,AI,AI,AI,,,,0,0,0,0,0,0,0
+690,4a155f1ff0dea790f3e444e4ac720b8c81fdebac,rodrigogs/whats-reader,David Lo,https://github.com/rodrigogs/whats-reader/commit/4a155f1ff0dea790f3e444e4ac720b8c81fdebac,AI,AI,AI,,,,0,0,0,0,0,0,0
+691,91c957e7a4b3fb4867601db30fd7100cc5b8b88d,better-auth/better-auth,David Lo,https://github.com/better-auth/better-auth/commit/91c957e7a4b3fb4867601db30fd7100cc5b8b88d,AI,AI,AI,,,,0,0,0,0,0,0,0
+692,51a5126da324bc47c5fbe378eaf40d9fd9617b63,mateuszmigas/painting-droid,David Lo,https://github.com/mateuszmigas/painting-droid/commit/51a5126da324bc47c5fbe378eaf40d9fd9617b63,AI,AI,AI,,,,0,0,0,0,0,0,0
+693,1b2155493a509d89d6b1e79b3928c407437c0912,microsoft/vscode-copilot-chat,David Lo,https://github.com/microsoft/vscode-copilot-chat/commit/1b2155493a509d89d6b1e79b3928c407437c0912,AI,AI,AI,,,,0,0,0,0,0,0,0
+694,17926f10128a80b438005eb75e9d2132bea717b0,casibase/casibase,David Lo,https://github.com/casibase/casibase/commit/17926f10128a80b438005eb75e9d2132bea717b0,AI,AI,AI,,,,0,0,0,0,0,0,0
+695,3db31c9bc072a3c40805950582d3f653fb8f8301,microsoft/react-native-windows,David Lo,https://github.com/microsoft/react-native-windows/commit/3db31c9bc072a3c40805950582d3f653fb8f8301,AI,AI,AI,,,,0,0,0,0,0,0,0
+696,4d77e8c740ba6c8cbc6f4236847efab40b31d96c,benbalter/word-to-markdown-js,David Lo,https://github.com/benbalter/word-to-markdown-js/commit/4d77e8c740ba6c8cbc6f4236847efab40b31d96c,AI,AI,AI,,,,0,0,0,0,0,0,0
+697,350c138dc68c2baf58265404ea33ada3e5d0e148,microsoft/data-formulator,David Lo,https://github.com/microsoft/data-formulator/commit/350c138dc68c2baf58265404ea33ada3e5d0e148,AI,AI,AI,,,,0,0,0,0,0,0,0
+698,065792caf78c5cfa04c562df5983fedd464880ed,ModelEngine-Group/fit-framework,David Lo,https://github.com/ModelEngine-Group/fit-framework/commit/065792caf78c5cfa04c562df5983fedd464880ed,AI,AI,AI,,,,0,0,0,0,0,0,0
+699,f6b05addb7c3e4a4fbaa3616aae45cb81045bea0,liangliangyy/DjangoBlog,David Lo,https://github.com/liangliangyy/DjangoBlog/commit/f6b05addb7c3e4a4fbaa3616aae45cb81045bea0,AI,AI,AI,,,,0,0,0,0,0,0,0
+700,732a264b8c577bda73615629aaea6110e304493f,spree/spree,David Lo,https://github.com/spree/spree/commit/732a264b8c577bda73615629aaea6110e304493f,AI,AI,AI,,,,0,0,0,0,0,0,0
+701,d27c53fa1cf0c5bb71eb9cff4636908cfa336221,NomenAK/SuperClaude,David Lo,https://github.com/NomenAK/SuperClaude/commit/d27c53fa1cf0c5bb71eb9cff4636908cfa336221,AI,AI,AI,,,,0,0,0,0,0,0,0
+702,1d29ff455c5f858284f3e32758430a5cb1922122,mediar-ai/screenpipe,David Lo,https://github.com/mediar-ai/screenpipe/commit/1d29ff455c5f858284f3e32758430a5cb1922122,AI,AI,AI,,,,0,0,0,0,0,0,0
+703,4cc7ea963917feab9a1a2317243bfd5e9ae8217e,rolldown/rolldown,David Lo,https://github.com/rolldown/rolldown/commit/4cc7ea963917feab9a1a2317243bfd5e9ae8217e,AI,AI,AI,,,,0,0,0,0,0,0,0
+704,1f9528a38a634a004efed78909a23821095b9036,JetBrains/ideavim,David Lo,https://github.com/JetBrains/ideavim/commit/1f9528a38a634a004efed78909a23821095b9036,AI,AI,AI,,,,0,0,0,0,0,0,0
+705,2e38d80eea369d3d3eec2bb8807718b746a757fa,kstenerud/KSCrash,David Lo,https://github.com/kstenerud/KSCrash/commit/2e38d80eea369d3d3eec2bb8807718b746a757fa,AI,AI,AI,,,,0,0,0,0,0,0,0
+706,06cf15311b46a9d246d190a87746d14b28b46c29,pavelzbornik/whisperX-FastAPI,David Lo,https://github.com/pavelzbornik/whisperX-FastAPI/commit/06cf15311b46a9d246d190a87746d14b28b46c29,AI,AI,AI,,,,0,0,0,0,0,0,0
+707,2e8bf16417c6ffa66e9658d567eed9184e75e771,cagnulein/qdomyos-zwift,David Lo,https://github.com/cagnulein/qdomyos-zwift/commit/2e8bf16417c6ffa66e9658d567eed9184e75e771,AI,AI,AI,,,,0,0,0,0,0,0,0
+708,bb0691a8e50b17e6edd7cc9c4dd4b5f10091680b,LukePrior/nbn-upgrade-map,David Lo,https://github.com/LukePrior/nbn-upgrade-map/commit/bb0691a8e50b17e6edd7cc9c4dd4b5f10091680b,AI,AI,AI,,,,0,0,0,0,0,0,0
+709,def1b3a94ee489d17f4959f366dd44e1434da02a,grll/claude-code-action,David Lo,https://github.com/grll/claude-code-action/commit/def1b3a94ee489d17f4959f366dd44e1434da02a,AI,AI,AI,,,,0,0,0,0,0,0,0
+710,c283834bd2bf879618370849edfc5c288e555d1f,openfrontio/OpenFrontIO,David Lo,https://github.com/openfrontio/OpenFrontIO/commit/c283834bd2bf879618370849edfc5c288e555d1f,AI,AI,AI,,,,0,0,0,0,0,0,0
+711,108ed009fd788b6f79a897325fde73b21d9573a7,BerriAI/litellm,David Lo,https://github.com/BerriAI/litellm/commit/108ed009fd788b6f79a897325fde73b21d9573a7,AI,AI,AI,,,,0,0,0,0,0,0,0
+712,98e4bc4bf2fd279311cfdc954a276561178cf3f0,onlook-dev/onlook,David Lo,https://github.com/onlook-dev/onlook/commit/98e4bc4bf2fd279311cfdc954a276561178cf3f0,AI,AI,AI,,,,0,0,0,0,0,0,0
+713,55495045e41f10e0fb30d85a3c5f89ab7817f2c0,InvolutionHell/involutionhell.github.io,David Lo,https://github.com/InvolutionHell/involutionhell.github.io/commit/55495045e41f10e0fb30d85a3c5f89ab7817f2c0,AI,AI,AI,,,,0,0,0,0,0,0,0
+714,fd7f996cc52be4d3ec2a3bd23f7778da52377cfc,sign-language-processing/pose,David Lo,https://github.com/sign-language-processing/pose/commit/fd7f996cc52be4d3ec2a3bd23f7778da52377cfc,AI,AI,AI,,,,0,0,0,0,0,0,0
+715,f5f732e357641dc3a000932c2d75951d44b15747,thinking-machines-lab/tinker-cookbook,David Lo,https://github.com/thinking-machines-lab/tinker-cookbook/commit/f5f732e357641dc3a000932c2d75951d44b15747,AI,AI,AI,,,,0,0,0,0,0,0,0
+716,afa1dd2a2b2e79ad876acc0dfca215f62346713f,PipedreamHQ/pipedream,David Lo,https://github.com/PipedreamHQ/pipedream/commit/afa1dd2a2b2e79ad876acc0dfca215f62346713f,AI,AI,AI,,,,0,0,0,0,0,0,0
+717,6bb8ef065ea4d8f6939b0d6aed1d8bbb1b5b4a0d,shm11C3/HardwareVisualizer,David Lo,https://github.com/shm11C3/HardwareVisualizer/commit/6bb8ef065ea4d8f6939b0d6aed1d8bbb1b5b4a0d,AI,AI,AI,,,,0,0,0,0,0,0,0
+718,8e32c70eba50d4e272cad6ff4777905c76f029cc,PolicyEngine/policyengine-us,David Lo,https://github.com/PolicyEngine/policyengine-us/commit/8e32c70eba50d4e272cad6ff4777905c76f029cc,AI,AI,AI,,,,0,0,0,0,0,0,0
+719,85d5c8b6993e651838cdb3a5d6a63cbb7eaa427d,enhancer-app/enhancer,David Lo,https://github.com/enhancer-app/enhancer/commit/85d5c8b6993e651838cdb3a5d6a63cbb7eaa427d,AI,AI,AI,,,,0,0,0,0,0,0,0
+720,a08bf38895b83bb4e9d4341b4161e07a057d63e9,department-of-veterans-affairs/vets-website,David Lo,https://github.com/department-of-veterans-affairs/vets-website/commit/a08bf38895b83bb4e9d4341b4161e07a057d63e9,AI,AI,AI,,,,0,0,0,0,0,0,0
+721,987f53e69a145a7c02567bdcefc09674f5042494,sunnypilot/sunnypilot,David Lo,https://github.com/sunnypilot/sunnypilot/commit/987f53e69a145a7c02567bdcefc09674f5042494,AI,AI,AI,,,,0,0,0,0,0,0,0
+722,069fb65a89d67db028f09a607292f62f78f96f13,graphistry/pygraphistry,David Lo,https://github.com/graphistry/pygraphistry/commit/069fb65a89d67db028f09a607292f62f78f96f13,AI,AI,AI,,,,0,0,0,0,0,0,0
+723,74c06c9817e91eb578963ae1604119bed7f6a33e,dailydotdev/apps,David Lo,https://github.com/dailydotdev/apps/commit/74c06c9817e91eb578963ae1604119bed7f6a33e,AI,AI,AI,,,,0,0,0,0,0,0,0
+724,8aa51c77ed8c777d32fd91de904607156266ff9b,Xthebuilder/JRVS,David Lo,https://github.com/Xthebuilder/JRVS/commit/8aa51c77ed8c777d32fd91de904607156266ff9b,AI,AI,AI,,,,0,0,0,0,0,0,0
+725,8c4467e7ed10be61aa880b44a9a9723fd81c4a4e,helm/helm-www,David Lo,https://github.com/helm/helm-www/commit/8c4467e7ed10be61aa880b44a9a9723fd81c4a4e,AI,AI,AI,,,,0,0,0,0,0,0,0
+726,fff011f348eb4ac2221bbad25571435f6bb49b7d,shenjingnan/xiaozhi-client,David Lo,https://github.com/shenjingnan/xiaozhi-client/commit/fff011f348eb4ac2221bbad25571435f6bb49b7d,AI,AI,AI,,,,0,0,0,0,0,0,0
+727,0442bd24aafa89d14cd43ed370aedb93f5db49bd,usail-hkust/LLM-MM-Agent,David Lo,https://github.com/usail-hkust/LLM-MM-Agent/commit/0442bd24aafa89d14cd43ed370aedb93f5db49bd,AI,AI,AI,,,,0,0,0,0,0,0,0
+728,04bc11bb6af9ec5ff828e5296143e3fb14d4411e,matter-js/matter,David Lo,https://github.com/matter-js/matter/commit/04bc11bb6af9ec5ff828e5296143e3fb14d4411e,AI,AI,AI,,,,0,0,0,0,0,0,0
+729,e6da94cc282a5f89f2f7febefe074d2419cbb8bf,chris-schra/mcp-funnel,David Lo,https://github.com/chris-schra/mcp-funnel/commit/e6da94cc282a5f89f2f7febefe074d2419cbb8bf,AI,AI,AI,,,,0,0,0,0,0,0,0
+730,423b9fd996e6307e269a47fc26e2d57906583731,team-mirai/marumie,David Lo,https://github.com/team-mirai/marumie/commit/423b9fd996e6307e269a47fc26e2d57906583731,AI,AI,AI,,,,0,0,0,0,0,0,0
+731,8bb56349e8ff312e6a3e9e410a7a6553641f5907,quay/quay,David Lo,https://github.com/quay/quay/commit/8bb56349e8ff312e6a3e9e410a7a6553641f5907,AI,AI,AI,,,,0,0,0,0,0,0,0
+732,57ccadd3b2055f8dfa7e91239b42fd578bfd3031,ant-design/pro-components,David Lo,https://github.com/ant-design/pro-components/commit/57ccadd3b2055f8dfa7e91239b42fd578bfd3031,AI,AI,AI,,,,0,0,0,0,0,0,0
+733,a4ca58fa8f81f967c48ea048d61dd792df253b54,lablup/backend.ai,David Lo,https://github.com/lablup/backend.ai/commit/a4ca58fa8f81f967c48ea048d61dd792df253b54,AI,AI,AI,,,,0,0,0,0,0,0,0
+734,10c6e2c33313782bf9ba2101a93f93c4b7a33a98,operaton/operaton,David Lo,https://github.com/operaton/operaton/commit/10c6e2c33313782bf9ba2101a93f93c4b7a33a98,AI,AI,AI,,,,0,0,0,0,0,0,0
+735,3222dd382494b058d6f713acf604efd2f331830b,totallylegitco/fighthealthinsurance,David Lo,https://github.com/totallylegitco/fighthealthinsurance/commit/3222dd382494b058d6f713acf604efd2f331830b,AI,AI,AI,,,,0,0,0,0,0,0,0
+736,00aaae3800831ede436863c2835b9ed4d4fe4929,MoonModules/WLED-MM,David Lo,https://github.com/MoonModules/WLED-MM/commit/00aaae3800831ede436863c2835b9ed4d4fe4929,AI,AI,AI,,,,0,0,0,0,0,0,0
+737,dda2d0d7110bde2bebe9245036952f9a70e831ea,AztecProtocol/aztec-packages,David Lo,https://github.com/AztecProtocol/aztec-packages/commit/dda2d0d7110bde2bebe9245036952f9a70e831ea,AI,AI,AI,,,,0,0,0,0,0,0,0
+738,0723f1d183c8418a38ff86792efab5c6a26bc276,microsoft/agent-framework,David Lo,https://github.com/microsoft/agent-framework/commit/0723f1d183c8418a38ff86792efab5c6a26bc276,AI,AI,AI,,,,0,0,0,0,0,0,0
+739,529eb77317eeb1cf30698b2e3d4cb9a847e9c563,crytic/slither,David Lo,https://github.com/crytic/slither/commit/529eb77317eeb1cf30698b2e3d4cb9a847e9c563,AI,AI,AI,,,,0,0,0,0,0,0,0
+740,b993ac4ba1931c7073c3273eb126f5c0e73fa0ab,livestorejs/livestore,David Lo,https://github.com/livestorejs/livestore/commit/b993ac4ba1931c7073c3273eb126f5c0e73fa0ab,AI,AI,AI,,,,0,0,0,0,0,0,0
+741,fdc8e624ffa77859d6eb55d07e75c12b1f54f1be,DigiByte-Core/digibyte,David Lo,https://github.com/DigiByte-Core/digibyte/commit/fdc8e624ffa77859d6eb55d07e75c12b1f54f1be,AI,AI,AI,,,,0,0,0,0,0,0,0
+742,de3f246e437d8486a399a42a6a22951a8068fb3e,claude-did-this/claude-hub,David Lo,https://github.com/claude-did-this/claude-hub/commit/de3f246e437d8486a399a42a6a22951a8068fb3e,AI,AI,AI,,,,0,0,0,0,0,0,0
+743,c04d128e99d8737f29f8f0f6f704ee0c851c9dc6,HarrisonKramer/optiland,David Lo,https://github.com/HarrisonKramer/optiland/commit/c04d128e99d8737f29f8f0f6f704ee0c851c9dc6,AI,AI,AI,,,,0,0,0,0,0,0,0
+744,6870990a8ad2ccbf81a77303b6460b3444bff487,mozilla-ai/any-llm,David Lo,https://github.com/mozilla-ai/any-llm/commit/6870990a8ad2ccbf81a77303b6460b3444bff487,AI,AI,AI,,,,0,0,0,0,0,0,0
+745,9cd355ed1c63f2b33c933f270dee40dbf2f86764,redpanda-data/redpanda,David Lo,https://github.com/redpanda-data/redpanda/commit/9cd355ed1c63f2b33c933f270dee40dbf2f86764,AI,AI,AI,,,,0,0,0,0,0,0,0
+746,0e8dba48ae595149b268015b8df34d0d61c1814d,supabase/supabase,David Lo,https://github.com/supabase/supabase/commit/0e8dba48ae595149b268015b8df34d0d61c1814d,AI,AI,AI,,,,0,0,0,0,0,0,0
+747,84d00d9fd4c31b54d1b5ef08e806c2ac24934cf6,tikmatrix/tiktok-matrix,David Lo,https://github.com/tikmatrix/tiktok-matrix/commit/84d00d9fd4c31b54d1b5ef08e806c2ac24934cf6,AI,AI,AI,,,,0,0,0,0,0,0,0
+748,0d63d5855c9501d5b90ac985b2c2e71ec4fe6ae3,constructive-io/pgsql-parser,David Lo,https://github.com/constructive-io/pgsql-parser/commit/0d63d5855c9501d5b90ac985b2c2e71ec4fe6ae3,AI,AI,AI,,,,0,0,0,0,0,0,0
+749,ae66d626ba8a91358968321f421b2e7ac8b6846e,mendableai/firecrawl,David Lo,https://github.com/mendableai/firecrawl/commit/ae66d626ba8a91358968321f421b2e7ac8b6846e,AI,AI,AI,,,,1,0,1,1,1,0,0
+750,4015ae991ad804033367076b221c5eebe311e880,casbin/caswaf,David Lo,https://github.com/casbin/caswaf/commit/4015ae991ad804033367076b221c5eebe311e880,AI,AI,AI,,,,0,0,0,0,0,0,0
+751,3567a2b1d5a77dcaaecf8e0dece96ef7b8ddfc77,dxos/dxos,David Lo,https://github.com/dxos/dxos/commit/3567a2b1d5a77dcaaecf8e0dece96ef7b8ddfc77,AI,AI,AI,,,,0,0,0,0,0,0,0
+752,8d5a280e50e4e8b37a742e61f5034cdf5450b22f,FinAegis/core-banking-prototype-laravel,David Lo,https://github.com/FinAegis/core-banking-prototype-laravel/commit/8d5a280e50e4e8b37a742e61f5034cdf5450b22f,AI,AI,AI,,,,0,0,0,0,0,0,0
+753,9b83a1faf31f96897a6f02d23288bec3cf1a2336,OpenMS/OpenMS,David Lo,https://github.com/OpenMS/OpenMS/commit/9b83a1faf31f96897a6f02d23288bec3cf1a2336,AI,AI,AI,,,,0,0,0,0,0,0,0
+754,5a3a740b4fef5f47e1e1e6fff833eba663b47c12,owid/etl,David Lo,https://github.com/owid/etl/commit/5a3a740b4fef5f47e1e1e6fff833eba663b47c12,AI,AI,AI,,,,0,0,0,0,0,0,0
+755,fe94e74bf85afb209c03087fee51d5e95e29521d,vaadin/flow,David Lo,https://github.com/vaadin/flow/commit/fe94e74bf85afb209c03087fee51d5e95e29521d,AI,AI,AI,,,,0,0,0,0,0,0,0
+756,182f28c1538ce0d15494cd14e27ea5db0f8ae3b3,WorkflowAI/WorkflowAI,David Lo,https://github.com/WorkflowAI/WorkflowAI/commit/182f28c1538ce0d15494cd14e27ea5db0f8ae3b3,AI,AI,AI,,,,0,0,0,0,0,0,0
+757,b00f9bc11eac6f412e7142ee066d0e85f3b292a4,dyad-sh/dyad,David Lo,https://github.com/dyad-sh/dyad/commit/b00f9bc11eac6f412e7142ee066d0e85f3b292a4,AI,AI,AI,,,,0,0,0,0,0,0,0
+758,1e3e815637f95234d80142692a636ce381be523a,Unleash/unleash,David Lo,https://github.com/Unleash/unleash/commit/1e3e815637f95234d80142692a636ce381be523a,AI,AI,AI,,,,0,0,0,0,0,0,0
+759,a21ed6bf8556726a1756e0fffc1e5c32bf3a7b61,rabbitmq-community/rstream,David Lo,https://github.com/rabbitmq-community/rstream/commit/a21ed6bf8556726a1756e0fffc1e5c32bf3a7b61,AI,AI,AI,,,,0,0,0,0,0,0,0
+760,324bca2fcbf86c19136b33d0a7edf728087d8324,AceDataCloud/Nexior,David Lo,https://github.com/AceDataCloud/Nexior/commit/324bca2fcbf86c19136b33d0a7edf728087d8324,AI,AI,AI,,,,0,0,0,0,0,0,0
+761,c1964985524a8f3d7e4889841286d2461901a7f6,pourmand1376/obsidian-custom-font,David Lo,https://github.com/pourmand1376/obsidian-custom-font/commit/c1964985524a8f3d7e4889841286d2461901a7f6,AI,AI,AI,,,,0,0,0,0,0,0,0
+762,ffbf1dfd712ab1ad5859ab356b46d7c4338940cd,opencollective/opencollective-api,David Lo,https://github.com/opencollective/opencollective-api/commit/ffbf1dfd712ab1ad5859ab356b46d7c4338940cd,AI,AI,AI,,,,0,0,0,0,0,0,0
+763,9a64c2cb6338da4100419b308a541e05f6e1fb30,xtermjs/xterm.js,David Lo,https://github.com/xtermjs/xterm.js/commit/9a64c2cb6338da4100419b308a541e05f6e1fb30,AI,AI,AI,,,,0,0,0,0,0,0,0
+764,611e02c3b74f482e6814166f60d30802b318459a,casibase/casibase,David Lo,https://github.com/casibase/casibase/commit/611e02c3b74f482e6814166f60d30802b318459a,AI,AI,AI,,,,0,0,0,0,0,0,0
+765,4cee8b30aea0658d8789523df68b25f45d9d9135,Azure/awesome-azd,David Lo,https://github.com/Azure/awesome-azd/commit/4cee8b30aea0658d8789523df68b25f45d9d9135,AI,AI,AI,,,,0,0,0,0,0,0,0
+766,8cecc71f19f375487ad393acdc972b6fe2beebe2,xlnfinance/xln,David Lo,https://github.com/xlnfinance/xln/commit/8cecc71f19f375487ad393acdc972b6fe2beebe2,AI,AI,AI,,,,0,0,0,0,0,0,0
+767,cfd24ab7026ab6df48fb72f9281515293b3dbbcf,near/nearcore,David Lo,https://github.com/near/nearcore/commit/cfd24ab7026ab6df48fb72f9281515293b3dbbcf,AI,AI,AI,,,,0,0,0,0,0,0,0
+768,d214b44e059757f3391aac2d6f049149f9d6aa98,duneanalytics/spellbook,David Lo,https://github.com/duneanalytics/spellbook/commit/d214b44e059757f3391aac2d6f049149f9d6aa98,AI,AI,AI,,,,0,0,0,0,0,0,0

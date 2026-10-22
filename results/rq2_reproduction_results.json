@@ -1,0 +1,108 @@
+{
+  "dataset_split": {
+    "total_commits": 21810,
+    "train_commits": 17450,
+    "test_commits": 4360,
+    "train_ai": 8725,
+    "train_human": 8725,
+    "test_ai": 2180,
+    "test_human": 2180
+  },
+  "model_performance": [
+    {
+      "Model": "Logistic Regression",
+      "5-fold CV F1": "0.9241 +/- 0.0052",
+      "Macro F1": 0.916,
+      "ROC-AUC": 0.9594,
+      "Precision (AI)": 0.8954,
+      "Recall (AI)": 0.9422,
+      "Accuracy": "91.61%"
+    },
+    {
+      "Model": "Random Forest",
+      "5-fold CV F1": "0.9464 +/- 0.0038",
+      "Macro F1": 0.9406,
+      "ROC-AUC": 0.9792,
+      "Precision (AI)": 0.9222,
+      "Recall (AI)": 0.9624,
+      "Accuracy": "94.06%"
+    },
+    {
+      "Model": "XGBoost",
+      "5-fold CV F1": "0.9496 +/- 0.0049",
+      "Macro F1": 0.9445,
+      "ROC-AUC": 0.9842,
+      "Precision (AI)": 0.931,
+      "Recall (AI)": 0.9601,
+      "Accuracy": "94.45%"
+    }
+  ],
+  "xgboost_confusion_matrix": {
+    "true_negatives": 2025,
+    "false_positives": 155,
+    "false_negatives": 87,
+    "true_positives": 2093
+  },
+  "top_feature_correlations": [
+    {
+      "Feature": "message_length",
+      "Kendall_tau": 0.5193,
+      "Point_Biserial_r": 0.4117,
+      "Direction": "Positive (Higher in AI)"
+    },
+    {
+      "Feature": "has_multiple_sentences",
+      "Kendall_tau": 0.7474,
+      "Point_Biserial_r": 0.7474,
+      "Direction": "Positive (Higher in AI)"
+    },
+    {
+      "Feature": "has_issue_reference",
+      "Kendall_tau": 0.3466,
+      "Point_Biserial_r": 0.3466,
+      "Direction": "Positive (Higher in AI)"
+    },
+    {
+      "Feature": "is_bugfix",
+      "Kendall_tau": 0.0797,
+      "Point_Biserial_r": 0.0797,
+      "Direction": "Positive (Higher in AI)"
+    },
+    {
+      "Feature": "is_feature",
+      "Kendall_tau": 0.2668,
+      "Point_Biserial_r": 0.2668,
+      "Direction": "Positive (Higher in AI)"
+    },
+    {
+      "Feature": "is_refactor",
+      "Kendall_tau": 0.0156,
+      "Point_Biserial_r": 0.0156,
+      "Direction": "Positive (Higher in AI)"
+    },
+    {
+      "Feature": "is_perf",
+      "Kendall_tau": 0.0447,
+      "Point_Biserial_r": 0.0447,
+      "Direction": "Positive (Higher in AI)"
+    },
+    {
+      "Feature": "is_doc",
+      "Kendall_tau": 0.0862,
+      "Point_Biserial_r": 0.0862,
+      "Direction": "Positive (Higher in AI)"
+    },
+    {
+      "Feature": "is_test",
+      "Kendall_tau": 0.1272,
+      "Point_Biserial_r": 0.1272,
+      "Direction": "Positive (Higher in AI)"
+    },
+    {
+      "Feature": "hour_of_day",
+      "Kendall_tau": 0.0068,
+      "Point_Biserial_r": 0.0078,
+      "Direction": "Positive (Higher in AI)"
+    }
+  ]
+}

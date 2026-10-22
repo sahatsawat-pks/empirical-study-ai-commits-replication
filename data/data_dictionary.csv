@@ -1,0 +1,55 @@
+Category,Feature_Name,Data_Type,Description
+Target & Metadata,validated_is_ai,Binary,"Ground-truth attribution target label (0 = Human, 1 = AI)."
+Target & Metadata,commit_sha,String,SHA-1 hash identifier for the commit.
+Target & Metadata,repo_full_name,String,GitHub repository identifier (owner/repo).
+Target & Metadata,source,String,Data source origin (AIDev or David Lo).
+Target & Metadata,pr_id,String,Parent Pull Request identifier number.
+Target & Metadata,pr_created_at,String,Timestamp of parent Pull Request creation (UTC ISO format).
+Target & Metadata,stars,Numeric,Total GitHub repository stargazers count (filtered >= 500 stars).
+Developer Identity,author_login,String,GitHub username of the commit author.
+Developer Identity,author_name,String,Git author display name reported in the commit header.
+Developer Identity,author_email,String,Git author email address.
+Developer Identity,committer_login,String,GitHub username of the committer.
+Commit Message Content,commit_message,String,Full commit message text (title plus body).
+Commit Message Content,commit_title,String,First line (summary title) of the commit message.
+Commit Message Content,commit_body,String,Body text lines of the commit message following the title.
+Commit Message Content,message_length,Numeric,Total character count in the full commit message.
+Commit Message Content,has_multiple_sentences,Binary,Flag indicating message contains >1 sentence (regex sentence boundary).
+Commit Message Content,has_issue_reference,Binary,"Flag indicating reference to an issue ID (e.g., #123, GH-45)."
+Commit Message Content,is_bugfix,Binary,"Flag indicating bug fix intent (fix, bug, patch, issue, resolve)."
+Commit Message Content,is_feature,Binary,"Flag indicating new feature intent (feat, add, new, implement)."
+Commit Message Content,is_refactor,Binary,"Flag indicating code refactoring intent (refactor, clean, simplify)."
+Commit Message Content,is_perf,Binary,"Flag indicating performance optimization intent (perf, optimize, speed)."
+Commit Message Content,is_doc,Binary,"Flag indicating documentation update intent (doc, docs, readme, comment)."
+Commit Message Content,is_test,Binary,"Flag indicating test suite modifications (test, tests, spec, coverage)."
+Temporal Behavior,hour_of_day,Numeric,UTC hour when commit was authored (0--23).
+Temporal Behavior,day_of_week,Categorical,Day of the week when authored (0 = Monday to 6 = Sunday).
+Temporal Behavior,is_weekend,Binary,Flag indicating commit authored on Saturday or Sunday.
+Temporal Behavior,is_after_hours,Binary,Flag indicating authoring outside standard working hours (before 09:00 or after 18:00 UTC).
+Temporal Behavior,temporal_consistency,Numeric,Regularity index of commit authoring timestamps.
+Code Size,additions,Numeric,Total lines of code added in the commit.
+Code Size,deletions,Numeric,Total lines of code deleted in the commit.
+Code Size,total_changed,Numeric,Total changed lines of code (additions + deletions).
+Code Size,files_changed,Numeric,Total count of files modified in the commit.
+Code Size,avg_lines_per_file,Numeric,Average modified lines per file (total_changed / files_changed).
+Code Size,addition_ratio,Numeric,Ratio of additions to total changed lines (additions / total_changed).
+Code Size,size_category,Categorical,"Binned change size category (xsmall, small, medium, large)."
+File Operations,has_added_files,Binary,Flag indicating creation of new files in the commit.
+File Operations,has_deleted_files,Binary,Flag indicating removal of existing files in the commit.
+File Operations,has_renamed_files,Binary,Flag indicating file renaming or moving in the commit.
+File Operations,is_pure_deletion,Binary,Flag indicating commit consists only of deletions (additions == 0).
+File Operations,is_bulk_change,Binary,Flag indicating massive bulk modifications (>1000 lines or >50 files).
+Temporal & PR Burstiness,pr_commit_interval_seconds,Numeric,Seconds between this commit and the previous commit in the same PR.
+Temporal & PR Burstiness,author_commit_interval_seconds,Numeric,Seconds between this commit and the same author previous commit.
+Temporal & PR Burstiness,pr_commits_in_1h_window,Numeric,Number of commits in the same PR within a 1-hour rolling window.
+Text Burstiness (Contributor Style),word_burstiness,Numeric,Goh-Barabasi burstiness score B of repeated words in the commit message (-1.0 to 1.0).
+Text Burstiness (Contributor Style),sentence_burstiness,Numeric,Coefficient of variation CV of sentence lengths in the message.
+Text Burstiness (Contributor Style),is_multi_sentence,Binary,Flag indicating if the message contains more than one sentence.
+Text Burstiness (Contributor Style),mean_inter_arrival,Numeric,Average number of words between repeated occurrences (inter-arrival distance).
+Text Burstiness (Contributor Style),mean_burst_length,Numeric,Average number of times each repeated word appears (burst cluster length).
+Text Burstiness (Contributor Style),repeated_word_count,Numeric,Count of distinct words appearing 2 or more times in the commit message.
+Text Burstiness (Contributor Style),total_word_count,Numeric,Total number of alphabetic tokens (>= 2 chars) in the commit message.
+Inline Code Comments & PR Text,comment_word_count,Numeric,Total number of words in added or modified inline code comments in the diff.
+Inline Code Comments & PR Text,comment_word_burstiness,Numeric,Word burstiness score B of repeated tokens within inline code comments (-1.0 if uncomputable).
+Inline Code Comments & PR Text,comment_sentence_burstiness,Numeric,Sentence length burstiness of code comments (-1.0 if uncomputable).
+Inline Code Comments & PR Text,pr_body_word_burstiness,Numeric,Word burstiness score B of repeated tokens in the parent Pull Request description (-1.0 if uncomputable).

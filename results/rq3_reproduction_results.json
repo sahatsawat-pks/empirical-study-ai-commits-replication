@@ -1,0 +1,222 @@
+{
+  "topic_distributions": [
+    {
+      "Topic": "Topic 1: Build & Source Maintenance",
+      "Distinctive Keywords": "ts, src, build, cli",
+      "Human (%)": "19.31%",
+      "AI (%)": "15.19%",
+      "Difference": "-4.12% (Human)"
+    },
+    {
+      "Topic": "Topic 2: Agent Docs & Workflow",
+      "Distinctive Keywords": "docs, agent, md, bot",
+      "Human (%)": "16.17%",
+      "AI (%)": "22.24%",
+      "Difference": "+6.07% (AI)"
+    },
+    {
+      "Topic": "Topic 3: Initial Planning & Setup",
+      "Distinctive Keywords": "plan, initial, issue, main",
+      "Human (%)": "21.76%",
+      "AI (%)": "9.66%",
+      "Difference": "-12.10% (Human)"
+    },
+    {
+      "Topic": "Topic 4: Feature Additions & UI/API",
+      "Distinctive Keywords": "feat, new, ui, api, model",
+      "Human (%)": "18.78%",
+      "AI (%)": "20.50%",
+      "Difference": "+1.71% (AI)"
+    },
+    {
+      "Topic": "Topic 5: Testing & Error Handling",
+      "Distinctive Keywords": "tests, test, error, handling",
+      "Human (%)": "23.98%",
+      "AI (%)": "32.42%",
+      "Difference": "+8.44% (AI)"
+    }
+  ],
+  "pca_explained_variance": {
+    "PC1": 0.1369,
+    "PC2": 0.121,
+    "total_2d": 0.2579
+  },
+  "within_topic_comparisons": [
+    {
+      "Topic": "Topic 1: Build",
+      "Feature": "message_length",
+      "Human Med.": 32.0,
+      "AI Med.": 182.0,
+      "p-value": "<0.001",
+      "Cliff's delta": "+0.8433",
+      "Effect Size": "Large"
+    },
+    {
+      "Topic": "Topic 1: Build",
+      "Feature": "has_multiple_sentences",
+      "Human Med.": 0.0,
+      "AI Med.": 1.0,
+      "p-value": "<0.001",
+      "Cliff's delta": "+0.7789",
+      "Effect Size": "Large"
+    },
+    {
+      "Topic": "Topic 2: Agent Docs",
+      "Feature": "message_length",
+      "Human Med.": 41.0,
+      "AI Med.": 145.0,
+      "p-value": "<0.001",
+      "Cliff's delta": "+0.8234",
+      "Effect Size": "Large"
+    },
+    {
+      "Topic": "Topic 2: Agent Docs",
+      "Feature": "additions",
+      "Human Med.": 10.0,
+      "AI Med.": 40.0,
+      "p-value": "<0.001",
+      "Cliff's delta": "+0.2177",
+      "Effect Size": "Small"
+    },
+    {
+      "Topic": "Topic 3: Initial Planning",
+      "Feature": "total_changed",
+      "Human Med.": 171.0,
+      "AI Med.": 0.0,
+      "p-value": "<0.001",
+      "Cliff's delta": "-0.9008",
+      "Effect Size": "Large"
+    },
+    {
+      "Topic": "Topic 3: Initial Planning",
+      "Feature": "files_changed",
+      "Human Med.": 6.0,
+      "AI Med.": 0.0,
+      "p-value": "<0.001",
+      "Cliff's delta": "-0.9060",
+      "Effect Size": "Large"
+    },
+    {
+      "Topic": "Topic 4: Feature Additions",
+      "Feature": "message_length",
+      "Human Med.": 47.0,
+      "AI Med.": 500.0,
+      "p-value": "<0.001",
+      "Cliff's delta": "+0.8022",
+      "Effect Size": "Large"
+    },
+    {
+      "Topic": "Topic 4: Feature Additions",
+      "Feature": "additions",
+      "Human Med.": 40.0,
+      "AI Med.": 117.0,
+      "p-value": "<0.001",
+      "Cliff's delta": "+0.2921",
+      "Effect Size": "Small"
+    },
+    {
+      "Topic": "Topic 5: Testing",
+      "Feature": "message_length",
+      "Human Med.": 34.0,
+      "AI Med.": 198.0,
+      "p-value": "<0.001",
+      "Cliff's delta": "+0.8527",
+      "Effect Size": "Large"
+    },
+    {
+      "Topic": "Topic 5: Testing",
+      "Feature": "has_multiple_sentences",
+      "Human Med.": 0.0,
+      "AI Med.": 1.0,
+      "p-value": "<0.001",
+      "Cliff's delta": "+0.8593",
+      "Effect Size": "Large"
+    }
+  ],
+  "stylometric_burstiness_comparisons": [
+    {
+      "Metric & Analysis Level": "Commit Message Word Burstiness (All)",
+      "Human N": 10905,
+      "Human Mean": -0.83,
+      "Human Med.": -1.0,
+      "AI N": 10905,
+      "AI Mean": -0.207,
+      "AI Med.": -1.0,
+      "p-value": "<0.001",
+      "Cliff's delta": "+0.397",
+      "Effect Size": "Medium"
+    },
+    {
+      "Metric & Analysis Level": "Commit Message Sentence Burstiness",
+      "Human N": 2115,
+      "Human Mean": 0.509,
+      "Human Med.": 0.471,
+      "AI N": 6126,
+      "AI Mean": 0.582,
+      "AI Med.": 0.573,
+      "p-value": "<0.001",
+      "Cliff's delta": "+0.211",
+      "Effect Size": "Small"
+    },
+    {
+      "Metric & Analysis Level": "Commit Body Word Burstiness",
+      "Human N": 649,
+      "Human Mean": 0.613,
+      "Human Med.": 0.663,
+      "AI N": 4560,
+      "AI Mean": 0.634,
+      "AI Med.": 0.673,
+      "p-value": "0.216",
+      "Cliff's delta": "+0.030",
+      "Effect Size": "Negligible"
+    },
+    {
+      "Metric & Analysis Level": "PR Body Word Burstiness",
+      "Human N": 663,
+      "Human Mean": 0.744,
+      "Human Med.": 0.801,
+      "AI N": 195,
+      "AI Mean": 0.827,
+      "AI Med.": 0.842,
+      "p-value": "<0.001",
+      "Cliff's delta": "+0.340",
+      "Effect Size": "Medium"
+    },
+    {
+      "Metric & Analysis Level": "Code Comment Word Count (All)",
+      "Human N": 10905,
+      "Human Mean": 802.302,
+      "Human Med.": 0.0,
+      "AI N": 10905,
+      "AI Mean": 468.888,
+      "AI Med.": 8.0,
+      "p-value": "<0.001",
+      "Cliff's delta": "+0.092",
+      "Effect Size": "Negligible"
+    },
+    {
+      "Metric & Analysis Level": "Code Comment Word Burstiness (>= 0)",
+      "Human N": 4041,
+      "Human Mean": 0.64,
+      "Human Med.": 0.688,
+      "AI N": 4997,
+      "AI Mean": 0.664,
+      "AI Med.": 0.706,
+      "p-value": "<0.001",
+      "Cliff's delta": "+0.049",
+      "Effect Size": "Negligible"
+    },
+    {
+      "Metric & Analysis Level": "Code Comment Sentence Burstiness (>= 0)",
+      "Human N": 3018,
+      "Human Mean": 1.083,
+      "Human Med.": 0.98,
+      "AI N": 3477,
+      "AI Mean": 1.005,
+      "AI Med.": 0.948,
+      "p-value": "0.003",
+      "Cliff's delta": "-0.043",
+      "Effect Size": "Negligible"
+    }
+  ]
+}

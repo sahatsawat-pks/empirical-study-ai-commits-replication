@@ -1,0 +1,14 @@
+category,label,count,share_percent,description
+classification_result,AI,313354,99.82,Confirmed AI commits matching strong rules
+classification_result,Not_Found,347,0.11,Repository or commit deleted or private (HTTP 404/422)
+classification_result,Excluded_Bot,192,0.06,"Automation and lint bots (Dependabot, Renovate, autofix-ci)"
+classification_result,Human,34,0.01,No AI signal found under any rule
+rule_usage_frequency,Rule 3: Co-authored-by trailer,193342,61.7,Git trailer Co-authored-by detected
+rule_usage_frequency,Rule 4: Author email,135407,43.2,Author email matching AI tool patterns
+rule_usage_frequency,Rule 1: Actor login,135070,43.1,Actor login matching AI bot accounts
+rule_usage_frequency,Rule 6: Bot account authorship,134179,42.8,Explicit bot account authoring commits
+rule_usage_frequency,Rule 7: Semantic attribution phrase,76632,24.5,Code comments or body with explicit AI generation text
+rule_usage_frequency,Rule 2: Author name,50699,16.2,Author name matching AI agent tools
+rule_usage_frequency,Rule 8: Zero-diff planning,17808,5.7,Copilot Initial plan commits with 0 files modified
+disagreement_analysis,Excluded Bots,192,84.96,"Dependency/CI bots excluded by Rule 6: vaadin/flow (53), pdfme/pdfme (16), angular-architects/ngrx-toolkit (12)"
+disagreement_analysis,Confirmed Human (False Positives in Upstream),34,15.04,"Human software engineers at CodeRabbit, Codeium, Tabnine, StackBlitz, Supermaven"

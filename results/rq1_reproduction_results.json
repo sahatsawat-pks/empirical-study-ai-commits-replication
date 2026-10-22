@@ -1,0 +1,56 @@
+{
+  "validation_sample": {
+    "aidev_commits": 384,
+    "aidev_agreements": 377,
+    "aidev_agreement_pct": 98.18,
+    "aidev_cohen_kappa": 0.9632,
+    "david_lo_commits": 384,
+    "david_lo_match_rate_pct": 100.0
+  },
+  "positive_control_revalidation": {
+    "total_commits": 313927,
+    "repositories": 6299,
+    "confirmed_ai": 313354,
+    "confident_agreement_pct": 99.93,
+    "not_found": 347,
+    "excluded_bots": 192,
+    "confirmed_humans": 34
+  },
+  "rule_usage_frequencies": [
+    {
+      "label": "Rule 3: Co-authored-by trailer",
+      "count": 193342,
+      "share_percent": 61.7
+    },
+    {
+      "label": "Rule 4: Author email",
+      "count": 135407,
+      "share_percent": 43.2
+    },
+    {
+      "label": "Rule 1: Actor login",
+      "count": 135070,
+      "share_percent": 43.1
+    },
+    {
+      "label": "Rule 6: Bot account authorship",
+      "count": 134179,
+      "share_percent": 42.8
+    },
+    {
+      "label": "Rule 7: Semantic attribution phrase",
+      "count": 76632,
+      "share_percent": 24.5
+    },
+    {
+      "label": "Rule 2: Author name",
+      "count": 50699,
+      "share_percent": 16.2
+    },
+    {
+      "label": "Rule 8: Zero-diff planning",
+      "count": 17808,
+      "share_percent": 5.7
+    }
+  ]
+}
